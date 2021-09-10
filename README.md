@@ -2,9 +2,15 @@
 
 💬 Ask me about: https://anonystick.com
 
-Mình tổng hợp những bài viết lên đây cho anh em tiện theo dõi cho nhanh.
+Mình tổng hợp những bài viết gần đây cho anh em tiện theo dõi cho nhanh.
 
-## javascript
+## Redis
+
+[cache penetration vs cachebreakdown](https://anonystick.com/blog-developer/redis-cache-penetration-vs-cache-breakdown-2021090327198739)
+
+## Firebase
+
+[sendmulticast với firebase > 500 tokens](https://anonystick.com/blog-developer/sendmulticast-firebase-500-tokens-2021090696569871)
 
 ## Tài nguyên học 
 
