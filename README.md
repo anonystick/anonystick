@@ -60,9 +60,19 @@ Chapter 3: [Thực hành Redis và Nodejs | Sử dụng redis cloud FREE kết h
 
 Chapter 4: [REDIS và 3 sự cố phổ biến khi sử dụng nodejs | Cache avalanche | Cache breakdown | Cache penetration](https://youtu.be/VE1oTBR0gig)
 
-### 👉 Series Architecture
+Chapter 5: [Redis là gì? Bài học này đủ để bắt đầu | Là một Backend bạn đã từng gặp những trường hợp này chưa?](https://youtu.be/HSknuSIoK6A)
+
+### 👉 Series Backend Architecture
 
 Chapter 1: [CDN là gì? Với 1 PHÚT ai cũng hiểu vì sao lại sử dụng CDN và nếu không có CDN thì sao?](https://youtu.be/77m4cQN35G8)
+
+Chapter 2: [Api Gateway kết hợp Backend for FrontEnd (BFF) như HỔ mọc thêm CÁNH | Lộ trình trở thành Backend](https://youtu.be/_KE9VYR8rXE)
+
+Chapter 3: [High Availability là gì? Tiết lộ CÔNG THỨC tính cho phép hệ thống DIE mỗi NĂM  vs 3 cách triển khai](https://youtu.be/EKLVEQs3USA)
+
+Chapter 4: [Backend Developer Nếu ai hỏi xong LoadBalancer rồi thì CHÚNG TA sẽ làm gì? Hãy đưa video này cho họ](https://youtu.be/QAW9YFidqn8)
+
+Chapter 5: [Lộ trình trở thành BACKEND Developer TÔI đã quyết tâm khi nhìn thấy kiến trúc của hệ thống này - 01](https://youtu.be/M4AFU8CNtk4)
 
 ### 👉 Series Database
 
