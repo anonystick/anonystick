@@ -60,6 +60,8 @@ Link youtube: https://www.youtube.com/c/TipsJavascript/
 
 8 - [Send OTP hiệu quả và ALICONCON đã dùng cách này](https://youtu.be/rdvjxRRvVF0)
 
+9 - [Build An eCommerce ALICONCON Using An API](https://youtu.be/IOorKo7qLYc)
+
 ### 👉 Series Git vs GitFlow
 
 1 - [Học GIT qua những tình huống thực tế giữa tôi và TEAM l Git cherry pick l Git stash l Git reset](https://youtu.be/41KMhNTq5tA)
@@ -83,6 +85,8 @@ Link youtube: https://www.youtube.com/c/TipsJavascript/
 6 - [Node.js developer roadmap | Backend Service](https://youtu.be/8YE_waVWa7A)
 
 7 - [Điều gì xảy ra khi User nhập một Url | Phỏng vấn Backend](https://youtu.be/mD7tf2a8mug)
+
+8 - [E2E là gì? Vì sao ZALO lại nâng cấp | Cách triển khai thuật toán trong NODE.JS vs MONGODB](https://youtu.be/Q4jR42L9UlA)
 
 ### 👉 Series firebase vs socket.io
 
@@ -120,11 +124,19 @@ Chapter 6: [Browser In The Browser (BITB) Attack](https://youtu.be/lHSwa7pBPD4)
 
 ### 👉 Series Database
 
+0 - [Học Mongodb quan trọng nhất là bài học này | MongoDB Schema Design Best Practices | Nodejs Tutorial](https://youtu.be/yXbz-DRvFRk)
+
 1 - [Nếu sử dụng MySQL thiết kế model Products thì đồng nghiệp tôi đã làm cách này hiệu quả ngang Mongodb](https://youtu.be/qblPthhsqR4)
 
 2 - [Redis vs MySQL Để check QPS (query per second) tôi phải đến năm thứ 4 lập trình mới biết về sysbench](https://youtu.be/dpDGXbe_LeE)
 
 3 - [Statics methods virtual in mongoose - node.js](https://youtu.be/xEh1ggoU8zI)
+
+4 - [Bucket Pattern Mongodb -  Cách phân trang và tìm hiểu ưu và nhược của mô hình này | Phù hợp với IoT](https://youtu.be/4DwqZPTtUpE)
+
+5 - [Hiểu atomic trong mongodb và xem thực tế cách sử dụng findOneAndUpdate tiền đề cho Bucket Pattern](https://youtu.be/EVACo8bfU48)
+
+6 - [3 cách phân trang trong databases thể hiện ở dự án stackoverflow, reddit, facebook và hack news](https://youtu.be/EOqKXH8Ztrg)
 
 ### 👉 Series Design Patterns
 
