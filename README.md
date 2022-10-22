@@ -62,9 +62,9 @@ Chapter6: [Proxy Pattern](https://youtu.be/Z3mPTWuFw00)
 
 Series RabbitMQ:
 
-Chapter 1: [RabbitMQ là gì? Với 6 chế độ, 4 công tắc người phỏng vấn biết bạn đã hiểu đến đâu về Message Queue](https://youtu.be/DQRj7I3PcuM)
+Chapter 1: [RabbitMQ (1) là gì? Với 6 chế độ, 4 công tắc người phỏng vấn biết bạn đã hiểu đến đâu về Message Queue](https://youtu.be/DQRj7I3PcuM)
 
-Chapter 2: [RabbitMQ tìm hiểu tiếp hoạt động Producer vs Consumer instal docker RabbitMQ và Cloud Free](https://youtu.be/WVPNHLNu5m4)
+Chapter 2: [RabbitMQ (2) tìm hiểu tiếp hoạt động Producer vs Consumer instal docker RabbitMQ và Cloud Free](https://youtu.be/WVPNHLNu5m4)
 
 Chapter 3: [RabbitMQ (3) Cách Send và Receive một Message vào QUEUE với NODEJS Và tôi đã thấy một số vấn đề sau.](https://youtu.be/--8OCUUqzTk)
 
