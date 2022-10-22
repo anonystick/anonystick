@@ -30,25 +30,39 @@
 
 Link youtube: https://www.youtube.com/c/TipsJavascript/
 
-Mình tổng hợp những bài viết gần đây cho anh em tiện theo dõi cho nhanh.
-
-## Redis
-
-[cache penetration vs cachebreakdown](https://anonystick.com/blog-developer/redis-cache-penetration-vs-cache-breakdown-2021090327198739)
-
-## Firebase
-
-[sendmulticast với firebase > 500 tokens](https://anonystick.com/blog-developer/sendmulticast-firebase-500-tokens-2021090696569871)
-
 ## Tài nguyên học 
 
 Đây là khu vực dành cho tài liệu và khuyến khích học ở các nguồn này.
+
+### 👉 Series Javascript
+
+1 - [Dùng IF ELSE hay SWITCH thế này cho tôi hỏi các bạn LẬP TRÌNH VIÊN, cách CODE của tôi có sai không?](https://youtu.be/-YgvJwcrCrI)
+
+### 👉 Series Restful Api
+
+1 - [Hóa ra đây là phần hoàn chỉnh về bảo mật REST API nếu bạn là một Backend sử dụng NodeJS build API](https://youtu.be/z8qrSG2j1fo)
+
+2 - [Backend Nodejs vs thuật toán trao đổi KEY API Diffie Hellman và 2 ví dụ mã hóa của bác PHẠM XUÂN ẨN](https://youtu.be/so0myCu8EGY)
+
+3 - [2 cách ngăn chặn replay attacks API đối với HACKERS của kỹ sư cấp cao API | Nonce vs timestamp](https://youtu.be/HXMJD4mN4bY)
+
+4 - [Các hệ thống tính toán lượt VIEWS chính xác như thế nào nếu nhiều IP xem videos một lúc | Backend](https://youtu.be/BKuNdc92ltI)
+
+### 👉 Series Git vs GitFlow
+
+1 - [Học GIT qua những tình huống thực tế giữa tôi và TEAM l Git cherry pick l Git stash l Git reset](https://youtu.be/41KMhNTq5tA)
+
+2 - [Tôi chưa bao giờ hiểu Git Rebase và Git Merge cho đến khi Sếp giải thích cho tôi như thế này | Git](https://youtu.be/l0VtRcPz1ME)
+
+3 - [Tóm tắt toàn diện về việc sử dụng Git và quy trình làm việc của GitFlow và sếp yêu cầu tôi phải học](https://youtu.be/vQgcl8VouLU)
 
 ### 👉 Series Nodejs
 
 Chapter 1: [Thực hành Redis và Nodejs | Sử dụng redis cloud FREE kết hợp Redisinsight](https://youtu.be/bkSdxT1Vk4s)
 
 Chapter 2: [REDIS và 3 sự cố phổ biến khi sử dụng nodejs | Cache avalanche | Cache breakdown | Cache penetration](https://youtu.be/VE1oTBR0gig)
+
+Chapter 3: [Push or Pull ngăn xếp công nghệ nào được FACEBOOK và INSTAGRAM lựa chọn phát triển NEWS FEED?](https://youtu.be/qu3Lc2evkTw)
 
 ### 👉 Series Redis
 
@@ -73,6 +87,8 @@ Chapter 3: [High Availability là gì? Tiết lộ CÔNG THỨC tính cho phép 
 Chapter 4: [Backend Developer Nếu ai hỏi xong LoadBalancer rồi thì CHÚNG TA sẽ làm gì? Hãy đưa video này cho họ](https://youtu.be/QAW9YFidqn8)
 
 Chapter 5: [Lộ trình trở thành BACKEND Developer TÔI đã quyết tâm khi nhìn thấy kiến trúc của hệ thống này - 01](https://youtu.be/M4AFU8CNtk4)
+
+Chapter 6: [Browser In The Browser (BITB) Attack](https://youtu.be/lHSwa7pBPD4)
 
 ### 👉 Series Database
 
