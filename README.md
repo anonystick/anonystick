@@ -38,6 +38,10 @@ Link youtube: https://www.youtube.com/c/TipsJavascript/
 
 1 - [Dùng IF ELSE hay SWITCH thế này cho tôi hỏi các bạn LẬP TRÌNH VIÊN, cách CODE của tôi có sai không?](https://youtu.be/-YgvJwcrCrI)
 
+2 - [Stop sử dụng typeof trong javascript và đây là giải pháp | JavaScript check data type](https://youtu.be/kPRyWBzzUJE)
+
+3 - [Stars Calculator Javascript](https://youtube.com/shorts/NpzHbENGRO4)
+
 ### 👉 Series Restful Api
 
 1 - [Hóa ra đây là phần hoàn chỉnh về bảo mật REST API nếu bạn là một Backend sử dụng NodeJS build API](https://youtu.be/z8qrSG2j1fo)
@@ -47,6 +51,14 @@ Link youtube: https://www.youtube.com/c/TipsJavascript/
 3 - [2 cách ngăn chặn replay attacks API đối với HACKERS của kỹ sư cấp cao API | Nonce vs timestamp](https://youtu.be/HXMJD4mN4bY)
 
 4 - [Các hệ thống tính toán lượt VIEWS chính xác như thế nào nếu nhiều IP xem videos một lúc | Backend](https://youtu.be/BKuNdc92ltI)
+
+5 - [Giải pháp này giúp aliconcon.com giải quyết bán không vượt hàng tồn kho trong eCommerce Rest api p-6](https://youtu.be/OQcAhKwF2oI)
+
+6 - [Bạn muốn biết 2 cách quản lý tồn kho mà Tiki Shopee đang sử dụng | Kiến trúc backend eCommerce](https://youtu.be/qHqMB47liwQ)
+
+7 - [Design product model | 90% trang TMĐT đều triển khai theo cách này | Performance 99% | app aliconcon](https://youtu.be/1sTAklCy4zk)
+
+8 - [Send OTP hiệu quả và ALICONCON đã dùng cách này](https://youtu.be/rdvjxRRvVF0)
 
 ### 👉 Series Git vs GitFlow
 
@@ -58,11 +70,23 @@ Link youtube: https://www.youtube.com/c/TipsJavascript/
 
 ### 👉 Series Nodejs
 
-Chapter 1: [Thực hành Redis và Nodejs | Sử dụng redis cloud FREE kết hợp Redisinsight](https://youtu.be/bkSdxT1Vk4s)
+1 - [Thực hành Redis và Nodejs | Sử dụng redis cloud FREE kết hợp Redisinsight](https://youtu.be/bkSdxT1Vk4s)
 
-Chapter 2: [REDIS và 3 sự cố phổ biến khi sử dụng nodejs | Cache avalanche | Cache breakdown | Cache penetration](https://youtu.be/VE1oTBR0gig)
+2 - [REDIS và 3 sự cố phổ biến khi sử dụng nodejs | Cache avalanche | Cache breakdown | Cache penetration](https://youtu.be/VE1oTBR0gig)
 
-Chapter 3: [Push or Pull ngăn xếp công nghệ nào được FACEBOOK và INSTAGRAM lựa chọn phát triển NEWS FEED?](https://youtu.be/qu3Lc2evkTw)
+3 - [Push or Pull ngăn xếp công nghệ nào được FACEBOOK và INSTAGRAM lựa chọn phát triển NEWS FEED?](https://youtu.be/qu3Lc2evkTw)
+
+5 - [How Facebook encodes Videos | Become a better developer in 10 seconds a day](https://youtu.be/Ig6vJWcm_JI)
+
+4 - [Popular interview question: What is the difference between Process and Thread? 10 seconds a day](https://youtu.be/0bvwcq_W4gg)
+
+6 - [Node.js developer roadmap | Backend Service](https://youtu.be/8YE_waVWa7A)
+
+7 - [Điều gì xảy ra khi User nhập một Url | Phỏng vấn Backend](https://youtu.be/mD7tf2a8mug)
+
+### 👉 Series firebase vs socket.io
+
+1 - [Firebase chats | Cách tổ chức dữ liệu members, messages và bảo mật thông tin chats | Rules Firebase](https://youtu.be/TWSWymrSmiE)
 
 ### 👉 Series Redis
 
@@ -75,6 +99,10 @@ Chapter 3: [Thực hành Redis và Nodejs | Sử dụng redis cloud FREE kết h
 Chapter 4: [REDIS và 3 sự cố phổ biến khi sử dụng nodejs | Cache avalanche | Cache breakdown | Cache penetration](https://youtu.be/VE1oTBR0gig)
 
 Chapter 5: [Redis là gì? Bài học này đủ để bắt đầu | Là một Backend bạn đã từng gặp những trường hợp này chưa?](https://youtu.be/HSknuSIoK6A)
+
+Chapter 6: [Redis đâu phải chỉ làm cache? Hãy xem đàn em mô phỏng shopping carts của amazon sử dụng redis](https://youtu.be/lMf0tBKfgPw)
+
+Chapter 7: [Design 4 models mongodb quan trọng orders, carts, products, inventories trong System eCommerce P - 5](https://youtu.be/tMAe893baIs)
 
 ### 👉 Series Backend Architecture
 
@@ -92,9 +120,11 @@ Chapter 6: [Browser In The Browser (BITB) Attack](https://youtu.be/lHSwa7pBPD4)
 
 ### 👉 Series Database
 
-Chapter 1: [Nếu sử dụng MySQL thiết kế model Products thì đồng nghiệp tôi đã làm cách này hiệu quả ngang Mongodb](https://youtu.be/qblPthhsqR4)
+1 - [Nếu sử dụng MySQL thiết kế model Products thì đồng nghiệp tôi đã làm cách này hiệu quả ngang Mongodb](https://youtu.be/qblPthhsqR4)
 
-Chapter 2: [Redis vs MySQL Để check QPS (query per second) tôi phải đến năm thứ 4 lập trình mới biết về sysbench](https://youtu.be/dpDGXbe_LeE)
+2 - [Redis vs MySQL Để check QPS (query per second) tôi phải đến năm thứ 4 lập trình mới biết về sysbench](https://youtu.be/dpDGXbe_LeE)
+
+3 - [Statics methods virtual in mongoose - node.js](https://youtu.be/xEh1ggoU8zI)
 
 ### 👉 Series Design Patterns
 
