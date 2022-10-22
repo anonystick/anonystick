@@ -44,6 +44,27 @@ Mình tổng hợp những bài viết gần đây cho anh em tiện theo dõi c
 
 Đây là khu vực dành cho tài liệu và khuyến khích học ở các nguồn này.
 
+### 👉 Series Nodejs
+
+Chapter 1: [Thực hành Redis và Nodejs | Sử dụng redis cloud FREE kết hợp Redisinsight](https://youtu.be/bkSdxT1Vk4s)
+Chapter 2: [REDIS và 3 sự cố phổ biến khi sử dụng nodejs | Cache avalanche | Cache breakdown | Cache penetration](https://youtu.be/VE1oTBR0gig)
+
+### 👉 Series Redis
+
+Chapter 1: [Connect Nodejs Redis async await với 3 level khác nhau và cách nào hiệu quả hơn](https://youtu.be/EXv_NCNXH7c)
+Chapter 2: [Redis vs MySQL Để check QPS (query per second) tôi phải đến năm thứ 4 lập trình mới biết về sysbench](https://youtu.be/dpDGXbe_LeE)
+Chapter 3: [Thực hành Redis và Nodejs | Sử dụng redis cloud FREE kết hợp Redisinsight](https://youtu.be/bkSdxT1Vk4s)
+Chapter 4: [REDIS và 3 sự cố phổ biến khi sử dụng nodejs | Cache avalanche | Cache breakdown | Cache penetration](https://youtu.be/VE1oTBR0gig)
+
+### 👉 Series Architecture
+
+Chapter 1: [CDN là gì? Với 1 PHÚT ai cũng hiểu vì sao lại sử dụng CDN và nếu không có CDN thì sao?](https://youtu.be/77m4cQN35G8)
+
+### 👉 Series Database
+
+Chapter 1: [Nếu sử dụng MySQL thiết kế model Products thì đồng nghiệp tôi đã làm cách này hiệu quả ngang Mongodb](https://youtu.be/qblPthhsqR4)
+Chapter 2: [Redis vs MySQL Để check QPS (query per second) tôi phải đến năm thứ 4 lập trình mới biết về sysbench](https://youtu.be/dpDGXbe_LeE)
+
 ### 👉 Series Design Patterns
 
 Chapter1: [Design patterns là gì? Từ cuộc sống đến lập trình và cách học trong 1 tuần (mẹo)](https://anonystick.com/blog-developer/design-patterns-la-gi-tu-cuoc-song-den-lap-trinh-va-cach-hoc-trong-1-tuan-meo-kem-tai-lieu-va-source-2022083174167426)
