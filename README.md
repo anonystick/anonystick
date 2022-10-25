@@ -34,6 +34,10 @@ Link youtube: https://www.youtube.com/c/TipsJavascript/
 
 Đây là khu vực dành cho tài liệu và khuyến khích học ở các nguồn này.
 
+### 👉 Series Developer Interview Series
+
+1 - [Developer Interview Series: Backend (1) Forward Proxy vs Reverse Proxy Trăm nghe không bằng một thấy](https://youtu.be/zdOVvu3RGOo)
+
 ### 👉 Series Javascript
 
 1 - [Dùng IF ELSE hay SWITCH thế này cho tôi hỏi các bạn LẬP TRÌNH VIÊN, cách CODE của tôi có sai không?](https://youtu.be/-YgvJwcrCrI)
