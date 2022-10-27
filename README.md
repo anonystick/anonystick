@@ -168,6 +168,8 @@ Chapter 3: [RabbitMQ (3) Cách Send và Receive một Message vào QUEUE với N
 
 Chapter 4: [RabbitMQ (4) Giải quyết vấn đề độ tin cậy trong queue (noAck, ttl, durable, persistent) phía Backend](https://youtu.be/az2VNMgNFrk)
 
+Chapter 5: [RabbitMQ (5) Đỉnh cao mô hình Publish Subscribe với Node.js và so sánh với mô hình của Redis.](https://youtu.be/IMAzNKNUpZc)
+
 <!--
 **anonystick/anonystick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
