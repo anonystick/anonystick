@@ -193,6 +193,10 @@ Chapter 4: [RabbitMQ (4) Giải quyết vấn đề độ tin cậy trong queue 
 
 Chapter 5: [RabbitMQ (5) Đỉnh cao mô hình Publish Subscribe với Node.js và so sánh với mô hình của Redis.](https://youtu.be/IMAzNKNUpZc)
 
+### 👉 Series ElasticSearch
+
+Chuẩn bị...
+
 <!--
 **anonystick/anonystick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
