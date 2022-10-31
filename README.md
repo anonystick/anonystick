@@ -50,6 +50,15 @@ Link youtube: https://www.youtube.com/c/TipsJavascript/
 
 3 - [Stars Calculator Javascript](https://youtube.com/shorts/NpzHbENGRO4)
 
+4 - [Ai nói forEach là xấu khi làm việc với Loops with Async / Await | Nodejs tutorial | Cách tôi FIX](https://youtu.be/luzg3zpN0SY)
+
+5 - [Sự khác nhau giữa việc return await và không có await trong Promise | Async Await | Nodejs tutorial](https://youtu.be/NzzcRHpmhJk)
+
+6 - [Lợi ích của Promise so với async-await đa số người chưa biết về 3 cách  | Promises or async-await](https://youtu.be/0WJK4rWlw_0)
+
+7 - [Sơ lược vòng đời của Event loop callback promise async await trong Javascript qua chuyện tăng lương](https://youtu.be/HhWDDG52M1E)
+
+
 ### 👉 Series Restful Api
 
 1 - [Hóa ra đây là phần hoàn chỉnh về bảo mật REST API nếu bạn là một Backend sử dụng NodeJS build API](https://youtu.be/z8qrSG2j1fo)
@@ -69,6 +78,8 @@ Link youtube: https://www.youtube.com/c/TipsJavascript/
 8 - [Send OTP hiệu quả và ALICONCON đã dùng cách này](https://youtu.be/rdvjxRRvVF0)
 
 9 - [Build An eCommerce ALICONCON Using An API](https://youtu.be/IOorKo7qLYc)
+
+10 - [Bucket Pattern Mongodb -  Cách phân trang và tìm hiểu ưu và nhược của mô hình này | Phù hợp với IoT](https://youtu.be/4DwqZPTtUpE)
 
 ### 👉 Series Git vs GitFlow
 
@@ -96,9 +107,15 @@ Link youtube: https://www.youtube.com/c/TipsJavascript/
 
 8 - [E2E là gì? Vì sao ZALO lại nâng cấp | Cách triển khai thuật toán trong NODE.JS vs MONGODB](https://youtu.be/Q4jR42L9UlA)
 
+9 - [CORS là gì? Chỉ cần thêm vài line code là xong ngay | Using CORS in Express | Nodejs Tutorial](https://youtu.be/VuXakfARDC4)
+
 ### 👉 Series firebase vs socket.io
 
 1 - [Firebase chats | Cách tổ chức dữ liệu members, messages và bảo mật thông tin chats | Rules Firebase](https://youtu.be/TWSWymrSmiE)
+
+2 - [Socket.io authentication express | Socket io jwt | Nodejs tutorial](https://youtu.be/OcskWwBV0j0)
+
+3 - [Socket.io triển khai theo MVC Express | Best practice question involving Socket.io and MVC | Nodejs](https://youtu.be/jY3aDAYNq_Q)
 
 ### 👉 Series Redis
 
@@ -130,7 +147,7 @@ Chapter 5: [Lộ trình trở thành BACKEND Developer TÔI đã quyết tâm kh
 
 Chapter 6: [Browser In The Browser (BITB) Attack](https://youtu.be/lHSwa7pBPD4)
 
-### 👉 Series Database
+### 👉 Series Database (Mysql, Mongodb)
 
 0 - [Học Mongodb quan trọng nhất là bài học này | MongoDB Schema Design Best Practices | Nodejs Tutorial](https://youtu.be/yXbz-DRvFRk)
 
@@ -145,6 +162,8 @@ Chapter 6: [Browser In The Browser (BITB) Attack](https://youtu.be/lHSwa7pBPD4)
 5 - [Hiểu atomic trong mongodb và xem thực tế cách sử dụng findOneAndUpdate tiền đề cho Bucket Pattern](https://youtu.be/EVACo8bfU48)
 
 6 - [3 cách phân trang trong databases thể hiện ở dự án stackoverflow, reddit, facebook và hack news](https://youtu.be/EOqKXH8Ztrg)
+
+7 - [E2E là gì? Vì sao ZALO lại nâng cấp | Cách triển khai thuật toán trong NODE.JS vs MONGODB](https://youtu.be/Q4jR42L9UlA)
 
 ### 👉 Series Design Patterns
 
