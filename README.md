@@ -38,6 +38,10 @@ Link youtube: https://www.youtube.com/c/TipsJavascript/
 
 1 - [Developer Interview Series: Backend (1) Forward Proxy vs Reverse Proxy Trăm nghe không bằng một thấy](https://youtu.be/zdOVvu3RGOo)
 
+2 - [Developer Interview (2): Cookie vs Session đến lúc phải làm rõ mối quan hệ với SessionID](https://youtu.be/noxqc_CpVLQ)
+
+3 - [Developer Interview Series (3) Token (jwt) sinh ra thay cho Session với tình huống nào?? Gợi ý 3 cách](https://youtu.be/yv9vCIhfZEk)
+
 ### 👉 Series Javascript
 
 1 - [Dùng IF ELSE hay SWITCH thế này cho tôi hỏi các bạn LẬP TRÌNH VIÊN, cách CODE của tôi có sai không?](https://youtu.be/-YgvJwcrCrI)
