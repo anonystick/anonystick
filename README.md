@@ -81,6 +81,8 @@ Link youtube: https://www.youtube.com/c/TipsJavascript/
 
 10 - [Bucket Pattern Mongodb -  Cách phân trang và tìm hiểu ưu và nhược của mô hình này | Phù hợp với IoT](https://youtu.be/4DwqZPTtUpE)
 
+11 - [Token (JWT) Làm sao thu hồi một token bị HACK và một vài câu hỏi về mức độ an toàn khi sử dụng token](https://youtu.be/93fTk16-st0)
+
 ### 👉 Series Git vs GitFlow
 
 1 - [Học GIT qua những tình huống thực tế giữa tôi và TEAM l Git cherry pick l Git stash l Git reset](https://youtu.be/41KMhNTq5tA)
@@ -195,7 +197,7 @@ Chapter 5: [RabbitMQ (5) Đỉnh cao mô hình Publish Subscribe với Node.js v
 
 ### 👉 Series ElasticSearch
 
-Chuẩn bị...
+1 - [ELK Stack là gì? Tôi đã bắt đầu tìm hiểu Elasticsearch và Kibana với thao tác nhanh gọn lẹ như sau](https://youtu.be/Bs41dR_Kf-0)
 
 <!--
 **anonystick/anonystick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
