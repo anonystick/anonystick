@@ -58,6 +58,20 @@ Link youtube: https://www.youtube.com/c/TipsJavascript/
 
 7 - [Sơ lược vòng đời của Event loop callback promise async await trong Javascript qua chuyện tăng lương](https://youtu.be/HhWDDG52M1E)
 
+### 👉 Series Json Web Token (JWT)
+
+1 - [Using refresh token create new token (11) | NODE.JS API Authentication](https://youtu.be/-_fxOtzK44U)
+
+2 - [Blacklist and Refresh Tokens (JWT) with Redis (12) | NODE.JS API Authentication](https://youtu.be/PP_7AvltBBM)
+
+3 - [Nhận AccessToken mới khi Token hết hạn mà người dùng không cần login lại như Facebook | Axios API](https://youtu.be/7fKjiBcBj3E)
+
+4 - [REST Security với JWT có lẽ đây là phương pháp tốt nhất AccessToken hết hạn hiện nay](https://youtu.be/nONm8yu_9gE)
+
+5 - [Developer Interview Series (3) Token (jwt) sinh ra thay cho Session với tình huống nào?? ợi ý 3 cách](https://youtu.be/yv9vCIhfZEk)
+
+6 - [Token (JWT) Làm sao thu hồi một token bị HACK và một vài câu hỏi về mức độ an toàn khi sử dụng token](https://youtu.be/93fTk16-st0)
+
 
 ### 👉 Series Restful Api
 
