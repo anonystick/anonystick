@@ -72,6 +72,7 @@ Link youtube: https://www.youtube.com/c/TipsJavascript/
 
 6 - [Token (JWT) Làm sao thu hồi một token bị HACK và một vài câu hỏi về mức độ an toàn khi sử dụng token](https://youtu.be/93fTk16-st0)
 
+7 - [Token (JWT) Triển khai hệ thống tự động phát hiện Token đã được sử dụng bởi Hacker và cách xử lý!](https://youtu.be/1HHvCfAu008)
 
 ### 👉 Series Restful Api
 
