@@ -214,6 +214,8 @@ Chapter 5: [RabbitMQ (5) Đỉnh cao mô hình Publish Subscribe với Node.js v
 
 1 - [ELK Stack là gì? Tôi đã bắt đầu tìm hiểu Elasticsearch và Kibana với thao tác nhanh gọn lẹ như sau](https://youtu.be/Bs41dR_Kf-0)
 
+2 - [Thực hành Kinaba cách tạo Index, Mapping thao tác CRUD và tối ưu hóa dữ liệu trong Elasticsearch (2)](https://youtu.be/HrGVCCjRDZQ)
+
 <!--
 **anonystick/anonystick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
