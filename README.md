@@ -42,6 +42,8 @@ Link youtube: https://www.youtube.com/c/TipsJavascript/
 
 3 - [Developer Interview Series (3) Token (jwt) sinh ra thay cho Session với tình huống nào?? Gợi ý 3 cách](https://youtu.be/yv9vCIhfZEk)
 
+4 - [Bạn mong muốn mức LƯƠNG bao nhiêu? Và 3 cách trả lời của TÔI khiến Nhà Tuyển Dụng phải suy nghĩ?](https://www.youtube.com/watch?v=mtQGdn1Y3WQ)
+
 ### 👉 Series Javascript
 
 1 - [Dùng IF ELSE hay SWITCH thế này cho tôi hỏi các bạn LẬP TRÌNH VIÊN, cách CODE của tôi có sai không?](https://youtu.be/-YgvJwcrCrI)
