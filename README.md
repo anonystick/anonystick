@@ -198,6 +198,10 @@ Chapter5: [Facade pattern | Mức độ khó (★☆☆☆☆) | Mức độ ph�
 
 Chapter6: [Proxy Pattern](https://youtu.be/Z3mPTWuFw00)
 
+### 👉 Series SOLID 
+
+1 - [Áp dụng nguyên tắc SOLID vào dự án eCommerce | Chữ S ở đây là gì? | Phần 1 | Series SOLID Javascript](https://youtu.be/a0wDsf9YjSw)
+
 ### 👉 Series RabbitMQ Node.js 
 
 Series RabbitMQ:
