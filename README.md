@@ -222,6 +222,15 @@ Chapter 5: [RabbitMQ (5) Đỉnh cao mô hình Publish Subscribe với Node.js v
 
 2 - [Thực hành Kinaba cách tạo Index, Mapping thao tác CRUD và tối ưu hóa dữ liệu trong Elasticsearch (2)](https://youtu.be/HrGVCCjRDZQ)
 
+
+### 👉 eBOOKs
+
+1 - [Redis - Caching at Scale With Redis](https://redis.com/wp-content/uploads/2021/12/caching-at-scale-with-redis-updated-2021-12-04.pdf)
+
+2 - [Redis - Redis Microservices for Dummies](https://redis.com/wp-content/uploads/2021/09/redis-microservices-fd.pdf)
+
+3 - [Redis - Redis in action](https://pepa.holla.cz/wp-content/uploads/2016/08/Redis-in-Action.pdf)
+
 <!--
 **anonystick/anonystick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
