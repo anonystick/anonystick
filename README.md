@@ -100,6 +100,8 @@ Link youtube: https://www.youtube.com/c/TipsJavascript/
 
 11 - [Token (JWT) Làm sao thu hồi một token bị HACK và một vài câu hỏi về mức độ an toàn khi sử dụng token](https://youtu.be/93fTk16-st0)
 
+12 - [Hệ thống BackEnd tắc nghẽn ở giờ CAO ĐIỂM Tôi dựa vào công thức tính QPS và bài toán định luật 80/20](https://youtu.be/uZhe6O_JXM8)
+
 ### 👉 Series Git vs GitFlow
 
 1 - [Học GIT qua những tình huống thực tế giữa tôi và TEAM l Git cherry pick l Git stash l Git reset](https://youtu.be/41KMhNTq5tA)
@@ -127,6 +129,8 @@ Link youtube: https://www.youtube.com/c/TipsJavascript/
 8 - [E2E là gì? Vì sao ZALO lại nâng cấp | Cách triển khai thuật toán trong NODE.JS vs MONGODB](https://youtu.be/Q4jR42L9UlA)
 
 9 - [CORS là gì? Chỉ cần thêm vài line code là xong ngay | Using CORS in Express | Nodejs Tutorial](https://youtu.be/VuXakfARDC4)
+
+10 - [Node.js 19 đã phát hành và những tính năng DEVs KHÔNG THỂ bỏ qua với BACKEND | Release What’s New](https://youtu.be/MBs9BmArgCc)
 
 ### 👉 Series firebase vs socket.io
 
