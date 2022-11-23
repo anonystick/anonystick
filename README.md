@@ -226,6 +226,9 @@ Chapter 5: [RabbitMQ (5) Đỉnh cao mô hình Publish Subscribe với Node.js v
 
 2 - [Thực hành Kinaba cách tạo Index, Mapping thao tác CRUD và tối ưu hóa dữ liệu trong Elasticsearch (2)](https://youtu.be/HrGVCCjRDZQ)
 
+3 - [Elasticsearch Bạn có CHẮC là bạn sử dụng ĐÚNG những lệnh SEARCH dữ liệu của các tình huống SAU ĐÂY ?](https://youtu.be/hUOgRS6dEVQ)
+
+4 - ....
 
 ### 👉 eBOOKs
 
