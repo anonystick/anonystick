@@ -60,6 +60,8 @@ Link youtube: https://www.youtube.com/c/TipsJavascript/
 
 7 - [Sơ lược vòng đời của Event loop callback promise async await trong Javascript qua chuyện tăng lương](https://youtu.be/HhWDDG52M1E)
 
+8 - [ECMAScript 2022 (ES13) Những tính năng được tuyệt vời FrontEnd hay Backend cần học trong Javascript](https://youtu.be/BmcGtkABKu0)
+
 ### 👉 Series Json Web Token (JWT)
 
 1 - [Using refresh token create new token (11) | NODE.JS API Authentication](https://youtu.be/-_fxOtzK44U)
