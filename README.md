@@ -62,6 +62,8 @@ Link youtube: https://www.youtube.com/c/TipsJavascript/
 
 8 - [ECMAScript 2022 (ES13) Những tính năng được tuyệt vời FrontEnd hay Backend cần học trong Javascript](https://youtu.be/BmcGtkABKu0)
 
+9 - [Tips Javascript - Tổng hợp những tính năng 80% lập trình Javascript thường được sử dụng trong DỰ ÁN](https://youtu.be/x2xkzvG1NDg)
+
 ### 👉 Series Json Web Token (JWT)
 
 1 - [Using refresh token create new token (11) | NODE.JS API Authentication](https://youtu.be/-_fxOtzK44U)
