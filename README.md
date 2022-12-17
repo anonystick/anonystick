@@ -64,6 +64,18 @@ Link youtube: https://www.youtube.com/c/TipsJavascript/
 
 9 - [Tips Javascript - Tổng hợp những tính năng 80% lập trình Javascript thường được sử dụng trong DỰ ÁN](https://youtu.be/x2xkzvG1NDg)
 
+### 👉 CHAT GPT - OPEN AI
+
+1 - [ChatGPT nó quá thông minh có thể lập trình viên  và một số ngành khác sẽ thất nghiệp ???](https://youtu.be/ICB80lXwcwQ)
+
+2 - [Câu trả lời quá BẤT NGỜ: Tôi hỏi con CHAT GPT: "Thiết kế cho tao một model comments with MongoDB?"](https://youtu.be/_kYOxnAK9J8)
+
+3 - [CHATGPT vs Node.js - Build a Service app CHAT in my COMPANY use OpenAI - (1)](https://youtu.be/hk8TVn3Y9Is)
+
+### 👉 Series "Build model comments use mongodb"
+
+1 - [(1) Triển khai hệ thống comments trong ứng dụng Mongodb | index mongodb | b - tree | birary - tree](https://youtu.be/XPtlC1YeRwU)
+
 ### 👉 Series Json Web Token (JWT)
 
 1 - [Using refresh token create new token (11) | NODE.JS API Authentication](https://youtu.be/-_fxOtzK44U)
