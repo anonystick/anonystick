@@ -254,6 +254,8 @@ Chapter 5: [RabbitMQ (5) Đỉnh cao mô hình Publish Subscribe với Node.js v
 
 3 - [Redis - Redis in action](https://pepa.holla.cz/wp-content/uploads/2016/08/Redis-in-Action.pdf)
 
+4 - [2023 Frontend Development interview checklist and Roadmap](https://github.com/anonystick/frontend-learning-kit)
+
 <!--
 **anonystick/anonystick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
