@@ -256,6 +256,12 @@ Chapter 5: [RabbitMQ (5) Đỉnh cao mô hình Publish Subscribe với Node.js v
 
 4 - [2023 Frontend Development interview checklist and Roadmap](https://github.com/anonystick/frontend-learning-kit)
 
+### 👉 Blogs
+
+1 - [Ưu nhược điểm của cơ sở dữ liệu quan hệ](https://www.simplethread.com/relational-databases-arent-dinosaurs-theyre-sharks/)
+
+2 - [8 quan niệm sai lầm về hệ thống phân tán](https://architecturenotes.co/fallacies-of-distributed-systems/)
+
 <!--
 **anonystick/anonystick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
