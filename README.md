@@ -266,6 +266,8 @@ Chapter 5: [RabbitMQ (5) Đỉnh cao mô hình Publish Subscribe với Node.js v
 
 2 - [8 quan niệm sai lầm về hệ thống phân tán](https://architecturenotes.co/fallacies-of-distributed-systems/)
 
+3 - [Cách Tìm Ý tưởng Khởi nghiệp](https://liorn.substack.com/p/a-summary-of-my-learnings-on-how)
+
 <!--
 **anonystick/anonystick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
