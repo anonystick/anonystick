@@ -38,6 +38,8 @@ Link youtube: https://www.youtube.com/c/TipsJavascript/
 
 1 - [13 tips cần BIẾT của một BackEnd khi Building a Project REST API with Node.js and Express - Phần 1](https://youtu.be/sQj2c7dEj2o)
 
+2 - [( Phần 2) 13 tips cần BIẾT của một lập trình BackEnd khi bắt đầu xây dựng  REST API](https://youtu.be/sQj2c7dEj2o)
+
 ### 👉 Series Developer Interview Series
 
 1 - [Developer Interview Series: Backend (1) Forward Proxy vs Reverse Proxy Trăm nghe không bằng một thấy](https://youtu.be/zdOVvu3RGOo)
