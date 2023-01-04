@@ -40,6 +40,8 @@ Link youtube: https://www.youtube.com/c/TipsJavascript/
 
 2 - [( Phần 2) 13 tips cần BIẾT của một lập trình BackEnd khi bắt đầu xây dựng  REST API](https://youtu.be/sQj2c7dEj2o)
 
+3 - [(3) Build Node.js Backend Architecture PRO: Vì sao Router phải được triển khai bởi LEADER thực hành](https://youtu.be/FxpXlZz-dh8)
+
 ### 👉 Series Developer Interview Series
 
 1 - [Developer Interview Series: Backend (1) Forward Proxy vs Reverse Proxy Trăm nghe không bằng một thấy](https://youtu.be/zdOVvu3RGOo)
