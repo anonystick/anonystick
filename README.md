@@ -226,6 +226,8 @@ Chapter5: [Facade pattern | Mức độ khó (★☆☆☆☆) | Mức độ ph�
 
 Chapter6: [Proxy Pattern](https://youtu.be/Z3mPTWuFw00)
 
+Chapter7: [Simple factory pattern](https://youtu.be/O6TsDdKtyz0)
+
 ### 👉 Series SOLID 
 
 1 - [Áp dụng nguyên tắc SOLID vào dự án eCommerce | Chữ S ở đây là gì? | Phần 1 | Series SOLID Javascript](https://youtu.be/a0wDsf9YjSw)
