@@ -224,9 +224,11 @@ Chapter4: [Push or Pull ngăn xếp công nghệ nào được FACEBOOK và INST
 
 Chapter5: [Facade pattern | Mức độ khó (★☆☆☆☆) | Mức độ phổ biến (★★★★★)](https://youtu.be/zK_sNkfzugs)
 
-Chapter6: [Proxy Pattern](https://youtu.be/Z3mPTWuFw00)
+Chapter 6: [Proxy Pattern](https://youtu.be/Z3mPTWuFw00)
 
-Chapter7: [Simple factory pattern](https://youtu.be/O6TsDdKtyz0)
+Chapter 7: [Simple factory pattern](https://youtu.be/O6TsDdKtyz0)
+
+Chapter 8: [Factory Method Pattern](https://youtu.be/54-rJHUM2L8)
 
 ### 👉 Series SOLID 
 
