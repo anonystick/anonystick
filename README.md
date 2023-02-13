@@ -80,6 +80,8 @@ Link youtube: https://www.youtube.com/c/TipsJavascript/
 
 3 - [CHATGPT vs Node.js - Build a Service app CHAT in my COMPANY use OpenAI - (1)](https://youtu.be/hk8TVn3Y9Is)
 
+4 - [CHATGPT (Microsoft) vs BARD (Google) Cùng HỎI một CÂU nhưng CÓ sự khác biệt? Lần này BARD ghi điểm ?](https://youtu.be/OvUliuwLJMg)
+
 ### 👉 Series "Build model comments use mongodb"
 
 1 - [(1) Triển khai hệ thống comments trong ứng dụng Mongodb | index mongodb | b - tree | birary - tree](https://youtu.be/XPtlC1YeRwU)
