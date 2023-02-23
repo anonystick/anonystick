@@ -52,6 +52,8 @@ Link youtube: https://www.youtube.com/c/TipsJavascript/
 
 4 - [Bạn mong muốn mức LƯƠNG bao nhiêu? Và 3 cách trả lời của TÔI khiến Nhà Tuyển Dụng phải suy nghĩ?](https://www.youtube.com/watch?v=mtQGdn1Y3WQ)
 
+5 - [5 chiến lược triển khai NÂNG CAO khi di chuyển hệ thống BackEnd CŨ sang MỚI: Hướng dẫn toàn diện.](https://youtu.be/j0dchuY2DSk)
+
 ### 👉 Series Javascript
 
 1 - [Dùng IF ELSE hay SWITCH thế này cho tôi hỏi các bạn LẬP TRÌNH VIÊN, cách CODE của tôi có sai không?](https://youtu.be/-YgvJwcrCrI)
