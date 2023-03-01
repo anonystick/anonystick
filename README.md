@@ -106,6 +106,8 @@ Link youtube: https://www.youtube.com/c/TipsJavascript/
 
 7 - [Token (JWT) Triển khai hệ thống tự động phát hiện Token đã được sử dụng bởi Hacker và cách xử lý!](https://youtu.be/1HHvCfAu008)
 
+8 - [Cách triển khai thuật toán CHẶN HACKER chiếm JWT cho dù đánh cắp KEYSECRET trong database | JWT](https://youtu.be/pK3oBX0vB38)
+
 ### 👉 Series Restful Api
 
 1 - [Hóa ra đây là phần hoàn chỉnh về bảo mật REST API nếu bạn là một Backend sử dụng NodeJS build API](https://youtu.be/z8qrSG2j1fo)
