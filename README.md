@@ -54,7 +54,9 @@ Link youtube: https://www.youtube.com/c/TipsJavascript/
 
 5 - [5 chiến lược triển khai NÂNG CAO khi di chuyển hệ thống BackEnd CŨ sang MỚI: Hướng dẫn toàn diện.](https://youtu.be/j0dchuY2DSk)
 
-6 - [Kubernetes vs Docker: Hiểu trước sau đó là cách triển khai hoạt động giữa thực tế và microservices](https://youtu.be/gQVWGj3h1pM)
+6 - [Kubernetes vs Docker: Hiểu trước sau đó là cách triển khai hoạt động giữa thực tế và microservices](https://youtu.be/gQVWGj3h1pM)\
+
+7 - [Load Balancing vs Api-gateway: Dùng thế nào và ở đâu?](https://www.youtube.com/watch?v=jUQQ7WPjqnI)
 
 ### 👉 Series Javascript
 
