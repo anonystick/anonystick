@@ -34,6 +34,10 @@ Link youtube: https://www.youtube.com/c/TipsJavascript/
 
 Đây là khu vực dành cho tài liệu và khuyến khích học ở các nguồn này.
 
+### 👉 Con đường lập trình viên (thứ 4 hàng tuần lúc 20:45)
+
+1 - [Thực hành CODE về kiến trúc Load Balancing vs Api-Gateway](https://www.youtube.com/watch?v=dQAXlR77cEk)
+
 ### 👉 Series Building a Project REST API with Node.js and Express PRO
 
 1 - [13 tips cần BIẾT của một BackEnd khi Building a Project REST API with Node.js and Express - Phần 1](https://youtu.be/sQj2c7dEj2o)
@@ -42,7 +46,7 @@ Link youtube: https://www.youtube.com/c/TipsJavascript/
 
 3 - [(3) Build Node.js Backend Architecture PRO: Vì sao Router phải được triển khai bởi LEADER thực hành](https://youtu.be/FxpXlZz-dh8)
 
-### 👉 Series Developer Interview Series
+### 👉 Series Kiến trúc trong backend
 
 1 - [Developer Interview Series: Backend (1) Forward Proxy vs Reverse Proxy Trăm nghe không bằng một thấy](https://youtu.be/zdOVvu3RGOo)
 
