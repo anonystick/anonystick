@@ -294,6 +294,10 @@ Chapter 5: [RabbitMQ (5) Đỉnh cao mô hình Publish Subscribe với Node.js v
 
 4 - ....
 
+## Kinh nghiệm phỏng vấn từ a-z 
+
+1 - [CV là quan trọng, làm thế nào có một CV chuẩn (có mẫu CV đính kèm)](https://www.youtube.com/watch?v=boOhNAhgOk8)
+
 ### 👉 eBOOKs
 
 1 - [Redis - Caching at Scale With Redis](https://redis.com/wp-content/uploads/2021/12/caching-at-scale-with-redis-updated-2021-12-04.pdf)
