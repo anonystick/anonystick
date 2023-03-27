@@ -56,6 +56,14 @@ LINK ĐĂNG KÝ - [Link dăng ký khóa học, tham gia hội viên](https://www
 
 Đây là khu vực dành cho tài liệu và khuyến khích học ở các nguồn này.
 
+### 👉 Series **Mongodb Design Patterns**
+
+1 - [Đã có MySQL tại sao chúng ta cần MongoDB? Cách giải quyết DỮ LIỆU siêu lớn MongoDB](https://youtu.be/TlxWi81Z4Y0)
+
+2 - [Nói về Index Mongodb, nếu bạn tài giỏi vui lòng trả lời câu hỏi sau đây](https://youtu.be/n3yRC2HBrPw)
+
+13 - [Triển khai hệ thống comments trong ứng dụng Mongodb | index mongodb | b - tree | birary - tree](https://youtu.be/XPtlC1YeRwU)
+
 ### 👉 Con đường lập trình viên (thứ 4 hàng tuần lúc 20:45)
 
 1 - [Thực hành CODE về kiến trúc Load Balancing vs Api-Gateway](https://www.youtube.com/watch?v=dQAXlR77cEk)
@@ -113,10 +121,6 @@ LINK ĐĂNG KÝ - [Link dăng ký khóa học, tham gia hội viên](https://www
 3 - [CHATGPT vs Node.js - Build a Service app CHAT in my COMPANY use OpenAI - (1)](https://youtu.be/hk8TVn3Y9Is)
 
 4 - [CHATGPT (Microsoft) vs BARD (Google) Cùng HỎI một CÂU nhưng CÓ sự khác biệt? Lần này BARD ghi điểm ?](https://youtu.be/OvUliuwLJMg)
-
-### 👉 Series "Build model comments use mongodb"
-
-1 - [(1) Triển khai hệ thống comments trong ứng dụng Mongodb | index mongodb | b - tree | birary - tree](https://youtu.be/XPtlC1YeRwU)
 
 ### 👉 Series Json Web Token (JWT)
 
