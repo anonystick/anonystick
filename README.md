@@ -50,6 +50,18 @@ LINK ĐĂNG KÝ - [Link dăng ký khóa học, tham gia hội viên](https://www
 
 8 - [Make Your API Response use class](https://youtu.be/mvMEn5ofnlQ)
 
+9 - [Login Shop API](https://youtu.be/0O1PlClhmIc)
+
+10 - [Logout vs Authentication](https://youtu.be/vXhNEryxP0E)
+
+11 - [RefreshToken và phát hiện token đã sử dụng bởi hacker và cách xử lý](https://youtu.be/S8yvvRag6Kk)
+
+11.V2 -  [FIXED Bug bị sai và tối ưu hơn so với phiên bản cũ](https://youtu.be/sR3YViTbFJ8)
+
+12 - [Create schema Product](https://youtu.be/j1Qb_qMNXzE)
+
+13 - [Create new Product API, áp dụng Factory Pattern](https://youtu.be/57fGKY_zbT4)
+
 ...
 
 ## Tài nguyên học 
