@@ -80,6 +80,8 @@ LINK ĐĂNG KÝ - [Link dăng ký khóa học, tham gia hội viên](https://www
 
 3 - [Polymorphic Pattern Mongodb: Giải pháp thiết kế PRODUCT](https://youtu.be/9fBNtR6yU98)
 
+4 - [Attribute Pattern Mongodb: Giải pháp thiết kế sizeStoreINDEX](https://youtu.be/48RTknpjmkk)
+
 13 - [Triển khai hệ thống comments trong ứng dụng Mongodb | index mongodb | b - tree | birary - tree](https://youtu.be/XPtlC1YeRwU)
 
 ### 👉 Con đường lập trình viên (thứ 4 hàng tuần lúc 20:45)
