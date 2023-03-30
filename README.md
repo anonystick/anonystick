@@ -56,11 +56,15 @@ LINK ĐĂNG KÝ - [Link dăng ký khóa học, tham gia hội viên](https://www
 
 11 - [RefreshToken và phát hiện token đã sử dụng bởi hacker và cách xử lý](https://youtu.be/S8yvvRag6Kk)
 
-11.V2 -  [FIXED Bug bị sai và tối ưu hơn so với phiên bản cũ](https://youtu.be/sR3YViTbFJ8)
+11.V2 - [FIXED Bug bị sai và tối ưu hơn so với phiên bản cũ](https://youtu.be/sR3YViTbFJ8)
 
 12 - [Create schema Product](https://youtu.be/j1Qb_qMNXzE)
 
 13 - [Create new Product API, áp dụng Factory Pattern](https://youtu.be/57fGKY_zbT4)
+
+14 - [ Api Service Products (Optimal For <= Junior )](https://youtu.be/SCSCiPRba50)
+
+15 - [ Api Service Products (Optimal For > Junior )]
 
 ...
 
