@@ -140,6 +140,12 @@ LINK ĐĂNG KÝ - [Link dăng ký khóa học, tham gia hội viên](https://www
 
 4 - [CHATGPT (Microsoft) vs BARD (Google) Cùng HỎI một CÂU nhưng CÓ sự khác biệt? Lần này BARD ghi điểm ?](https://youtu.be/OvUliuwLJMg)
 
+5 - [GPT 4 - Hướng dẫn sử dụng MIỄN PHÍ không giới hạn GPT-4 và không cần ĐĂNG KÝ | CHAT GPT-4](https://youtu.be/8y-DSOnMnO0)
+
+6 - [Đây là video được tạo bằng CHAT GPT 3.5 turbo. Vui lòng liên hệ lấy Source Code](https://www.youtube.com/watch?v=diDMvK3TFXY)
+
+7 - [Share Source: Sử dụng CHAT GPT 3.5 tự động làm SHORT VIDEO (tiktok, youtube) | Kèm account FREE]
+
 ### 👉 Series Json Web Token (JWT)
 
 1 - [Using refresh token create new token (11) | NODE.JS API Authentication](https://youtu.be/-_fxOtzK44U)
