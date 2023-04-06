@@ -82,6 +82,10 @@ LINK ĐĂNG KÝ - [Link dăng ký khóa học, tham gia hội viên](https://www
 
 4 - [Attribute Pattern Mongodb: Giải pháp thiết kế sizeStoreINDEX](https://youtu.be/48RTknpjmkk)
 
+5 - [Bucket pattern: Bí mật trong e-Commerce hay IoT](https://youtu.be/EXzaoPWo7sk)
+
+6 - [Subset Pattern MongoDB:  App lớn sẽ làm gì? Họ đưa giải pháp và đưa vào thực tế mà nhanh như vậy?](https://youtu.be/CQzxsR8hnHQ)
+
 13 - [Triển khai hệ thống comments trong ứng dụng Mongodb | index mongodb | b - tree | birary - tree](https://youtu.be/XPtlC1YeRwU)
 
 ### 👉 Con đường lập trình viên (thứ 4 hàng tuần lúc 20:45)
