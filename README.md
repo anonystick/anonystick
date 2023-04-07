@@ -64,8 +64,9 @@ LINK ĐĂNG KÝ - [Link dăng ký khóa học, tham gia hội viên](https://www
 
 14 - [ Api Service Products (Optimal For <= Junior )](https://youtu.be/SCSCiPRba50)
 
-15 - [ Api Service Products (Optimal For > Junior )]
+15 - [ Api Service Products (Optimal For > Junior )](https://youtu.be/T5rkuB8ca_g)
 
+16 - [Add tính năng isDraft, isPublish, unPublish và bổ sung schema Product Service API](https://youtu.be/ZD5cWfsZO3A)
 ...
 
 ## Tài nguyên học 
