@@ -302,6 +302,8 @@ Chapter 7: [Simple factory pattern](https://youtu.be/O6TsDdKtyz0)
 
 Chapter 8: [Factory Method Pattern](https://youtu.be/54-rJHUM2L8)
 
+Chapter 9: [Prototype Pattern](https://youtu.be/Wn2Bwi4qHl0)
+
 ### 👉 Series SOLID 
 
 1 - [Áp dụng nguyên tắc SOLID vào dự án eCommerce | Chữ S ở đây là gì? | Phần 1 | Series SOLID Javascript](https://youtu.be/a0wDsf9YjSw)
