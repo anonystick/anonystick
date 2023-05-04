@@ -68,6 +68,20 @@ LINK ĐĂNG KÝ - [Link dăng ký khóa học, tham gia hội viên](https://www
 
 16 - [Add tính năng isDraft, isPublish, unPublish và bổ sung schema Product Service API](https://youtu.be/ZD5cWfsZO3A)
 
+17 - [Tính năng còn lại, findAll, findOne, selectData, unSelectData trong Product Service API](https://youtu.be/pKbdGrQGVJk)
+
+18 - [Update với POST, PUT, PATCH trong Product Service API](https://youtu.be/w3dpcns7zj4)
+
+19 - [Api Service Inventories](https://youtu.be/VYOlDxdcehY)
+
+20 - [Discount Model](https://youtu.be/-jhjxo7TW1g)
+
+21 - [Discount Service in eCommerce with 6 features](https://youtu.be/77kTtMdnqek)
+
+22 - [Discount Service in eCommerce with 6 features Part 2 - FULL](https://youtu.be/nVH56wVEDCg)
+
+23 - [Section 23: Cart Service in eCommerce Part 1 | Cart Model vs add product to cart [User]](https://youtu.be/HQkAB2z4OcI)
+
 ...
 
 ## Tài nguyên học 
@@ -93,6 +107,26 @@ LINK ĐĂNG KÝ - [Link dăng ký khóa học, tham gia hội viên](https://www
 ### 👉 Con đường lập trình viên (thứ 4 hàng tuần lúc 20:45)
 
 1 - [Thực hành CODE về kiến trúc Load Balancing vs Api-Gateway](https://www.youtube.com/watch?v=dQAXlR77cEk)
+
+2 - [Làm thế nào design bảo mật WEB API cho hệ thống của bạn? | Systems Architecture | 23](https://youtu.be/dSgXDKiLLvw)
+
+3 - [Sau khi lướt qua 100 CV thì tôi nghĩ Lập Trình Viên nên theo PHƯƠNG PHÁP này (Mẫu CV đính kèm)](https://youtu.be/boOhNAhgOk8)
+
+4 - [Triển Khai CODE: Bảo mật giữa Postman(FE) và Node.js(BE) sử dụng thuật toán HMAC | Phần 23](https://youtu.be/wAyQ0Q2NpGQ)
+
+5 - [Lập trình viên có thể làm gì khác sau 40? 3 lối thoát mà bạn tôi (U50) đạt được thật kỳ lạ.](https://youtu.be/CP4Xc1lbKCk)
+
+6 - [Tại sao một công ty lại quy định tất cả các giao diện UPDATE đều sử dụng  PATCH mà không PUT, POST?](https://youtu.be/-khw4pjvdYE)
+
+7 - [Thật tốt để CODE về nguyên tắc lập trình tuần tự, song song và đồng thời theo cách đường CAO TỐC](https://youtu.be/9VBRHwYDY7A)
+
+8 - [Node.js 20  phát hành NÊN học tính nằng này không cần phải nhiều?| What's new in Node v20?](https://youtu.be/SnFxlqFPjtQ)
+
+9 - [Xem 3 cách CODE này bạn mới thấy được sự lợi hại về lập trình parallel và concurrent | Nodejs](https://youtu.be/CBhPFo3Lz4M)
+
+10 - [Tập trung 3 tính năng này của NODE.JS vậy tôi hỏi các bạn tôi có sai không? | Podcast Lập Trình Viên](https://youtu.be/vqPqf7GQE3s)
+
+11 - [Stream Nodejs - Xem hai ví dụ sau để thấy cốt lõi của lập trình viên khí sử dụng tính năng Stream](https://youtu.be/AiPuHlyP8qM)
 
 ### 👉 Series Building a Project REST API with Node.js and Express PRO
 
