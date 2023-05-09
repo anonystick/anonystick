@@ -128,6 +128,12 @@ LINK ĐĂNG KÝ - [Link dăng ký khóa học, tham gia hội viên](https://www
 
 11 - [Stream Nodejs - Xem hai ví dụ sau để thấy cốt lõi của lập trình viên khí sử dụng tính năng Stream](https://youtu.be/AiPuHlyP8qM)
 
+12 - [Event loop Nodejs - Lần cuối giải thích cho những bạn còn NGHI NGỜ thông qua hai VÍ DỤ kinh điển](https://youtu.be/GVx47SJYZhI)
+
+13 - [[PodCast] - AUDIO - NO CODE | Kỹ năng tiềm ẩn của một Lập Trình Viên Cao Cấp | Con đường đến Lập Trình Viên (28)](https://youtu.be/sr8Y65_epz0)
+
+14 - [[Node.js] - Process nextTick là gì? Tôi sẽ chứng minh đẳng cấp NẾU không sử dụng nó thì sẽ có thể sập Server ?](https://youtu.be/WTmhaKrIK44)
+
 ### 👉 Series Building a Project REST API with Node.js and Express PRO
 
 1 - [13 tips cần BIẾT của một BackEnd khi Building a Project REST API with Node.js and Express - Phần 1](https://youtu.be/sQj2c7dEj2o)
