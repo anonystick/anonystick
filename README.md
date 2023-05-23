@@ -134,6 +134,10 @@ LINK ĐĂNG KÝ - [Link dăng ký khóa học, tham gia hội viên](https://www
 
 14 - [[Node.js] - Process nextTick là gì? Tôi sẽ chứng minh đẳng cấp NẾU không sử dụng nó thì sẽ có thể sập Server ?](https://youtu.be/WTmhaKrIK44)
 
+15 - [[[PodCast] - AUDIO - NO CODE | Lương thế nào với khối lượng công việc của kinh nghiệm nghề Lập Trình Viên không nên nói](https://youtu.be/_7SDtcl4_cg)
+
+16 - [[[PodCast] - AUDIO - NO CODE | Level của lập trình viên đáng giá bao nhiêu? Nhiều hay ít thùy thuộc vào hằng số này?](https://youtu.be/TuOaN_lAphg))
+
 ### 👉 Series Building a Project REST API with Node.js and Express PRO
 
 1 - [13 tips cần BIẾT của một BackEnd khi Building a Project REST API with Node.js and Express - Phần 1](https://youtu.be/sQj2c7dEj2o)
