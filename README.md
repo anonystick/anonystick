@@ -138,7 +138,7 @@ LINK ĐĂNG KÝ - [Link dăng ký khóa học, tham gia hội viên](https://www
 
 16 - [[[PodCast] - AUDIO - NO CODE | Level của lập trình viên đáng giá bao nhiêu? Nhiều hay ít thùy thuộc vào hằng số này?](https://youtu.be/TuOaN_lAphg))
 
-39 - [[MySQL] - Thử Config Mysql PoolConnect xem thử 96 connects  nhanh hơn gấp 50 lần so với 1000 connects (Có GIT)](https://youtu.be/TuOaN_lAphg](https://youtu.be/AjzeZ8nzJ8E)
+39 - [MySQL- Thử Config Mysql PoolConnect xem thử 96 connects  nhanh hơn gấp 50 lần so với 1000 connects (Có GIT)](https://youtu.be/AjzeZ8nzJ8E)
 
 ### 👉 Series Building a Project REST API with Node.js and Express PRO
 
