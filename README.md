@@ -80,7 +80,24 @@ LINK ĐĂNG KÝ - [Link dăng ký khóa học, tham gia hội viên](https://www
 
 22 - [Discount Service in eCommerce with 6 features Part 2 - FULL](https://youtu.be/nVH56wVEDCg)
 
-23 - [Section 23: Cart Service in eCommerce Part 1 | Cart Model vs add product to cart [User]](https://youtu.be/HQkAB2z4OcI)
+23 - [Section 23: Cart Service in eCommerce Part 1 | Cart Model vs add product to cart](https://youtu.be/HQkAB2z4OcI)
+
+24 - [Section 24: Cart Service Api Part 2 | Update, reduce, increase product](https://youtu.be/Ezf_10SsfWs)
+
+25 - [Section 25: Order Service Api (part 1)](https://youtu.be/rpoQjTm9In4)
+
+26 - [Section 26: Order service Part 2 | Tiếp đến là Redis chuyên sâu](https://youtu.be/mswayRA-870)
+
+27 - [Redis - Nguồn cảm hứng bất tận](https://youtu.be/QEUQsBXRFJk)
+
+28 - [Redis - Hôm nay tôi đi phỏng vấn về Redis có 5 câu hỏi dành cho tôi và bạn | Node.js backend](https://youtu.be/u5-flcmINc4)
+
+29 - [String Redis: Cấu trúc, lệnh phổ biến và kịch bản nào sử dụng?](https://youtu.be/X7NiSVo_NHE)
+
+30 - [Hash Redis: Cấu trúc, lệnh phổ biến và kịch bản ứng dụng](https://youtu.be/uz73HbycDLM)
+
+31 - [List Redis: Cấu trúc, lệnh phổ biến và kịch bản ứng dụng](https://youtu.be/zwDT1KDlNF8)
+
 
 ...
 
