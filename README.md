@@ -98,6 +98,9 @@ LINK ĐĂNG KÝ - [Link dăng ký khóa học, tham gia hội viên](https://www
 
 31 - [List Redis: Cấu trúc, lệnh phổ biến và kịch bản ứng dụng](https://youtu.be/zwDT1KDlNF8)
 
+32 - [Xây dựng hệ thống loggers sử dụng Discord vào dự án eCommerce Backend Node.js | Auto Bot](https://youtu.be/c6-ZDgz7SCo)
+
+33 - [Export Service Push Log Router backend lên Discord với Postman eCommerce Backend Node.js| Auto Bot](https://youtu.be/aBiVefqfuR0)
 
 ...
 
