@@ -102,6 +102,16 @@ LINK ĐĂNG KÝ - [Link dăng ký khóa học, tham gia hội viên](https://www
 
 33 - [Export Service Push Log Router backend lên Discord với Postman eCommerce Backend Node.js| Auto Bot](https://youtu.be/aBiVefqfuR0)
 
+34- [Redis Sets: Cấu trúc, lệnh phổ biến và kịch bản ứng dụng](https://youtu.be/SLGE0L-Ndo8)
+
+35: [Redis Zset: Cấu trúc, lệnh phổ biến và kịch bản ứng dụng](https://youtu.be/8fw-VnP3Zq0)
+
+36: [Redis Transaction: Cấu trúc, lệnh phổ biến và kịch bản ứng dụng](https://youtu.be/63x7fIW5CkQ)
+
+37: [Redis Pub/Sub: Cấu trúc, lệnh phổ biến và kịch bản ứng dụng](https://youtu.be/U_Zy4ec_Kes)
+
+38: [Triển khai hệ thống Nested Comments eCommerce](https://youtu.be/CVF8QXumS00)
+
 ...
 
 ## Tài nguyên học 
