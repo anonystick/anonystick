@@ -110,7 +110,9 @@ LINK ĐĂNG KÝ - [Link dăng ký khóa học, tham gia hội viên](https://www
 
 37: [Redis Pub/Sub: Cấu trúc, lệnh phổ biến và kịch bản ứng dụng](https://youtu.be/U_Zy4ec_Kes)
 
-38: [Triển khai hệ thống Nested Comments eCommerce](https://youtu.be/CVF8QXumS00)
+38: [Triển khai hệ thống Nested Comments eCommerce - 1 ](https://youtu.be/CVF8QXumS00)
+
+39: [Triển khai hệ thống Nested Comments eCommerce - 2 ](https://youtu.be/2rYyw1FSIPc)
 
 ...
 
