@@ -2,7 +2,7 @@
 
 * [**Video All**](https://www.youtube.com/@anonystick)
 
-# 2.JavaScript Books
+# 2.JavaScript Books - Data Structures & Algorithms
 
 ## :rocket: A Common-Sense Guide to Data Structures and Algorithms - Level Up Your Core Programming Skills
 
@@ -23,3 +23,8 @@
 
 * [**Download**](/javascript/Data-Structures-and-Algorithms.pdf)
 * size: 3.4 MB
+
+# 3. Link Sources Code
+
+* [**Sources Code 01**](https://github.com/trekhleb/javascript-algorithms/tree/master)
+* [**Sources Code 02**](https://github.com/everthis/leetcode-js)
