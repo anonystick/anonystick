@@ -1,6 +1,6 @@
 # 1.Javascript Videos
 
-[** Video All **](https://www.youtube.com/@anonystick)
+* [**Video All**](https://www.youtube.com/@anonystick)
 
 # 2.JavaScript Books
 
