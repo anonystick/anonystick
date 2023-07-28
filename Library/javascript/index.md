@@ -18,3 +18,8 @@
 
 * [**Download**](/javascript/Learning-JavaScript-Data-Structures-and-Algorithms-Second-Edition.pdf)
 * size: 29.4 MB
+
+## :rocket: Data Structures and Algorithms (2019) - School of Computer Science University of Birmingham Birmingham, UK
+
+* [**Download**](/javascript/Data-Structures-and-Algorithms.pdf)
+* size: 3.4 MB
