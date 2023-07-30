@@ -6,7 +6,7 @@
 
 ## :rocket: A Common-Sense Guide to Data Structures and Algorithms - Level Up Your Core Programming Skills
 
-* [**Download**](/javascript/A-Common-Sense-Guide-to-Data-Structures-and-Algorithms-Level-Up-Your-Core-Programming-Skills.pdf)
+* [**Download**](../javascript/A-Common-Sense-Guide-to-Data-Structures-and-Algorithms-Level-Up-Your-Core-Programming-Skills.pdf)
 * size: 6.6 MB
 
 ## :rocket: Data Structures & Algorithms with JavaScript
