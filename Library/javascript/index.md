@@ -11,17 +11,17 @@
 
 ## :rocket: Data Structures & Algorithms with JavaScript
 
-* [**Download**](/javascript/Data-Structures-&-Algorithms-with-JavaScript.pdf)
+* [**Download**](../javascript/Data-Structures-&-Algorithms-with-JavaScript.pdf)
 * size: 8.7 MB
 
 ## :rocket: Learning JavaScript Data Structures and Algorithms - Second Edition
 
-* [**Download**](/javascript/Learning-JavaScript-Data-Structures-and-Algorithms-Second-Edition.pdf)
+* [**Download**](../javascript/Learning-JavaScript-Data-Structures-and-Algorithms-Second-Edition.pdf)
 * size: 29.4 MB
 
 ## :rocket: Data Structures and Algorithms (2019) - School of Computer Science University of Birmingham Birmingham, UK
 
-* [**Download**](/javascript/Data-Structures-and-Algorithms.pdf)
+* [**Download**](../javascript/Data-Structures-and-Algorithms.pdf)
 * size: 3.4 MB
 
 # 3. Link Sources Code
