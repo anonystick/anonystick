@@ -114,6 +114,12 @@ LINK ĐĂNG KÝ - [Link dăng ký khóa học, tham gia hội viên](https://www
 
 39: [Triển khai hệ thống Nested Comments eCommerce - 2 ](https://youtu.be/2rYyw1FSIPc)
 
+40: [Triển khai hệ thống Notifications eCommerce ShopDEV (1)](https://youtu.be/HCTET_WQR1I)
+
+41: [Phân tích hành vi User áp dụng PUSH or PULL trong task Notification System (quan trọng)](https://youtu.be/7vFWLGBihhE)
+
+42:  [Notifications Service vs Tiếp đến là tách Message Queue System](https://youtu.be/dAefZUW3fOQ)
+
 ...
 
 ## Tài nguyên học 
