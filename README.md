@@ -126,6 +126,20 @@ LINK ĐĂNG KÝ - [Link dăng ký khóa học, tham gia hội viên](https://www
 
 Đây là khu vực dành cho tài liệu và khuyến khích học ở các nguồn này.
 
+### 👉 Series **Docker vs Kubernetes**
+
+1 - [Kubernetes vs Docker: Hiểu trước sau đó là cách triển khai hoạt động giữa thực tế và microservices](https://youtu.be/gQVWGj3h1pM)
+
+2 - [Docker trong con mắt của một Backend là phải thao tác nhanh gọn và dứt khoát phải giống như DevOps](https://youtu.be/8HSiwP92aPw)
+
+3 - [RabbitMQ (2) bỏ qua cơ bản giờ đến lúc phải THÀNH THẠO tính năng Dashboard với CLOUD FREE và DOCKER](https://youtu.be/WVPNHLNu5m4)
+
+4 - [Install mysql docker | #1](https://youtu.be/BwEIMkQMui4)
+
+5 - [Docker MySQL setup Các kỹ sư front-end (FE) | #2](https://youtu.be/-UX_bz376UA)
+
+...
+
 ### 👉 Series **Mongodb Design Patterns**
 
 1 - [Đã có MySQL tại sao chúng ta cần MongoDB? Cách giải quyết DỮ LIỆU siêu lớn MongoDB](https://youtu.be/TlxWi81Z4Y0)
