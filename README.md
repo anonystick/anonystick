@@ -128,15 +128,15 @@ LINK ĐĂNG KÝ - [Link dăng ký khóa học, tham gia hội viên](https://www
 
 ### 👉 Series **Docker vs Kubernetes**
 
-1 - [Kubernetes vs Docker: Hiểu trước sau đó là cách triển khai hoạt động giữa thực tế và microservices](https://youtu.be/gQVWGj3h1pM)
+1 - [DOCKER vs Kubernetes, microservices](https://youtu.be/gQVWGj3h1pM)
 
-2 - [Docker trong con mắt của một Backend là phải thao tác nhanh gọn và dứt khoát phải giống như DevOps](https://youtu.be/8HSiwP92aPw)
+2 - [DOCKER vs redis, mongodb](https://youtu.be/8HSiwP92aPw)
 
-3 - [RabbitMQ (2) bỏ qua cơ bản giờ đến lúc phải THÀNH THẠO tính năng Dashboard với CLOUD FREE và DOCKER](https://youtu.be/WVPNHLNu5m4)
+3 - [DOCKER vs RabbitMQ](https://youtu.be/WVPNHLNu5m4)
 
-4 - [Install mysql docker | #1](https://youtu.be/BwEIMkQMui4)
+4 - [DOCKER vs MySQL Level 0,1 | #1](https://youtu.be/BwEIMkQMui4)
 
-5 - [Docker MySQL setup Các kỹ sư front-end (FE) | #2](https://youtu.be/-UX_bz376UA)
+5 - [DOCKER vs MySQL Level 2 | #2](https://youtu.be/-UX_bz376UA)
 
 ...
 
