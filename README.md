@@ -138,6 +138,7 @@ LINK ĐĂNG KÝ - [Link dăng ký khóa học, tham gia hội viên](https://www
 
 5 - [DOCKER vs MySQL Level 2 | #2](https://youtu.be/-UX_bz376UA)
 
+6 - [DOCKER vs Elasticsearch, Kibana](https://youtu.be/Bs41dR_Kf-0)
 ...
 
 ### 👉 Series **Mongodb Design Patterns**
