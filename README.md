@@ -385,23 +385,29 @@ Chapter 6: [Browser In The Browser (BITB) Attack](https://youtu.be/lHSwa7pBPD4)
 
 ### 👉 Series Design Patterns
 
-Chapter1: [Design patterns là gì? Từ cuộc sống đến lập trình và cách học trong 1 tuần (mẹo)](https://anonystick.com/blog-developer/design-patterns-la-gi-tu-cuoc-song-den-lap-trinh-va-cach-hoc-trong-1-tuan-meo-kem-tai-lieu-va-source-2022083174167426)
+1 - [Design patterns cách học như thế nào? Ở đâu và áp dụng khi nào?](https://anonystick.com/blog-developer/design-patterns-la-gi-tu-cuoc-song-den-lap-trinh-va-cach-hoc-trong-1-tuan-meo-kem-tai-lieu-va-source-2022083174167426)
 
-Chapter2: [Đến ngày Black friday tôi đã sử dụng Stratery Pattern js hiệu quả như thế nào? Ecommerce Aliconcon - Series Design Pattern](https://anonystick.com/blog-developer/den-ngay-black-friday-toi-da-su-dung-stratery-parttern-js-hieu-qua-nhu-the-nao-ecommerce-aliconcon-series-design-pattern-202208277030899)
+2 - [Push or Pull ngăn xếp công nghệ nào được FACEBOOK và INSTAGRAM lựa chọn phát triển NEWS FEED?](https://youtu.be/qu3Lc2evkTw)
 
-Chapter3: [Observer Pattern được sử dụng triển khai news feed trong facebook và cách triển khai DOTA 2 vs IP 14](https://youtu.be/7J5pRc2vzWk)
+3 - [Stratery Pattern | Mức độ khó (★☆☆☆☆) | Mức độ phổ biến (★★★★☆)](https://www.youtube.com/watch?v=sheV2IBlQkU)
 
-Chapter4: [Push or Pull ngăn xếp công nghệ nào được FACEBOOK và INSTAGRAM lựa chọn phát triển NEWS FEED?](https://youtu.be/qu3Lc2evkTw)
+4 - [Observer Pattern | Mức độ khó (★★★☆☆) | Mức độ phổ biến (★★★★★)](https://youtu.be/7J5pRc2vzWk)
 
-Chapter5: [Facade pattern | Mức độ khó (★☆☆☆☆) | Mức độ phổ biến (★★★★★)](https://youtu.be/zK_sNkfzugs)
+5 - [Facade pattern | Mức độ khó (★☆☆☆☆) | Mức độ phổ biến (★★★★★)](https://youtu.be/zK_sNkfzugs)
 
-Chapter 6: [Proxy Pattern](https://youtu.be/Z3mPTWuFw00)
+6 - [Proxy Pattern | Mức độ khó (★★★☆☆) | Mức độ phổ biến (★★★★☆)](https://youtu.be/Z3mPTWuFw00)
 
-Chapter 7: [Simple factory pattern](https://youtu.be/O6TsDdKtyz0)
+7 - [Simple factory pattern | Mức độ khó (★★☆☆☆) | Mức độ phổ biến (★★★★★)](https://youtu.be/O6TsDdKtyz0)
 
-Chapter 8: [Factory Method Pattern](https://youtu.be/54-rJHUM2L8)
+8 - [Factory Method Pattern | Mức độ khó (★★★☆☆) | Mức độ phổ biến (★★★★★)](https://youtu.be/54-rJHUM2L8)
 
-Chapter 9: [Prototype Pattern](https://youtu.be/Wn2Bwi4qHl0)
+9 - [Prototype Pattern | Mức độ khó (★★★☆☆) | Mức độ phổ biến (★★★★☆)](https://youtu.be/Wn2Bwi4qHl0)
+
+10 - [Bridge Pattern | Mức độ khó (★★★☆☆) | Mức độ phổ biến (★★★☆☆)](https://www.youtube.com/watch?v=0CuTOeCKbjM&list=PLw0w5s5b9NK7TSuHpxOMvVtRuaEgHQczQ&index=11&pp=iAQB)
+
+11 - [Adapter Pattern | Mức độ khó (★★☆☆☆) | Mức độ phổ biến (★★★★☆)](https://www.youtube.com/watch?v=cUNoGD7sR-g&list=PLw0w5s5b9NK7TSuHpxOMvVtRuaEgHQczQ&index=10&pp=iAQB)
+
+12 - [Builder Pattern | Mức độ khó (★★★★☆) | Mức độ phổ biến (★★☆☆☆)](https://www.youtube.com/watch?v=j-oCmwWggjY&list=PLw0w5s5b9NK7TSuHpxOMvVtRuaEgHQczQ&index=9&pp=iAQB)
 
 ### 👉 Series SOLID 
 
