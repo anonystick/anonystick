@@ -139,6 +139,10 @@ LINK ĐĂNG KÝ - [Link dăng ký khóa học, tham gia hội viên](https://www
 5 - [DOCKER vs MySQL Level 2 | #2](https://youtu.be/-UX_bz376UA)
 
 6 - [DOCKER vs Elasticsearch, Kibana](https://youtu.be/Bs41dR_Kf-0)
+
+7 - [DOCKER - Xây dựng ứng dụng nodejs service push lên dockerHub](https://www.youtube.com/watch?v=jbd71z2Gdo4)
+
+8 - [DOCKER - Docker, Dockerfile, Docker Compose: Một kỹ sư FE đã giải thích XUẤT SẮC trong buổi phỏng vấn senior](https://www.youtube.com/watch?v=NbJ45r9sbiE)
 ...
 
 ### 👉 Series **Mongodb Design Patterns**
