@@ -120,6 +120,28 @@ LINK ĐĂNG KÝ - [Link dăng ký khóa học, tham gia hội viên](https://www
 
 42:  [Notifications Service vs Tiếp đến là tách Message Queue System](https://youtu.be/dAefZUW3fOQ)
 
+43: [Kafka Message Queue](https://youtu.be/_YT0MsFszhY) 
+
+44: [Rabbit Message Queue](https://youtu.be/DWr5zV_TmF8) 
+
+45: [Tách dự án với kiến trúc Microservice System | Level Nâng cao](https://youtu.be/eo6RJsQTOqI) 
+
+46: [Integration Testing with Jest vs Mongodb | Microservice System](https://youtu.be/0pgx_XUjddo) 
+
+47: [[start server] First step in Microservice vs Message Queue | Microservice System | Lvxx](https://youtu.be/qw1z8hJRzuc) 
+
+48: [Xử lý Message Error or TTL (Time To Live) trong Message Queue thế nào? | Kiến trúc MQ](https://youtu.be/nDxAiAB4UJg) 
+
+49: [Xử lý message khi gặp sự cố MQ server die (TTL) thực hành](https://youtu.be/muR4HURM0k4) 
+
+50: [QUAN TRỌNG và dành cho Level cao về cách Xử lý error message trong kiến trúc MQ](https://youtu.be/lZXkli4AhGA) 
+
+51: [Message Ordering in Pub/Sub or Queues | Microservices Backend](https://youtu.be/tVawGVrJPak) 
+
+52: [Message Ordering | Microservice Backend | #2](https://youtu.be/nrFEJLiU-l0) 
+
+53: [Thực hành về Message Ordered với hai tình huống | RabbitMQ | Microservice Backend](https://youtu.be/XPaqZek9q-A) 
+
 ...
 
 ## Tài nguyên học 
