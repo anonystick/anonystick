@@ -10,13 +10,19 @@
 
 ## :rocket: Introduction to Modern System Design
 
-* [**Download**](../system.desgin/educative.io/Grokking-Modern-System-Design-Interview-for-Engineers-Managers/001-Introduction.pdf)
+* [**Download**](https://github.com/anonystick/anonystick/blob/main/Library/system.design/educative.io/Grokking-Modern-System-Design-Interview-for-Engineers-Managers/001-Introduction.pdf)
 
 ## :rocket: System Design Interview?
 
-* [**Download**](../system.desgin/educative.io/Grokking-Modern-System-Design-Interview-for-Engineers-Managers/002-System Design Interviews)
+* [**Download**](https://github.com/anonystick/anonystick/blob/main/Library/system.design/educative.io/Grokking-Modern-System-Design-Interview-for-Engineers-Managers/002-System%20Design%20Interviews.pdf)
+
+## :rocket: System Design Interview ALL
+
+* [**Download all**](https://github.com/anonystick/anonystick/tree/main/Library/system.design/educative.io/Grokking-Modern-System-Design-Interview-for-Engineers-Managers)
 
 # 3. System Design Interview Books | Alex 
+
+Updating...
 
 
 
