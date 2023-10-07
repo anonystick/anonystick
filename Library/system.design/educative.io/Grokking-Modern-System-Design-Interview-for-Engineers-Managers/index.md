@@ -6,7 +6,7 @@
 
 ## :rocket: Course Overview
 
-* [**Download**](../system.desgin/educative.io/Grokking-Modern-System-Design-Interview-for-Engineers-Managers/000-toc.pdf)
+* [**Download**](https://github.com/anonystick/anonystick/blob/main/Library/system.design/educative.io/Grokking-Modern-System-Design-Interview-for-Engineers-Managers/000-toc.pdf)
 
 ## :rocket: Introduction to Modern System Design
 
