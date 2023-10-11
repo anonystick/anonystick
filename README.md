@@ -353,7 +353,15 @@ LINK ĐĂNG KÝ - [Link dăng ký khóa học, tham gia hội viên](https://www
 
 10 - [Node.js 19 đã phát hành và những tính năng DEVs KHÔNG THỂ bỏ qua với BACKEND | Release What’s New](https://youtu.be/MBs9BmArgCc)
 
-### 👉 Series firebase vs socket.io
+### 👉 Series Amazon Cloud (AWS)
+
+1 - [Toàn diện về Amazon Cloud (AWS): EC2 (VPS) Đăng Ký Free cho Lập Trình Viên mới bắt đầu | (1)](https://youtu.be/aLOcO8qT7k0)
+
+2 - [Toàn diện về Amazon Cloud (AWS): Thiết lập Server với domain, https, nginx, node và security | (2)](https://youtu.be/OWS7h5Mm-v8)
+
+3 - S3..
+
+### 👉 Series firebase vs socket.io 
 
 1 - [Firebase chats | Cách tổ chức dữ liệu members, messages và bảo mật thông tin chats | Rules Firebase](https://youtu.be/TWSWymrSmiE)
 
