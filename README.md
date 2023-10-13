@@ -142,11 +142,77 @@ LINK ĐĂNG KÝ - [Link dăng ký khóa học, tham gia hội viên](https://www
 
 53: [Thực hành về Message Ordered với hai tình huống | RabbitMQ | Microservice Backend](https://youtu.be/XPaqZek9q-A) 
 
+54: [MySQL | Setup Master Slave ](https://youtu.be/ikH6_39OF7k) 
+
+55: [MySQL | Thực hành tự tạo dữ liệu test 10.000.000 records trong MySQL | Level 0, 1, 2](https://youtu.be/UjVTDWdPL0U) 
+
+56: [MySQL | Thực hành tự tạo dữ liệu test 10.000.000 records trong MySQL | Level 3, 4, 5](https://youtu.be/UFfn1dHbfCs) 
+
+FIX: [Update link Discord Member](https://youtu.be/2K3Pk-_pFSc)
+
+57: [x-api-key anh em hỏi, tôi đáp](https://youtu.be/--yEOnZBB8o) 
+
+58: [MySQL | Partition Database | Level 0, 1, 2 ](https://youtu.be/KZ199lfI7N0) 
+
+59: [MySQL | Partition Database | Level 3, 4, 5](https://youtu.be/eEt3yuz3S_I) 
+
 ...
 
 ## Tài nguyên học 
 
 Đây là khu vực dành cho tài liệu và khuyến khích học ở các nguồn này.
+
+### 👉 Series Design Patterns
+
+1 - [Design patterns cách học như thế nào? Ở đâu và áp dụng khi nào?](https://anonystick.com/blog-developer/design-patterns-la-gi-tu-cuoc-song-den-lap-trinh-va-cach-hoc-trong-1-tuan-meo-kem-tai-lieu-va-source-2022083174167426)
+
+2 - [Push or Pull ngăn xếp công nghệ nào được FACEBOOK và INSTAGRAM lựa chọn phát triển NEWS FEED?](https://youtu.be/qu3Lc2evkTw)
+
+3 - [Stratery Pattern | Mức độ khó (★☆☆☆☆) | Mức độ phổ biến (★★★★☆)](https://www.youtube.com/watch?v=sheV2IBlQkU)
+
+4 - [Observer Pattern | Mức độ khó (★★★☆☆) | Mức độ phổ biến (★★★★★)](https://youtu.be/7J5pRc2vzWk)
+
+5 - [Facade pattern | Mức độ khó (★☆☆☆☆) | Mức độ phổ biến (★★★★★)](https://youtu.be/zK_sNkfzugs)
+
+6 - [Proxy Pattern | Mức độ khó (★★★☆☆) | Mức độ phổ biến (★★★★☆)](https://youtu.be/Z3mPTWuFw00)
+
+7 - [Simple factory pattern | Mức độ khó (★★☆☆☆) | Mức độ phổ biến (★★★★★)](https://youtu.be/O6TsDdKtyz0)
+
+8 - [Factory Method Pattern | Mức độ khó (★★★☆☆) | Mức độ phổ biến (★★★★★)](https://youtu.be/54-rJHUM2L8)
+
+9 - [Prototype Pattern | Mức độ khó (★★★☆☆) | Mức độ phổ biến (★★★★☆)](https://youtu.be/Wn2Bwi4qHl0)
+
+10 - [Bridge Pattern | Mức độ khó (★★★☆☆) | Mức độ phổ biến (★★★☆☆)](https://www.youtube.com/watch?v=0CuTOeCKbjM&list=PLw0w5s5b9NK7TSuHpxOMvVtRuaEgHQczQ&index=11&pp=iAQB)
+
+11 - [Adapter Pattern | Mức độ khó (★★☆☆☆) | Mức độ phổ biến (★★★★☆)](https://www.youtube.com/watch?v=cUNoGD7sR-g&list=PLw0w5s5b9NK7TSuHpxOMvVtRuaEgHQczQ&index=10&pp=iAQB)
+
+12 - [Builder Pattern | Mức độ khó (★★★★☆) | Mức độ phổ biến (★★☆☆☆)](https://www.youtube.com/watch?v=j-oCmwWggjY&list=PLw0w5s5b9NK7TSuHpxOMvVtRuaEgHQczQ&index=9&pp=iAQB)
+
+13 - [Visitor Pattern | Mức độ khó (★★★★☆) | Mức độ phổ biến (★☆☆☆☆) | Updating...](https://www.youtube.com/playlist?list=PLw0w5s5b9NK7TSuHpxOMvVtRuaEgHQczQ)
+
+14 - [Template Method Pattern | Mức độ khó (★★☆☆☆) | Mức độ phổ biến (★★★☆☆) | Updating...](https://www.youtube.com/playlist?list=PLw0w5s5b9NK7TSuHpxOMvVtRuaEgHQczQ)
+
+15 - [State Pattern | Mức độ khó (★★★☆☆) | Mức độ phổ biến (★★★☆☆) | Updating...](https://www.youtube.com/playlist?list=PLw0w5s5b9NK7TSuHpxOMvVtRuaEgHQczQ)
+
+16 - [Memento Pattern | Mức độ khó (★★☆☆☆) | Mức độ phổ biến (★★☆☆☆) | Updating...](https://www.youtube.com/playlist?list=PLw0w5s5b9NK7TSuHpxOMvVtRuaEgHQczQ)
+
+17 - [Mediator Pattern | Mức độ khó (★★★☆☆) | Mức độ phổ biến (★★☆☆☆) | Updating...](https://www.youtube.com/playlist?list=PLw0w5s5b9NK7TSuHpxOMvVtRuaEgHQczQ)
+
+18 - [Iterator Pattern | Mức độ khó (★★★☆☆) | Mức độ phổ biến (★★★★★) | Updating...](https://www.youtube.com/playlist?list=PLw0w5s5b9NK7TSuHpxOMvVtRuaEgHQczQ)
+
+19 - [Interpreter Pattern | Mức độ khó (★★★★★) | Mức độ phổ biến (★☆☆☆☆) | Updating...](https://www.youtube.com/playlist?list=PLw0w5s5b9NK7TSuHpxOMvVtRuaEgHQczQ)
+
+20 - [Command Pattern | Mức độ khó (★★★☆☆) | Mức độ phổ biến (★★★★☆) | Updating...](https://www.youtube.com/playlist?list=PLw0w5s5b9NK7TSuHpxOMvVtRuaEgHQczQ)
+
+21 - [Chain of Responsibility Pattern | Mức độ khó (★★★☆☆) | Mức độ phổ biến (★★☆☆☆) | Updating...](https://www.youtube.com/playlist?list=PLw0w5s5b9NK7TSuHpxOMvVtRuaEgHQczQ)
+
+22 - [Flyweight Pattern | Mức độ khó (★★★★☆) | Mức độ phổ biến (★☆☆☆☆) | Updating...](https://www.youtube.com/playlist?list=PLw0w5s5b9NK7TSuHpxOMvVtRuaEgHQczQ)
+
+24 - [Decorator Pattern | Mức độ khó (★★★☆☆) | Mức độ phổ biến (★★★☆☆) | Updating...](https://www.youtube.com/playlist?list=PLw0w5s5b9NK7TSuHpxOMvVtRuaEgHQczQ)
+
+25 - [Composite Pattern | Mức độ khó (★★★☆☆) | Mức độ phổ biến (★★★★☆) | Updating...](https://www.youtube.com/playlist?list=PLw0w5s5b9NK7TSuHpxOMvVtRuaEgHQczQ)
+
+...
 
 ### 👉 Series **Docker vs Kubernetes**
 
@@ -417,31 +483,7 @@ Chapter 6: [Browser In The Browser (BITB) Attack](https://youtu.be/lHSwa7pBPD4)
 
 7 - [E2E là gì? Vì sao ZALO lại nâng cấp | Cách triển khai thuật toán trong NODE.JS vs MONGODB](https://youtu.be/Q4jR42L9UlA)
 
-### 👉 Series Design Patterns
-
-1 - [Design patterns cách học như thế nào? Ở đâu và áp dụng khi nào?](https://anonystick.com/blog-developer/design-patterns-la-gi-tu-cuoc-song-den-lap-trinh-va-cach-hoc-trong-1-tuan-meo-kem-tai-lieu-va-source-2022083174167426)
-
-2 - [Push or Pull ngăn xếp công nghệ nào được FACEBOOK và INSTAGRAM lựa chọn phát triển NEWS FEED?](https://youtu.be/qu3Lc2evkTw)
-
-3 - [Stratery Pattern | Mức độ khó (★☆☆☆☆) | Mức độ phổ biến (★★★★☆)](https://www.youtube.com/watch?v=sheV2IBlQkU)
-
-4 - [Observer Pattern | Mức độ khó (★★★☆☆) | Mức độ phổ biến (★★★★★)](https://youtu.be/7J5pRc2vzWk)
-
-5 - [Facade pattern | Mức độ khó (★☆☆☆☆) | Mức độ phổ biến (★★★★★)](https://youtu.be/zK_sNkfzugs)
-
-6 - [Proxy Pattern | Mức độ khó (★★★☆☆) | Mức độ phổ biến (★★★★☆)](https://youtu.be/Z3mPTWuFw00)
-
-7 - [Simple factory pattern | Mức độ khó (★★☆☆☆) | Mức độ phổ biến (★★★★★)](https://youtu.be/O6TsDdKtyz0)
-
-8 - [Factory Method Pattern | Mức độ khó (★★★☆☆) | Mức độ phổ biến (★★★★★)](https://youtu.be/54-rJHUM2L8)
-
-9 - [Prototype Pattern | Mức độ khó (★★★☆☆) | Mức độ phổ biến (★★★★☆)](https://youtu.be/Wn2Bwi4qHl0)
-
-10 - [Bridge Pattern | Mức độ khó (★★★☆☆) | Mức độ phổ biến (★★★☆☆)](https://www.youtube.com/watch?v=0CuTOeCKbjM&list=PLw0w5s5b9NK7TSuHpxOMvVtRuaEgHQczQ&index=11&pp=iAQB)
-
-11 - [Adapter Pattern | Mức độ khó (★★☆☆☆) | Mức độ phổ biến (★★★★☆)](https://www.youtube.com/watch?v=cUNoGD7sR-g&list=PLw0w5s5b9NK7TSuHpxOMvVtRuaEgHQczQ&index=10&pp=iAQB)
-
-12 - [Builder Pattern | Mức độ khó (★★★★☆) | Mức độ phổ biến (★★☆☆☆)](https://www.youtube.com/watch?v=j-oCmwWggjY&list=PLw0w5s5b9NK7TSuHpxOMvVtRuaEgHQczQ&index=9&pp=iAQB)
+...
 
 ### 👉 Series SOLID 
 
