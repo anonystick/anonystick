@@ -156,6 +156,15 @@ FIX: [Update link Discord Member](https://youtu.be/2K3Pk-_pFSc)
 
 59: [MySQL | Partition Database | Level 3, 4, 5](https://youtu.be/eEt3yuz3S_I) 
 
+60: [MYSQL | Index MySQL những sai lầm nên tránh](https://youtu.be/GSonUVsFFJ8)
+
+61: [MULTER vs Cloudinary | Intro Cloud vs Upload Service For Api (1)](https://youtu.be/dFIhLYlNXtw)
+
+62: [MULTER vs Cloudinary | Intro Cloud vs Upload Service For Api (2)](https://youtu.be/fUO6VF394eA)
+
+64: [Amazon Web Service (AWS) | Intro vs Regis...](https://youtu.be/zPMdzBH61PE)
+
+65: [Amazon Web Service (AWS) Setup S3 Bucket vs Security (2)](https://youtu.be/MDQEu7-GZMY)
 ...
 
 ## Tài nguyên học 
