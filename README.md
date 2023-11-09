@@ -165,6 +165,10 @@ FIX: [Update link Discord Member](https://youtu.be/2K3Pk-_pFSc)
 64: [Amazon Web Service (AWS) | Intro vs Regis...](https://youtu.be/zPMdzBH61PE)
 
 65: [Amazon Web Service (AWS) Setup S3 Bucket vs Security (2)](https://youtu.be/MDQEu7-GZMY)
+
+66: [Amazon Web Service (AWS) Upload Images to S3 from Node Back End | AWS)](https://youtu.be/APZCs7lALQk)
+
+67: [Amazon Web Service (AWS) Triển khai Service backend bảo mật Link S3 và test performance Url Speed)](https://youtu.be/HnF6tfUE0gk)
 ...
 
 ## Tài nguyên học 
@@ -220,6 +224,32 @@ FIX: [Update link Discord Member](https://youtu.be/2K3Pk-_pFSc)
 24 - [Decorator Pattern | Mức độ khó (★★★☆☆) | Mức độ phổ biến (★★★☆☆) | Updating...](https://www.youtube.com/playlist?list=PLw0w5s5b9NK7TSuHpxOMvVtRuaEgHQczQ)
 
 25 - [Composite Pattern | Mức độ khó (★★★☆☆) | Mức độ phổ biến (★★★★☆) | Updating...](https://www.youtube.com/playlist?list=PLw0w5s5b9NK7TSuHpxOMvVtRuaEgHQczQ)
+
+...
+
+### 👉 Series MySQL basic to pro (a-z) cơ bản đến chuyên sâu cho FE và BE
+
+01 - [DOCKER vs MySQL Level 0,1 | #1 - PUBLIC](https://youtu.be/BwEIMkQMui4)
+
+02 - [DOCKER vs MySQL Level 2 | #2 - PUBLIC](https://youtu.be/-UX_bz376UA)
+
+03 - [MySQL - Setup Master Slave PRO - MEMBER](https://youtu.be/ikH6_39OF7k) 
+
+04 - [MySQL nhiệm vụ tối ưu hóa bảng Orders với hàng chục triệu dữ liệu - PUBLIC](https://youtu.be/aY8SiBuFLPw)
+
+05 - [MySQL (Mongob) vs ElasticSearch kiến trúc đồng bộ dữ liệu NHANH - PUBLIC](https://youtu.be/I8xq5Phu2h0)
+
+06 - [MySQL - Nói về INdex và những sai lầm nên tránh - MEMBER](https://youtu.be/GSonUVsFFJ8)
+
+07 - [MySQL - Thực hành tự tạo dữ liệu test 10.000.000 records trong MySQL cho level nho nhỏ xinh xinh - MEMBER](https://youtu.be/UjVTDWdPL0U)
+
+08 - [MySQL - 1 phút tạo ra 10.000.000 records dữ liệu test để thực hành tối ưu hóa index - MEMBER](https://youtu.be/UFfn1dHbfCs)
+
+09 - [MySQL - Partition Database | Level 0, 1, 2 - MEMBER](https://youtu.be/KZ199lfI7N0) 
+
+10 - [MySQL - Partition Database | Level 3, 4, 5 - MEMBER](https://youtu.be/eEt3yuz3S_I) 
+
+11 - [MYSQL - Phân tích chuyên sâu về kiến ​​trúc tổng thể của MySQL from Zero to Hero! - Updating](https://www.youtube.com/@anonystick)
 
 ...
 
