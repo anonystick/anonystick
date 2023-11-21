@@ -476,19 +476,39 @@ FIX: [Update link Discord Member](https://youtu.be/2K3Pk-_pFSc)
 
 ### 👉 Series Redis
 
-Chapter 1: [Connect Nodejs Redis async await với 3 level khác nhau và cách nào hiệu quả hơn](https://youtu.be/EXv_NCNXH7c)
+01 - [REDIS và 3 sự cố phổ biến khi sử dụng nodejs | Cache avalanche | Cache breakdown | Cache penetration](https://youtu.be/VE1oTBR0gig)
 
-Chapter 2: [Redis vs MySQL Để check QPS (query per second) tôi phải đến năm thứ 4 lập trình mới biết về sysbench](https://youtu.be/dpDGXbe_LeE)
+02 - [Redis là gì? Bài học này đủ để bắt đầu | Là một Backend bạn đã từng gặp những trường hợp này chưa?](https://youtu.be/HSknuSIoK6A)
 
-Chapter 3: [Thực hành Redis và Nodejs | Sử dụng redis cloud FREE kết hợp Redisinsight](https://youtu.be/bkSdxT1Vk4s)
+03 - [Redis - Nguồn cảm hứng bất tận](https://youtu.be/QEUQsBXRFJk)
 
-Chapter 4: [REDIS và 3 sự cố phổ biến khi sử dụng nodejs | Cache avalanche | Cache breakdown | Cache penetration](https://youtu.be/VE1oTBR0gig)
+04 - [Redis - Hôm nay tôi đi phỏng vấn về Redis có 5 câu hỏi dành cho tôi và bạn | Node.js backend](https://youtu.be/u5-flcmINc4)
 
-Chapter 5: [Redis là gì? Bài học này đủ để bắt đầu | Là một Backend bạn đã từng gặp những trường hợp này chưa?](https://youtu.be/HSknuSIoK6A)
+05 - [String Redis: Cấu trúc, lệnh phổ biến và kịch bản nào sử dụng?](https://youtu.be/X7NiSVo_NHE)
 
-Chapter 6: [Redis đâu phải chỉ làm cache? Hãy xem đàn em mô phỏng shopping carts của amazon sử dụng redis](https://youtu.be/lMf0tBKfgPw)
+06 - [Hash Redis: Cấu trúc, lệnh phổ biến và kịch bản ứng dụng](https://youtu.be/uz73HbycDLM)
 
-Chapter 7: [Design 4 models mongodb quan trọng orders, carts, products, inventories trong System eCommerce P - 5](https://youtu.be/tMAe893baIs)
+07 - [List Redis: Cấu trúc, lệnh phổ biến và kịch bản ứng dụng](https://youtu.be/zwDT1KDlNF8)
+
+08 - [Redis Sets: Cấu trúc, lệnh phổ biến và kịch bản ứng dụng](https://youtu.be/SLGE0L-Ndo8)
+
+09 - [Redis Zset: Cấu trúc, lệnh phổ biến và kịch bản ứng dụng](https://youtu.be/8fw-VnP3Zq0)
+
+10 - [Redis Transaction: Cấu trúc, lệnh phổ biến và kịch bản ứng dụng](https://youtu.be/63x7fIW5CkQ)
+
+11 - [Redis Pub/Sub: Cấu trúc, lệnh phổ biến và kịch bản ứng dụng](https://youtu.be/U_Zy4ec_Kes)
+
+12 - [Connect Nodejs Redis async await với 3 level khác nhau và cách nào hiệu quả hơn](https://youtu.be/EXv_NCNXH7c)
+
+13 - [Redis vs MySQL Để check QPS (query per second) tôi phải đến năm thứ 4 lập trình mới biết về sysbench](https://youtu.be/dpDGXbe_LeE)
+
+14 - [Thực hành Redis và Nodejs | Sử dụng redis cloud FREE kết hợp Redisinsight](https://youtu.be/bkSdxT1Vk4s)
+
+15 - [Redis đâu phải chỉ làm cache? Hãy xem đàn em mô phỏng shopping carts của amazon sử dụng redis](https://youtu.be/lMf0tBKfgPw)
+
+16 - [Design 4 models mongodb quan trọng orders, carts, products, inventories trong System eCommerce P - 5](https://youtu.be/tMAe893baIs)
+
+17 ...
 
 ### 👉 Series Backend Architecture
 
