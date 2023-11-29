@@ -594,6 +594,11 @@ Chapter 5: [RabbitMQ (5) Đỉnh cao mô hình Publish Subscribe với Node.js v
 
 3 - [Cách Tìm Ý tưởng Khởi nghiệp](https://liorn.substack.com/p/a-summary-of-my-learnings-on-how)
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=anonystick/anonystick&type=Date)](https://star-history.com/#anonystick/anonystick&Date)
+
+
 <!--
 **anonystick/anonystick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
