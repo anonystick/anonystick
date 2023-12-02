@@ -1,0 +1,26 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <h1>Normal</h1>
+    <script>
+        const urls = [];
+        for (let i = 1; i <= 21; i++) {
+            setTimeout(function () {
+                fetch(`https://jsonplaceholder.typicode.com/todos/${i}`).then(rs => console.log(rs))
+                    .catch(console.error())
+            }, 1000)
+
+        }
+    </script>
+</body>
+
+</html>
