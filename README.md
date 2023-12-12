@@ -460,11 +460,33 @@ FIX: [Update link Discord Member](https://youtu.be/2K3Pk-_pFSc)
 
 ### 👉 Series Amazon Cloud (AWS)
 
-1 - [Toàn diện về Amazon Cloud (AWS): EC2 (VPS) Đăng Ký Free cho Lập Trình Viên mới bắt đầu | (1)](https://youtu.be/aLOcO8qT7k0)
+1: [Toàn diện về Amazon Cloud (AWS): EC2 (VPS) Đăng Ký Free cho Lập Trình Viên mới bắt đầu | (1) | PUBLIC](https://youtu.be/aLOcO8qT7k0)
 
-2 - [Toàn diện về Amazon Cloud (AWS): Thiết lập Server với domain, https, nginx, node và security | (2)](https://youtu.be/OWS7h5Mm-v8)
+2: [Toàn diện về Amazon Cloud (AWS): Thiết lập Server với domain, https, nginx, node và security | (2) | PUBLIC](https://youtu.be/OWS7h5Mm-v8)
 
-3 - S3..
+3: [Amazon Web Service (AWS) | Intro vs Regis...](https://youtu.be/zPMdzBH61PE)
+
+4: [Amazon Web Service (AWS) Setup S3 Bucket vs Security (2)](https://youtu.be/MDQEu7-GZMY)
+
+5: [Amazon Web Service (AWS) Upload Images to S3 from Node Back End | AWS)](https://youtu.be/APZCs7lALQk)
+
+6: [Amazon Web Service (AWS) Triển khai Service backend bảo mật Link S3 và test performance Url Speed)](https://youtu.be/HnF6tfUE0gk)
+
+7: [Amazon Web Service (AWS) Setup Cloudfront với S3 | AWS Pro](https://youtu.be/dFe7jE5Otr4)
+
+8: [Amazon Web Service (AWS) AWS CloudFront Bảo mật File ngăn cấm hành vi sao chép phía BackEnd | AWS Pro](https://youtu.be/pSwROxV2l8I)
+
+9: [Amazon Web Service (AWS) Triển khai toàn diện về EC2 vũ khí sắc bén của BackEnd](https://youtu.be/-k5jfYrtQJo)
+
+10: [Amazon Web Service (AWS) Setup EC2 + Mysql với Linux. Tạo quyền, quản lý database bảo mật.](https://youtu.be/QxB3ifUaLDA)
+
+11: [Amazon Web Service (AWS) Import Mysql local to EC2 và cho phép truy cập mysql từ xa | Làm chủ AWS](https://youtu.be/XvbqDLfbczo)
+
+12: [Amazon Web Service (AWS) Làm chủ Nginx | updating... ](https://www.youtube.com/playlist?list=PLw0w5s5b9NK4ucXizOF-eKAXKvn9ruCw8)
+
+13: [Amazon Web Service (AWS) Thực hành về CI/CD | updating... ](https://www.youtube.com/playlist?list=PLw0w5s5b9NK4ucXizOF-eKAXKvn9ruCw8)
+
+14 ...
 
 ### 👉 Series firebase vs socket.io 
 
