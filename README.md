@@ -169,6 +169,20 @@ FIX: [Update link Discord Member](https://youtu.be/2K3Pk-_pFSc)
 66: [Amazon Web Service (AWS) Upload Images to S3 from Node Back End | AWS)](https://youtu.be/APZCs7lALQk)
 
 67: [Amazon Web Service (AWS) Triển khai Service backend bảo mật Link S3 và test performance Url Speed)](https://youtu.be/HnF6tfUE0gk)
+
+68: [Setup Cloudfront với S3 | AWS Pro](https://youtu.be/dFe7jE5Otr4)
+
+69: [AWS CloudFront Bảo mật File ngăn cấm hành vi sao chép phía BackEnd](https://youtu.be/pSwROxV2l8I)
+
+70: [Triển khai toàn diện về EC2 vũ khí sắc bén của BackEnd](https://youtu.be/-k5jfYrtQJo)
+
+71: [Setup EC2 + Mysql với Linux. Tạo quyền, quản lý database bảo mật...](https://youtu.be/QxB3ifUaLDA)
+
+72: [Import Mysql local to EC2 và cho phép truy cập mysql từ xa | Làm chủ AWS](https://youtu.be/XvbqDLfbczo)
+
+73: [Triển khai CI/CD từ GitHub và EC2 (AWS)](https://youtu.be/2ZYH1FuZ0uY)
+
+74: [Reverse Proxy Nginx vs EC2 | Next setup Domain Shopdev.com](https://youtu.be/UfV1FUtVypc)
 ...
 
 ## Tài nguyên học 
@@ -482,9 +496,9 @@ FIX: [Update link Discord Member](https://youtu.be/2K3Pk-_pFSc)
 
 11: [Amazon Web Service (AWS) Import Mysql local to EC2 và cho phép truy cập mysql từ xa | Làm chủ AWS](https://youtu.be/XvbqDLfbczo)
 
-12: [Amazon Web Service (AWS) Làm chủ Nginx | updating... ](https://www.youtube.com/playlist?list=PLw0w5s5b9NK4ucXizOF-eKAXKvn9ruCw8)
+12: [Amazon Web Service (AWS) Làm chủ Nginx](https://youtu.be/UfV1FUtVypc)
 
-13: [Amazon Web Service (AWS) Thực hành về CI/CD | updating... ](https://www.youtube.com/playlist?list=PLw0w5s5b9NK4ucXizOF-eKAXKvn9ruCw8)
+13: [Amazon Web Service (AWS) Thực hành về CI/CD](https://youtu.be/2ZYH1FuZ0uY)
 
 14 ...
 
