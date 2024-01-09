@@ -189,6 +189,7 @@ FIX: [Update link Discord Member](https://youtu.be/2K3Pk-_pFSc)
 76: [Roles and permission in MySQL](https://youtu.be/lmCaDqakf6o)
 
 77: [Roles and permission in NoSQL](https://youtu.be/2w4TQ7EV-84)
+
 ...
 
 ## Tài nguyên học 
