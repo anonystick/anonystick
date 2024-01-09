@@ -183,6 +183,12 @@ FIX: [Update link Discord Member](https://youtu.be/2K3Pk-_pFSc)
 73: [Triển khai CI/CD từ GitHub và EC2 (AWS)](https://youtu.be/2ZYH1FuZ0uY)
 
 74: [Reverse Proxy Nginx vs EC2 | Next setup Domain Shopdev.com](https://youtu.be/UfV1FUtVypc)
+
+75: [Add domain shopdev.com to NGINX với SSL port (443)](https://youtu.be/67cAjD-twoU)
+
+76: [Roles and permission in MySQL](https://youtu.be/lmCaDqakf6o)
+
+77: [Roles and permission in NoSQL](https://youtu.be/2w4TQ7EV-84)
 ...
 
 ## Tài nguyên học 
