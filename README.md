@@ -190,6 +190,16 @@ FIX: [Update link Discord Member](https://youtu.be/2K3Pk-_pFSc)
 
 77: [Roles and permission in NoSQL](https://youtu.be/2w4TQ7EV-84)
 
+78: [Roles and permission: Viết Api và chia quyền đối với Shop, User, Admin (Updating..)](https://www.youtube.com/watch?v=5keK7PRH9pE&list=PLw0w5s5b9NK4ucXizOF-eKAXKvn9ruCw8)
+
+79: [System Logs: Xây dựng hệ thống tracking Logs bao gồm RealTime (Updating)](https://www.youtube.com/watch?v=5keK7PRH9pE&list=PLw0w5s5b9NK4ucXizOF-eKAXKvn9ruCw8)
+
+80: [System Logs: Tìm kiếm logs nhanh với thủ thuật TracingId (Updating)](https://www.youtube.com/watch?v=5keK7PRH9pE&list=PLw0w5s5b9NK4ucXizOF-eKAXKvn9ruCw8)
+
+81: [Shop eCommerce: Hoàn thiện đăng ký Shop theo quy trình Shopee, send và verify Email OTP.. (Updating)](https://www.youtube.com/watch?v=5keK7PRH9pE&list=PLw0w5s5b9NK4ucXizOF-eKAXKvn9ruCw8)
+
+82: [Product eCommerce: Hoàn thiện và xây dựng SKU (Attribute) của sản phẩm (Quan trọng) (Updating)](https://www.youtube.com/watch?v=5keK7PRH9pE&list=PLw0w5s5b9NK4ucXizOF-eKAXKvn9ruCw8)
+
 ...
 
 ## Tài nguyên học 
