@@ -188,9 +188,9 @@ FIX: [Update link Discord Member](https://youtu.be/2K3Pk-_pFSc)
 
 76: [Roles and permission in MySQL](https://youtu.be/lmCaDqakf6o)
 
-77: [Roles and permission in NoSQL](https://youtu.be/2w4TQ7EV-84)
+77: [Roles and permission: Triển khai hệ thống QUYỀN trong eCommerce (Phần 1)](https://youtu.be/2w4TQ7EV-84)
 
-78: [Roles and permission: Viết Api và chia quyền đối với Shop, User, Admin (Updating..)](https://www.youtube.com/watch?v=5keK7PRH9pE&list=PLw0w5s5b9NK4ucXizOF-eKAXKvn9ruCw8)
+78: [Roles and permission: Triển khai hệ thống QUYỀN trong eCommerce (Phần 2)](https://youtu.be/2zrU3NAY0jo)
 
 79: [System Logs: Xây dựng hệ thống tracking Logs bao gồm RealTime (Updating)](https://www.youtube.com/watch?v=5keK7PRH9pE&list=PLw0w5s5b9NK4ucXizOF-eKAXKvn9ruCw8)
 
