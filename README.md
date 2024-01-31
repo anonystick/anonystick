@@ -192,13 +192,15 @@ FIX: [Update link Discord Member](https://youtu.be/2K3Pk-_pFSc)
 
 78: [Roles and permission: Triển khai hệ thống QUYỀN trong eCommerce (Phần 2)](https://youtu.be/2zrU3NAY0jo)
 
-79: [System Logs: Xây dựng hệ thống tracking Logs bao gồm RealTime (Updating)](https://www.youtube.com/watch?v=5keK7PRH9pE&list=PLw0w5s5b9NK4ucXizOF-eKAXKvn9ruCw8)
+79: [Roles and permission: Triển khai hệ thống QUYỀN trong eCommerce (Hoàn thành source thực tế)](https://youtu.be/3jIDM99037U)
 
-80: [System Logs: Tìm kiếm logs nhanh với thủ thuật TracingId (Updating)](https://www.youtube.com/watch?v=5keK7PRH9pE&list=PLw0w5s5b9NK4ucXizOF-eKAXKvn9ruCw8)
+80: [System Logs: Xây dựng hệ thống tracking Logs trong eCommerce (Phần 2)](https://youtu.be/8LicTFZvPzE)
 
-81: [Shop eCommerce: Hoàn thiện đăng ký Shop theo quy trình Shopee, send và verify Email OTP.. (Updating)](https://www.youtube.com/watch?v=5keK7PRH9pE&list=PLw0w5s5b9NK4ucXizOF-eKAXKvn9ruCw8)
+81: [System Logs: Xây dựng hệ thống tracking Logs trong eCommerce (Updating)](https://www.youtube.com/watch?v=5keK7PRH9pE&list=PLw0w5s5b9NK4ucXizOF-eKAXKvn9ruCw8)
 
-82: [Product eCommerce: Hoàn thiện và xây dựng SKU (Attributes) của sản phẩm (Quan trọng) (Updating)](https://www.youtube.com/watch?v=5keK7PRH9pE&list=PLw0w5s5b9NK4ucXizOF-eKAXKvn9ruCw8)
+82: [Shop eCommerce: Hoàn thiện đăng ký Shop theo quy trình Shopee, send và verify Email OTP.. (Updating)](https://www.youtube.com/watch?v=5keK7PRH9pE&list=PLw0w5s5b9NK4ucXizOF-eKAXKvn9ruCw8)
+
+83: [Product eCommerce: Hoàn thiện và xây dựng SKU (Attributes) của sản phẩm (Quan trọng) (Updating)](https://www.youtube.com/watch?v=5keK7PRH9pE&list=PLw0w5s5b9NK4ucXizOF-eKAXKvn9ruCw8)
 
 ...
 
