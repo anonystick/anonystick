@@ -202,6 +202,8 @@ FIX: [Update link Discord Member](https://youtu.be/2K3Pk-_pFSc)
 
 83: [Product eCommerce: Hoàn thiện và xây dựng SKU (Attributes) của sản phẩm (Quan trọng) (Updating)](https://www.youtube.com/watch?v=5keK7PRH9pE&list=PLw0w5s5b9NK4ucXizOF-eKAXKvn9ruCw8)
 
+84: [Đề xuất sản phẩm: Hệ thống gợi ý sản phẩm trong eCommerce (Updating)](https://www.youtube.com/watch?v=5keK7PRH9pE&list=PLw0w5s5b9NK4ucXizOF-eKAXKvn9ruCw8)
+
 ...
 
 ## Tài nguyên học 
