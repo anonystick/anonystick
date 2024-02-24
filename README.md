@@ -621,13 +621,17 @@ Chapter 5: [RabbitMQ (5) Đỉnh cao mô hình Publish Subscribe với Node.js v
 
 ### 👉 Series ElasticSearch
 
-1 - [ELK Stack là gì? Tôi đã bắt đầu tìm hiểu Elasticsearch và Kibana với thao tác nhanh gọn lẹ như sau](https://youtu.be/Bs41dR_Kf-0)
+1 - [DOCKER vs Elasticsearch, Kibana](https://youtu.be/Bs41dR_Kf-0)
 
-2 - [Thực hành Kinaba cách tạo Index, Mapping thao tác CRUD và tối ưu hóa dữ liệu trong Elasticsearch (2)](https://youtu.be/HrGVCCjRDZQ)
+2 - [ELK Stack là gì? Tôi đã bắt đầu tìm hiểu Elasticsearch và Kibana với thao tác nhanh gọn lẹ như sau](https://youtu.be/Bs41dR_Kf-0)
 
-3 - [Elasticsearch Bạn có CHẮC là bạn sử dụng ĐÚNG những lệnh SEARCH dữ liệu của các tình huống SAU ĐÂY ?](https://youtu.be/hUOgRS6dEVQ)
+3 - [Thực hành Kinaba cách tạo Index, Mapping thao tác CRUD và tối ưu hóa dữ liệu trong Elasticsearch (2)](https://youtu.be/HrGVCCjRDZQ)
 
-4 - ....
+4 - [Elasticsearch Bạn có CHẮC là bạn sử dụng ĐÚNG những lệnh SEARCH dữ liệu của các tình huống SAU ĐÂY ?](https://youtu.be/hUOgRS6dEVQ)
+
+5 - [MySQL (Mongob) vs ElasticSearch kiến trúc đồng bộ dữ liệu NHANH - PUBLIC](https://youtu.be/I8xq5Phu2h0)
+
+6 ... Updating
 
 ### 👉 Kinh nghiệm phỏng vấn từ a-z 
 
