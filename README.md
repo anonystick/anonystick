@@ -284,7 +284,11 @@ FIX: [Update link Discord Member](https://youtu.be/2K3Pk-_pFSc)
 
 10 - [MySQL - Partition Database | Level 3, 4, 5 - MEMBER](https://youtu.be/eEt3yuz3S_I) 
 
-11 - [2024: MYSQL - Phân tích chuyên sâu về kiến ​​trúc tổng thể của MySQL (Phần 1)](https://youtu.be/7Y0ii_QjlKM)
+### 👉 Series MySQL: Nếu bạn là người mới hãy bắt đầu từ phần này (Mỗi ngày tạo một thói quen)
+
+01 - [2024: MYSQL - Phân tích chuyên sâu về kiến ​​trúc tổng thể của MySQL: Thiết kế dạng chuẩn 1NF](https://youtu.be/7Y0ii_QjlKM)
+
+02 - [2024: MYSQL - Phân tích chuyên sâu về kiến ​​trúc tổng thể của MySQL: Thiết kế dạng chuẩn 2NF](https://youtu.be/L9tOHpxlnMA)
 
 ...
 
