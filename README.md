@@ -198,11 +198,17 @@ FIX: [Update link Discord Member](https://youtu.be/2K3Pk-_pFSc)
 
 81: [System Logs: Xây dựng hệ thống tracking Logs trong eCommerce (Phần 3 hoàn thành Logs)](https://youtu.be/bzCKJ3HorXc)
 
-82: [Shop eCommerce: Hoàn thiện đăng ký Shop theo quy trình Shopee, send và verify Email OTP.. (Updating)](https://www.youtube.com/watch?v=5keK7PRH9pE&list=PLw0w5s5b9NK4ucXizOF-eKAXKvn9ruCw8)
+82: [Shop eCommerce: Kiến trúc hệ thống về Send vs Verify Email OTP](https://youtu.be/Y-pqDc3Xl9Q)
 
-83: [Product eCommerce: Hoàn thiện và xây dựng SKU (Attributes) của sản phẩm (Quan trọng) (Updating)](https://www.youtube.com/watch?v=5keK7PRH9pE&list=PLw0w5s5b9NK4ucXizOF-eKAXKvn9ruCw8)
+83: [Shop eCommerce: Triển khai Send Email OTP](https://youtu.be/A78uC7AfZPU)
 
-84: [Đề xuất sản phẩm: Hệ thống gợi ý sản phẩm trong eCommerce (Updating)](https://www.youtube.com/watch?v=5keK7PRH9pE&list=PLw0w5s5b9NK4ucXizOF-eKAXKvn9ruCw8)
+84: [Redis Connect Nodejs: Cách connect redis và nodejs cho dự án Microservice](https://youtu.be/4s3gHFS3aO8)
+
+85: [Share Source giao diện shopDEV (react+vite) và app mobile (iOS + Android)  Link download](https://youtu.be/A-tXuWpyBss)
+
+86: [Shop eCommerce: Triển khai Verify OTP Email ](https://youtu.be/d4Xy6MyaaCI)
+
+87: [Đề xuất sản phẩm: Hệ thống gợi ý sản phẩm trong eCommerce (Updating)](https://www.youtube.com/watch?v=5keK7PRH9pE&list=PLw0w5s5b9NK4ucXizOF-eKAXKvn9ruCw8)
 
 ...
 
