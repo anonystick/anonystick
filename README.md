@@ -268,7 +268,7 @@ FIX: [Update link Discord Member](https://youtu.be/2K3Pk-_pFSc)
 
 ...
 
-### 👉 Series Interview and Explain BE
+### 👉 Series Interview and Explain BE (2024)
 
 01 - [Lý thuyết + Code: Lập trình song song, tuần tự và đồng thời là gì?](https://www.youtube.com/watch?v=9VBRHwYDY7A)
 
