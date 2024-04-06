@@ -268,6 +268,30 @@ FIX: [Update link Discord Member](https://youtu.be/2K3Pk-_pFSc)
 
 ...
 
+### 👉 Series Interview and Explain BE
+
+01 - [Lý thuyết + Code: Lập trình song song, tuần tự và đồng thời là gì?](https://www.youtube.com/watch?v=9VBRHwYDY7A)
+
+02 - [CODE này bạn mới thấy được sự lợi hại về lập trình parallel và concurrent](https://www.youtube.com/watch?v=CBhPFo3Lz4M)
+
+03 - [Promise sử dụng khi nào với từng trường hợp all, race, any và allSettled](https://www.youtube.com/watch?v=fnOg4DF-t7U)
+
+04 - [Phỏng vấn BackEnd: Giờ tôi mới hiểu đồng bộ và không đồng bộ qua một câu hỏi dựa trên thực tế #1](https://youtu.be/XM5qmMZRrjE)
+
+05 - [Phỏng vấn BackEnd: Bạn có hiểu về LINUX](https://youtu.be/3JdFrh1ZvRA)
+
+06 - [Hãy cho biết một backend giải quyết rò rỉ memory thế nào?](https://youtu.be/j1clD8XDYyw)
+
+07 - [Khi cookie bị cấm thì hệ thống cần thay đổi gì?](https://youtu.be/UtRisKVCYIE)
+
+08 - [Những cách thiết kế nào có thể tăng tốc API?](https://youtu.be/_MtfJwJW7lc)
+
+09 - [CPU 100% bạn đã thấy chưa? Nếu có giải quyết thế nào?](https://youtu.be/qb49coRptls)
+
+10 - [FrontEnd đã giúp Backend kiểm soát LƯỢNG đồng thời cao với 1000 requests như thế nào?](https://youtu.be/vfxKrC6w34g)
+
+11 - ... updating
+
 ### 👉 Series MySQL basic to pro (a-z) cơ bản đến chuyên sâu cho FE và BE
 
 01 - [DOCKER vs MySQL Level 0,1 | #1 - PUBLIC](https://youtu.be/BwEIMkQMui4)
