@@ -220,6 +220,8 @@ FIX: [Update link Discord Member](https://youtu.be/2K3Pk-_pFSc)
 
 xxx: [Đề xuất sản phẩm: Hệ thống gợi ý sản phẩm trong eCommerce (Updating)](https://www.youtube.com/watch?v=5keK7PRH9pE&list=PLw0w5s5b9NK4ucXizOF-eKAXKvn9ruCw8)
 
+xxx: [GO: Bài này giới thiệu CÁCH học ngôn ngữ lập trình nhanh gọn hiệu quả(Updating..)](https://www.youtube.com/watch?v=5keK7PRH9pE&list=PLw0w5s5b9NK4ucXizOF-eKAXKvn9ruCw8)
+
 xxx: [GO: Xây dựng cấu trúc dự án chuẩn của GO: Dự án CRM eCommerce(Updating..)](https://www.youtube.com/watch?v=5keK7PRH9pE&list=PLw0w5s5b9NK4ucXizOF-eKAXKvn9ruCw8)
 
 ...
