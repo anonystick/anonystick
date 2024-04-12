@@ -208,7 +208,19 @@ FIX: [Update link Discord Member](https://youtu.be/2K3Pk-_pFSc)
 
 86: [Shop eCommerce: Triển khai Verify OTP Email ](https://youtu.be/d4Xy6MyaaCI)
 
-87: [Đề xuất sản phẩm: Hệ thống gợi ý sản phẩm trong eCommerce (Updating)](https://www.youtube.com/watch?v=5keK7PRH9pE&list=PLw0w5s5b9NK4ucXizOF-eKAXKvn9ruCw8)
+87: [SKU - SPU: Senior - Thiết kế dữ liệu cho SKU, SPU trong Product (1) ](https://youtu.be/RnhqkmHG4vE)
+
+88: [SKU - SPU: Triển khai và giải thích schema spu và sku model](https://youtu.be/gLo4guKxgfg)
+
+89: [SKU - SPU: Code controller and service for spu và sku model(Updating..)](https://www.youtube.com/watch?v=5keK7PRH9pE&list=PLw0w5s5b9NK4ucXizOF-eKAXKvn9ruCw8)
+
+90: [Hệ thống tìm kiếm sản phẩm: Chuyên sâu ElasticSearch(1)(Updating..)](https://www.youtube.com/watch?v=5keK7PRH9pE&list=PLw0w5s5b9NK4ucXizOF-eKAXKvn9ruCw8)
+
+91: [Hệ thống tìm kiếm sản phẩm: Chuyên sâu ElasticSearch(2)(Updating..)](https://www.youtube.com/watch?v=5keK7PRH9pE&list=PLw0w5s5b9NK4ucXizOF-eKAXKvn9ruCw8)
+
+xxx: [Đề xuất sản phẩm: Hệ thống gợi ý sản phẩm trong eCommerce (Updating)](https://www.youtube.com/watch?v=5keK7PRH9pE&list=PLw0w5s5b9NK4ucXizOF-eKAXKvn9ruCw8)
+
+xxx: [GO: Xây dựng cấu trúc dự án chuẩn của GO: Dự án CRM eCommerce(Updating..)](https://www.youtube.com/watch?v=5keK7PRH9pE&list=PLw0w5s5b9NK4ucXizOF-eKAXKvn9ruCw8)
 
 ...
 
