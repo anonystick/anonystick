@@ -280,6 +280,8 @@ xxx: [GO: Xây dựng cấu trúc dự án chuẩn của GO: Dự án CRM eComme
 
 25 - [Composite Pattern | Mức độ khó (★★★☆☆) | Mức độ phổ biến (★★★★☆) | Updating...](https://www.youtube.com/playlist?list=PLw0w5s5b9NK7TSuHpxOMvVtRuaEgHQczQ)
 
+26 - [DESIGN PATTERN vs SOLID: Sự khác nhau là gì? Nên học gì trước? Tôi là anti của S trong SOLID](https://youtu.be/OYACAk1QqLE)
+
 ...
 
 ### 👉 Series Interview and Explain BE (2024)
