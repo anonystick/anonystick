@@ -212,9 +212,9 @@ FIX: [Update link Discord Member](https://youtu.be/2K3Pk-_pFSc)
 
 88: [SKU - SPU: Triển khai và giải thích schema spu và sku model](https://youtu.be/gLo4guKxgfg)
 
-89: [SKU - SPU: Code controller and service for spu và sku model(Updating..)](https://www.youtube.com/watch?v=5keK7PRH9pE&list=PLw0w5s5b9NK4ucXizOF-eKAXKvn9ruCw8)
+89: [SKU - SPU: Code controller and service for spu và sku model](https://youtu.be/f5pK9_A-XTk)
 
-90: [Hệ thống tìm kiếm sản phẩm: Chuyên sâu ElasticSearch(1)(Updating..)](https://www.youtube.com/watch?v=5keK7PRH9pE&list=PLw0w5s5b9NK4ucXizOF-eKAXKvn9ruCw8)
+90: [Hệ thống tìm kiếm sản phẩm: Chuyên sâu ElasticSearch(1)](https://youtu.be/61LBcDdpCr4)
 
 91: [Hệ thống tìm kiếm sản phẩm: Chuyên sâu ElasticSearch(2)(Updating..)](https://www.youtube.com/watch?v=5keK7PRH9pE&list=PLw0w5s5b9NK4ucXizOF-eKAXKvn9ruCw8)
 
@@ -282,6 +282,7 @@ xxx: [GO: Xây dựng cấu trúc dự án chuẩn của GO: Dự án CRM eComme
 
 26 - [DESIGN PATTERN vs SOLID: Sự khác nhau là gì? Nên học gì trước? Tôi là anti của S trong SOLID](https://youtu.be/OYACAk1QqLE)
 
+27 - [SOLID: Open-Closes Principle - Mức độ khó (★★★☆☆) | Mức độ phổ biến (★★★★★) Updating](https://youtu.be/OYACAk1QqLE)
 ...
 
 ### 👉 Series Interview and Explain BE (2024)
