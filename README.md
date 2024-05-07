@@ -282,7 +282,7 @@ xxx: [GO: Xây dựng cấu trúc dự án chuẩn của GO: Dự án CRM eComme
 
 26 - [DESIGN PATTERN vs SOLID: Sự khác nhau là gì? Nên học gì trước? Tôi là anti của S trong SOLID](https://youtu.be/OYACAk1QqLE)
 
-27 - [SOLID: Open-Closes Principle - Mức độ khó (★★★☆☆) | Mức độ phổ biến (★★★★★) Updating](https://youtu.be/OYACAk1QqLE)
+27 - [SOLID: Open-Closes Principle - Mức độ khó (★★★☆☆) | Mức độ phổ biến (★★★★★)](https://youtu.be/Pbpq4Re1REQ)
 ...
 
 ### 👉 Series Interview and Explain BE (2024)
