@@ -30,7 +30,7 @@
 
 Link youtube: https://www.youtube.com/c/TipsJavascript/
 
-## 👉 Khóa học Nodejs Backend eCommerce (30.000 VNĐ)
+## 👉 Khóa học Backend eCommerce bao gồm hai NGÔN NGỮ [Nodejs + Go]  (30.000 VNĐ)
 
 LINK ĐĂNG KÝ - [Link dăng ký khóa học, tham gia hội viên](https://www.youtube.com/channel/UCky92hx0lZxVBi2BJ6Zm2Hg/join)
 
