@@ -214,15 +214,13 @@ FIX: [Update link Discord Member](https://youtu.be/2K3Pk-_pFSc)
 
 89: [SKU - SPU: Code controller and service for spu và sku model](https://youtu.be/f5pK9_A-XTk)
 
-90: [Hệ thống tìm kiếm sản phẩm: Chuyên sâu ElasticSearch(1)](https://youtu.be/61LBcDdpCr4)
+90: [ElasticSearch (1): Tư duy kiến trúc elasticsearch cho kỹ sư BE](https://youtu.be/61LBcDdpCr4)
 
-91: [Hệ thống tìm kiếm sản phẩm: Chuyên sâu ElasticSearch(2)(Updating..)](https://www.youtube.com/watch?v=5keK7PRH9pE&list=PLw0w5s5b9NK4ucXizOF-eKAXKvn9ruCw8)
+91: [ElasticSearch (2): Tư duy kiến trúc elasticsearch cho kỹ sư BE](https://youtu.be/nG8DOtbNO0k)
+
+93: [Go backend (1): Các kiến trúc phổ phiến khởi tạo dự án BackEnd](https://youtu.be/x5-YICJ9YyY)
 
 xxx: [Đề xuất sản phẩm: Hệ thống gợi ý sản phẩm trong eCommerce (Updating)](https://www.youtube.com/watch?v=5keK7PRH9pE&list=PLw0w5s5b9NK4ucXizOF-eKAXKvn9ruCw8)
-
-xxx: [GO: Bài này giới thiệu CÁCH học ngôn ngữ lập trình nhanh gọn hiệu quả(Updating..)](https://www.youtube.com/watch?v=5keK7PRH9pE&list=PLw0w5s5b9NK4ucXizOF-eKAXKvn9ruCw8)
-
-xxx: [GO: Xây dựng cấu trúc dự án chuẩn của GO: Dự án CRM eCommerce(Updating..)](https://www.youtube.com/watch?v=5keK7PRH9pE&list=PLw0w5s5b9NK4ucXizOF-eKAXKvn9ruCw8)
 
 ...
 
@@ -682,7 +680,11 @@ Chapter 5: [RabbitMQ (5) Đỉnh cao mô hình Publish Subscribe với Node.js v
 
 5 - [MySQL (Mongob) vs ElasticSearch kiến trúc đồng bộ dữ liệu NHANH - PUBLIC](https://youtu.be/I8xq5Phu2h0)
 
-6 ... Updating
+6: [ElasticSearch (1): Tư duy kiến trúc elasticsearch cho kỹ sư BE](https://youtu.be/61LBcDdpCr4)
+
+7: [ElasticSearch (2): Tư duy kiến trúc elasticsearch cho kỹ sư BE](https://youtu.be/nG8DOtbNO0k)
+
+8: [Connect ElasticSearch: Các kết nối ElasticSearch với hệ thống triển khai microservice| Updating ...]
 
 ### 👉 Kinh nghiệm phỏng vấn từ a-z 
 
