@@ -218,7 +218,11 @@ FIX: [Update link Discord Member](https://youtu.be/2K3Pk-_pFSc)
 
 91: [ElasticSearch (2): Tư duy kiến trúc elasticsearch cho kỹ sư BE](https://youtu.be/nG8DOtbNO0k)
 
-93: [Go backend (1): Các kiến trúc phổ phiến khởi tạo dự án BackEnd](https://youtu.be/x5-YICJ9YyY)
+93: [Go backend (1): Các kiến trúc phổ phiến khởi tạo dự án BackEnd](https://youtu.be/L_kqWi7U2E0)
+
+94: [Go backend (2): Setup dự án BackEnd](https://youtu.be/x5-YICJ9YyY)
+
+95: [Go backend (3): GIN vs ROUTER](https://youtu.be/EF8Sp03O_sk)
 
 xxx: [Đề xuất sản phẩm: Hệ thống gợi ý sản phẩm trong eCommerce (Updating)](https://www.youtube.com/watch?v=5keK7PRH9pE&list=PLw0w5s5b9NK4ucXizOF-eKAXKvn9ruCw8)
 
