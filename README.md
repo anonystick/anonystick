@@ -238,7 +238,7 @@ xxx: [Đề xuất sản phẩm: Hệ thống gợi ý sản phẩm trong eComme
 
 ...
 
-## 👉 Khóa học Backend eCommerce GO  (30.000 VNĐ)
+## 👉 Series Backend eCommerce GOLANG (Redis, mysql, elasticSearch, kafak, nginx, mongodb...)
 
 01: [Go backend: Các kiến trúc phổ phiến khởi tạo dự án BackEnd](https://youtu.be/L_kqWi7U2E0)
 
