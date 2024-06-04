@@ -238,6 +238,20 @@ xxx: [Đề xuất sản phẩm: Hệ thống gợi ý sản phẩm trong eComme
 
 ...
 
+## 👉 Khóa học Backend eCommerce GO  (30.000 VNĐ)
+
+01: [Go backend: Các kiến trúc phổ phiến khởi tạo dự án BackEnd](https://youtu.be/L_kqWi7U2E0)
+
+02: [Go backend: Setup dự án BackEnd](https://youtu.be/x5-YICJ9YyY)
+
+03: [Go backend: GIN vs ROUTER](https://youtu.be/EF8Sp03O_sk)
+
+04: [Go Backend: GIN vs MVC](https://youtu.be/uOwcqwC4Ni8)
+
+05: [Go Backend: GIN vs ERROR HANDLER](https://youtu.be/dhj4MqYqpqU)
+
+... Updating
+
 ## Tài nguyên học 
 
 Đây là khu vực dành cho tài liệu và khuyến khích học ở các nguồn này.
@@ -698,7 +712,7 @@ Chapter 5: [RabbitMQ (5) Đỉnh cao mô hình Publish Subscribe với Node.js v
 
 7: [ElasticSearch (2): Tư duy kiến trúc elasticsearch cho kỹ sư BE](https://youtu.be/nG8DOtbNO0k)
 
-8: [Connect ElasticSearch: Các kết nối ElasticSearch với hệ thống triển khai microservice| Updating ...]
+8: [ElasticSearch (3): Cách connect tối ưu và tích hợp dự án tìm kiếm sản phẩm](https://youtu.be/7vnSdxvIwQY)
 
 ### 👉 Kinh nghiệm phỏng vấn từ a-z 
 
