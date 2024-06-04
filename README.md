@@ -224,6 +224,16 @@ FIX: [Update link Discord Member](https://youtu.be/2K3Pk-_pFSc)
 
 95: [Go backend (3): GIN vs ROUTER](https://youtu.be/EF8Sp03O_sk)
 
+96: [Go Backend (4): GIN vs MVC](https://youtu.be/uOwcqwC4Ni8)
+
+97: [Redis Backend: Một backend xuất sắc phải xử lý 100 triệu requests](https://youtu.be/BLfrJxvA2aY)
+
+98: [Redis Backend: Thực hành cạm bẫy CACHE PENETRATION với Redis vs Nodejs](https://youtu.be/ZeyO1_DwkfM)
+
+99: [Go Backend (5): GIN vs ERROR HANDLER](https://youtu.be/dhj4MqYqpqU)
+
+100: [ElasticSearch Backend: Cách connect tối ưu và tích hợp dự án tìm kiếm sản phẩm](https://youtu.be/7vnSdxvIwQY)
+
 xxx: [Đề xuất sản phẩm: Hệ thống gợi ý sản phẩm trong eCommerce (Updating)](https://www.youtube.com/watch?v=5keK7PRH9pE&list=PLw0w5s5b9NK4ucXizOF-eKAXKvn9ruCw8)
 
 ...
