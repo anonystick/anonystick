@@ -250,6 +250,14 @@ xxx: [Đề xuất sản phẩm: Hệ thống gợi ý sản phẩm trong eComme
 
 05: [Go Backend: GIN vs ERROR HANDLER](https://youtu.be/dhj4MqYqpqU)
 
+06: [Go backend: GIN vs LOGGER HANDLER](https://youtu.be/vqf-2StTn0Q)
+
+07: [Go backend: GIN vs VIPER](https://youtu.be/G0YRksaHOFU)
+
+08: [Go Backend: GIN vs MIDDLEWARES](https://youtu.be/fMTeKC617KM)
+
+09: [Go Backend: GIN vs TEST MOCK](https://youtu.be/dhj4MqYqpqU)
+
 ... Updating
 
 ## Tài nguyên học 
