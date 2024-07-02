@@ -258,6 +258,12 @@ xxx: [Đề xuất sản phẩm: Hệ thống gợi ý sản phẩm trong eComme
 
 09: [Go Backend: GIN vs TEST MOCK](https://youtu.be/dhj4MqYqpqU)
 
+10: [Go Backend: Cấu trúc file main.go cho DỰ ÁN LỚN](https://youtu.be/mQMCRFrIO9M)
+
+11: [Go Backend: QUẢN LÝ LOGs CHO DỰ ÁN LỚN](https://youtu.be/xTjwb6VhEx0)
+
+12: [Go Backend: Làm việc với Mysql Pool, Tại sao lại là Pool](Updating...)
+
 ... Updating
 
 ## Tài nguyên học 
@@ -650,7 +656,9 @@ xxx: [Đề xuất sản phẩm: Hệ thống gợi ý sản phẩm trong eComme
 
 16 - [Design 4 models mongodb quan trọng orders, carts, products, inventories trong System eCommerce P - 5](https://youtu.be/tMAe893baIs)
 
-17 ...
+17 - [Redis PipeLine: Vì sao các kỹ sư kinh nghiệm luôn ưa thích](updating...)
+
+18 - [Redis Go: Cách connect hiệu quả trong Go Backend](Updating...)
 
 ### 👉 Series Backend Architecture
 
