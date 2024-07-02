@@ -272,7 +272,9 @@ xxx: [Đề xuất sản phẩm: Hệ thống gợi ý sản phẩm trong eComme
 
 13: [Go Backend: Làm việc với Redis sentinel, cluster, Tại sao lại là Sentinel](Updating...)
 
-14: [Go Backend: User-Register: Send OTP, VerifyOTP, BLock IP Spam...](Updating...)
+14: [Go Backend: Triển khai BlackList IP, WhiteList IP cho hệ thống api](Updating...)
+
+15: [Go Backend: User-Register: Send OTP, VerifyOTP, BLock IP Spam...](Updating...)
 
 ... Updating
 
