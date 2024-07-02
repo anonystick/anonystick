@@ -634,7 +634,7 @@ xxx: [Đề xuất sản phẩm: Hệ thống gợi ý sản phẩm trong eComme
 
 3 - [Socket.io triển khai theo MVC Express | Best practice question involving Socket.io and MVC | Nodejs](https://youtu.be/jY3aDAYNq_Q)
 
-### 👉 Series Redis
+### 👉 Series Redis: (Fresher -> Junior -> Senior -> Level xxx)
 
 01 - [REDIS và 3 sự cố phổ biến khi sử dụng nodejs | Cache avalanche | Cache breakdown | Cache penetration](https://youtu.be/VE1oTBR0gig)
 
