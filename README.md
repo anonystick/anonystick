@@ -668,9 +668,11 @@ xxx: [Đề xuất sản phẩm: Hệ thống gợi ý sản phẩm trong eComme
 
 16 - [Design 4 models mongodb quan trọng orders, carts, products, inventories trong System eCommerce P - 5](https://youtu.be/tMAe893baIs)
 
-17 - [Redis PipeLine: Vì sao các kỹ sư kinh nghiệm luôn ưa thích](updating...)
+17 - [Redis PipeLine: Vì sao các kỹ sư kinh nghiệm luôn ưa thích (Updating...)]
 
-18 - [Redis Go: Cách connect hiệu quả trong Go Backend](Updating...)
+18 - [Redis Go: Cách connect hiệu quả trong Go Backend (Updating...)]
+
+19 - Updating...
 
 ### 👉 Series Backend Architecture
 
