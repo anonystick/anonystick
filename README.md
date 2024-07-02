@@ -264,6 +264,10 @@ xxx: [Đề xuất sản phẩm: Hệ thống gợi ý sản phẩm trong eComme
 
 12: [Go Backend: Làm việc với Mysql Pool, Tại sao lại là Pool](Updating...)
 
+13: [Go Backend: Làm việc với Redis sentinel, cluster, Tại sao lại là Sentinel](Updating...)
+
+14: [Go Backend: User-Register: Send OTP, VerifyOTP, BLock IP Spam...](Updating...)
+
 ... Updating
 
 ## Tài nguyên học 
