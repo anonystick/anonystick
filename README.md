@@ -234,6 +234,12 @@ FIX: [Update link Discord Member](https://youtu.be/2K3Pk-_pFSc)
 
 100: [ElasticSearch Backend: Cách connect tối ưu và tích hợp dự án tìm kiếm sản phẩm](https://youtu.be/7vnSdxvIwQY)
 
+104: [Mysql Senior: Thao tác cần biết khắc phục LỖI MYSQL trực tuyến](https://youtu.be/Jn26PlOEkVE)
+
+105: [MySQL Senior: BẠN CÓ HIỂU NHẦM VỀ INDEX PRIMARY, UNIQUE, FULLTEXT?](https://youtu.be/7pfVaIBSZ_U)
+
+106: [MySQL Senior: Nguyên tắc sử dụng 6 loại index và công thức tối ưu](https://youtu.be/BosoW1zMzuw)
+
 xxx: [Đề xuất sản phẩm: Hệ thống gợi ý sản phẩm trong eCommerce (Updating)](https://www.youtube.com/watch?v=5keK7PRH9pE&list=PLw0w5s5b9NK4ucXizOF-eKAXKvn9ruCw8)
 
 ...
