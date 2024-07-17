@@ -337,6 +337,40 @@ xxx: [Đề xuất sản phẩm: Hệ thống gợi ý sản phẩm trong eComme
 27 - [SOLID: Open-Closes Principle - Mức độ khó (★★★☆☆) | Mức độ phổ biến (★★★★★)](https://youtu.be/Pbpq4Re1REQ)
 ...
 
+## 👉 Series Message Queue System (Kafka + RabbitMQ) Level 3
+
+01: [Kafka: Hệ thống cũ rất chậm đã đến lúc sử dụng Broker Message Queue Phần 1](https://youtu.be/yK4T7Myi9N4)
+
+02: [Kafka: Mới join vào TEAM, cần học nhanh về KafKa Phần 2](https://youtu.be/a7lmP5hdgB0)
+
+03: [Kafka: Sử dụng trong Stocks như thế nào? Phần 3 Updating]
+
+04: [Notifications Service vs Tách Message Queue System - member](https://youtu.be/dAefZUW3fOQ)
+
+05: [Kafka Message Queue - member](https://youtu.be/_YT0MsFszhY) 
+
+06: [Rabbit Message Queue - member](https://youtu.be/DWr5zV_TmF8) 
+
+07: [Tách dự án với kiến trúc Microservice System | Level 3, 4](https://youtu.be/eo6RJsQTOqI) 
+
+08: [Integration Testing with Jest vs Mongodb | Microservice System](https://youtu.be/0pgx_XUjddo) 
+
+09: [[start server] First step in Microservice vs Message Queue | Microservice System | Lvxx](https://youtu.be/qw1z8hJRzuc) 
+
+10: [Xử lý Message Error or TTL (Time To Live) trong Message Queue thế nào? | Kiến trúc MQ](https://youtu.be/nDxAiAB4UJg) 
+
+11: [Xử lý message khi gặp sự cố MQ server die (TTL) thực hành](https://youtu.be/muR4HURM0k4) 
+
+12: [QUAN TRỌNG và dành cho Level cao về cách Xử lý error message trong kiến trúc MQ](https://youtu.be/lZXkli4AhGA) 
+
+13: [Message Ordering in Pub/Sub or Queues | Microservices Backend](https://youtu.be/tVawGVrJPak) 
+
+14: [Message Ordering | Microservice Backend | #2](https://youtu.be/nrFEJLiU-l0) 
+
+15: [Thực hành về Message Ordered với hai tình huống | RabbitMQ | Microservice Backend](https://youtu.be/XPaqZek9q-A) 
+
+... Còn
+
 ### 👉 Series Interview and Explain BE (2024)
 
 01 - [Lý thuyết + Code: Lập trình song song, tuần tự và đồng thời là gì?](https://www.youtube.com/watch?v=9VBRHwYDY7A)
