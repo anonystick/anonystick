@@ -347,15 +347,13 @@ xxx: [Đề xuất sản phẩm: Hệ thống gợi ý sản phẩm trong eComme
 
 04: [Notifications Service vs Tách Message Queue System - member](https://youtu.be/dAefZUW3fOQ)
 
-05: [Kafka Message Queue - member](https://youtu.be/_YT0MsFszhY) 
+05: [Cách triển khai Kafka Message Queue - member](https://youtu.be/_YT0MsFszhY) 
 
-06: [Rabbit Message Queue - member](https://youtu.be/DWr5zV_TmF8) 
+06: [Cách triển khai Rabbit Message Queue - member](https://youtu.be/DWr5zV_TmF8) 
 
 07: [Tách dự án với kiến trúc Microservice System | Level 3, 4](https://youtu.be/eo6RJsQTOqI) 
 
-08: [Integration Testing with Jest vs Mongodb | Microservice System](https://youtu.be/0pgx_XUjddo) 
-
-09: [[start server] First step in Microservice vs Message Queue | Microservice System | Lvxx](https://youtu.be/qw1z8hJRzuc) 
+09: [First step in Microservice vs Message Queue | Microservice System | Lvxx](https://youtu.be/qw1z8hJRzuc) 
 
 10: [Xử lý Message Error or TTL (Time To Live) trong Message Queue thế nào? | Kiến trúc MQ](https://youtu.be/nDxAiAB4UJg) 
 
