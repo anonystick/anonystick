@@ -268,13 +268,23 @@ xxx: [Đề xuất sản phẩm: Hệ thống gợi ý sản phẩm trong eComme
 
 11: [Go Backend: QUẢN LÝ LOGs CHO DỰ ÁN LỚN](https://youtu.be/xTjwb6VhEx0)
 
-12: [Go Backend: Làm việc với Mysql Pool, Tại sao lại là Pool](Updating...)
+12: [Go Backend: Làm việc với Mysql Pool, Tại sao lại là Pool](https://youtu.be/aIHwJCfvNfY)
 
-13: [Go Backend: Làm việc với Redis sentinel, cluster, Tại sao lại là Sentinel](Updating...)
+13: [Go Backend: Làm việc với Redis sentinel, cluster, Tại sao lại là Sentinel](https://youtu.be/hwXW_2DAdHo)
 
-14: [Go Backend: Triển khai BlackList IP, WhiteList IP cho hệ thống api](Updating...)
+14: [Go Backend: Router cho TEAM LỚN](https://youtu.be/WLwSdpVB6ts)
 
-15: [Go Backend: User-Register: Send OTP, VerifyOTP, BLock IP Spam...](Updating...)
+15: [Go Kafka Backend: Kafka thực hành về mua bán cổ phiếu với các tình huống](https://youtu.be/GFGp9jZQcmI)
+
+16: [Go Interview: Không sử dụng Interface có được không? ĐƯỢC vs MẤT khi không sử dụng?](https://youtu.be/LjFa5hXooeM)
+
+17: [Go Backend: Interface cách triển khai nếu bạn là member](https://youtu.be/3HArGaE0Sbs)
+
+18: [Go Backend: Nói về Dependency Injection và sủ dụng Wire trong dự án](https://youtu.be/Yc9XnmUvsc4)
+
+19: [Go Backend: Triển khai BlackList IP, WhiteList IP cho hệ thống api](Updating...)
+
+20: [Go Backend: User-Register: Send OTP, VerifyOTP, BLock IP Spam...](Updating...)
 
 ... Updating
 
