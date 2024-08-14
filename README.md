@@ -24,11 +24,94 @@
 <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
 </p>
 
-## Xin chào Anh Em 👋 
+## 👋 Lộ trình một lập trình viên BACKEND
 
-💬 Ask me about: https://anonystick.com
+# Con đường Lập Trình Viên Backend
 
-Link youtube: https://www.youtube.com/c/TipsJavascript/
+> Con đường giúp bạn trở thành Lập trình viên Backend từ cơ bản (LEVEL 0) đến CAO CẤP (LEVEL 5)
+>
+> Người đưa đò：[Tips Backend](https://www.youtube.com/@go.anonystick)
+>
+> Lộ trình FULL：[https://backend.anonystick.com](https://backend.anonystick.com)
+
+## Lộ trình Backend
+
+Trước tiên chúng tôi cung cấp cho bạn làm quen và nâng cao từng step với 3 ngôn ngữ khác nhau. Nếu bạn bắt đầu với ngôn ngữ java thì việc học các ngôn ngữ còn lại tương đối không khó khăn. Nhưng việc xuất phát ở Nodejs sẽ giúp bạn tiếp cận với một JOB NHANH hown vì ở các CHƯƠNG có cái nhìn tổng quan trong việc phát triển một cơ sở hạ tầng của một hệ thống bao gồm (Mongodb, Amazon Services, RabbitMQ, Elasticsearch, Redis, Kafka, Nginx...). Còn Go sẽ là tương lai cho những bạn sẵn sàng chuẩn bị cho những năm tiếp theo và sẽ gần thôi.
+
+
+## NÊN NHỚ - Thói quen là một kỳ quan thứ 9...
+
+Tôi còn nhớ những câu nói "Muốn nhìn xa hãy đứng trên vai người khổng lồ", "Mọi con đường đều hướng đến thành ROME..". MỌi sự chuẩn bị hôm nay, chính là thành công cho tương lai... Bắt đầu hay không tuỳ thuộc vào bạn...
+
+- [Con đường GO BACKEND (21 chương - Đang cập nhật)](https://github.com/anonystick/anonystick?tab=readme-ov-file#-kh%C3%B3a-h%E1%BB%8Dc-backend-ecommerce-bao-g%E1%BB%93m-hai-ng%C3%B4n-ng%E1%BB%AF-nodejs--go--30000-vn%C4%91)
+- [Con đường NODEJS BACKEND (101 chương)](https://github.com/anonystick/anonystick?tab=readme-ov-file#-series-backend-ecommerce-golang-redis-mysql-elasticsearch-kafak-nginx-mongodb)
+- [Con đường JAVA BACKEND (Đang cập nhật)](https://github.com/anonystick/anonystick?tab=readme-ov-file#-series-backend-ecommerce-golang-redis-mysql-elasticsearch-kafak-nginx-mongodb)
+
+
+## [👉 Khám phá lộ trình GO BACKEND (21 chương - Đang cập nhật)](https://www.youtube.com/playlist?list=PLw0w5s5b9NK6qiL9Xzki-mGbq_V8dBQkY)
+
+Hiện tại dự án đã khởi động đến section 20 và từ section 21 thì sẽ là nâng cao với tính năng `Registration User`..
+
+```php
+-- Xóa bảng nếu đã tồn tại
+DROP TABLE IF EXISTS `go_crm_user`;
+-- New
+CREATE TABLE `go_crm_user` (
+  `usr_id` int(11) unsigned NOT NULL AUTO_INCREMENT COMMENT 'Account ID',
+  `usr_email` varchar(30) NOT NULL DEFAULT '' COMMENT 'Email',
+  `usr_phone` varchar(15) NOT NULL DEFAULT '' COMMENT 'Phone Number',
+  `usr_username` varchar(30) NOT NULL DEFAULT '' COMMENT 'Username',
+  `usr_password` varchar(32) NOT NULL DEFAULT '' COMMENT 'Password',
+  `usr_created_at` int(11) NOT NULL DEFAULT '0' COMMENT 'Creation Time',
+  `usr_updated_at` int(11) NOT NULL DEFAULT '0' COMMENT 'Update Time',
+  `usr_create_ip_at` varchar(12) NOT NULL DEFAULT '' COMMENT 'Creation IP',
+  `usr_last_login_at` int(11) NOT NULL DEFAULT '0' COMMENT 'Last Login Time',
+  `usr_last_login_ip_at` varchar(12) NOT NULL DEFAULT '' COMMENT 'Last Login IP',
+  `usr_login_times` int(11) NOT NULL DEFAULT '0' COMMENT 'Login Times',
+  `usr_status` tinyint(1) NOT NULL DEFAULT '0' COMMENT 'Status 1:enable, 0:disable, -1:deleted',
+  PRIMARY KEY (`usr_id`),
+  KEY `idx_email` (`usr_email`),
+  KEY `idx_phone` (`usr_phone`),
+  KEY `idx_username` (`usr_username`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='Account';
+
+
+-- XEM KHAI BÁO
+DESC go_crm_user;
+
+```
+
+## [👉 Khám phá lộ trình NODEJS BACKEND (101 chương)](https://www.youtube.com/playlist?list=PLw0w5s5b9NK4ucXizOF-eKAXKvn9ruCw8)
+
+Hiện tại dự án đã khởi động đến section 101 và từ section 28 thì sẽ là nâng cao...
+
+
+## [👉 Khám phá lộ trình JAVA BACKEND(Đang cập nhật)](https://www.youtube.com/playlist?list=PLw0w5s5b9NK4ucXizOF-eKAXKvn9ruCw8)
+
+Con đường JAVA BACKEND...
+
+
+## Giá trị của việc học
+
+Việc học rất quan trọng, nhưng cách học cũng quan trọng không kém, chúng tôi đã sắp xếp các chương theo thứ tự từ thấp đến cao. Từ basic cho đến Advance. Hãy cố gắng duy trì thói quen code mỗi ngày, và cải thiện những tính năng đã không còn phù hợp với hiện tại hoặc những tính năng chưa trọn vẹn. 
+
+## Lộ trình dành cho ai?
+
+Lộ trình này dành cho ai? Từ sinh viên mới ra trường và những bạn muốn chuyển đổi từ FrontEnd qua Backend hoặc những bạn có kinh nghiệm một năm muốn chuyển đổi từ ngôn ngữ này qua ngôn ngữ khác một cách nhanh chóng. Hơn nữa muốn thăng tiến và giải quyết các task có tính chất quan trọng trong dự án thì có thể tham khảo dự án này.
+
+## Giá chỉ 30.000 VND cho 3 khoá học
+
+Hiện tại cho đến bây giờ chúng tôi mở 3 khoá học chỉ với 30.000 VND. Và sau này có thể sẽ tách ra và giá trị mỗi khoá sẽ riêng biệt và tăng dần. Chính vì vậy hiện tại là một cơ hội cho các bạn có chung chí hướng và nghiêm túc trong nghề nghiệp của mình.
+
+Link đăng ký MEMBER YOUTUBE: [ĐĂNG KÝ CHO 3 KHOÁ chỉ với 30.000 VNĐ](https://www.youtube.com/channel/UCky92hx0lZxVBi2BJ6Zm2Hg/join)
+
+Link Go Backend: [Go Backend](https://www.youtube.com/@go.anonystick)
+
+Link Nodejs Backend: [Nodejs Backend](https://www.youtube.com/@anonystick)
+
+Link Java Backend: [Java Backend](https://www.youtube.com/@java.anonystick)
+
+
 
 ## 👉 Khóa học Backend eCommerce bao gồm hai NGÔN NGỮ [Nodejs + Go]  (30.000 VNĐ)
 
