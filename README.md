@@ -30,9 +30,9 @@
 
 > Con đường giúp bạn trở thành Lập trình viên Backend từ cơ bản (LEVEL 0) đến CAO CẤP (LEVEL 5)
 >
-> Người đưa đò：[Tips Backend](https://www.youtube.com/@go.anonystick)
+> Người đưa đò：[Tips Backend](https://www.youtube.com/@anonystick)
 >
-> Lộ trình FULL：[https://backend.anonystick.com](https://backend.anonystick.com)
+> Lộ trình FULL：[https://anonystick.com](https://anonystick.com)
 
 ## Lộ trình Backend
 
@@ -43,8 +43,8 @@ Trước tiên chúng tôi cung cấp cho bạn làm quen và nâng cao từng s
 
 Tôi còn nhớ những câu nói "Muốn nhìn xa hãy đứng trên vai người khổng lồ", "Mọi con đường đều hướng đến thành ROME..". MỌi sự chuẩn bị hôm nay, chính là thành công cho tương lai... Bắt đầu hay không tuỳ thuộc vào bạn...
 
-- [Con đường GO BACKEND (21 chương - Đang cập nhật)](https://github.com/anonystick/anonystick?tab=readme-ov-file#-kh%C3%B3a-h%E1%BB%8Dc-backend-ecommerce-bao-g%E1%BB%93m-hai-ng%C3%B4n-ng%E1%BB%AF-nodejs--go--30000-vn%C4%91)
-- [Con đường NODEJS BACKEND (101 chương)](https://github.com/anonystick/anonystick?tab=readme-ov-file#-series-backend-ecommerce-golang-redis-mysql-elasticsearch-kafak-nginx-mongodb)
+- [Con đường GO BACKEND (21 chương - Đang cập nhật)](https://github.com/anonystick/anonystick?tab=readme-ov-file#-series-backend-ecommerce-golang-redis-mysql-elasticsearch-kafak-nginx-mongodb)
+- [Con đường NODEJS BACKEND (101 chương)](https://github.com/anonystick/anonystick?tab=readme-ov-file#-kh%C3%B3a-h%E1%BB%8Dc-backend-ecommerce-bao-g%E1%BB%93m-hai-ng%C3%B4n-ng%E1%BB%AF-nodejs--go--30000-vn%C4%91)
 - [Con đường JAVA BACKEND (Đang cập nhật)](https://github.com/anonystick/anonystick?tab=readme-ov-file#-series-backend-ecommerce-golang-redis-mysql-elasticsearch-kafak-nginx-mongodb)
 
 
