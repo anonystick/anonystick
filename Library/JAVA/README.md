@@ -5,72 +5,111 @@ Hướng dẫn lấy eBook Free: Link:
 ### 1. Level 0, 1 (Fresher)
 
 Java The Complete Reference Ninth Edition
+
 Mức độ khó: ★☆☆☆☆
 Mức độ phổ biến: ★★★★★
+
 Head First Java, 2nd Edition
+
 Mức độ khó: ★☆☆☆☆
 Mức độ phổ biến: ★★★★★
+
 Java APIs, Extensions and Libraries, 2nd Edition
+
 Mức độ khó: ★★☆☆☆
 Mức độ phổ biến: ★★★★☆
+
 Advance-Java-Santosh.pdf
+
 Mức độ khó: ★★☆☆☆
 Mức độ phổ biến: ★★★★☆
+
 Advance-Java-Suresh.pdf
+
 Mức độ khó: ★★☆☆☆
 Mức độ phổ biến: ★★★★☆
+
 core-java-volume-1-fundamentals-10th.zip
+
 Mức độ khó: ★★☆☆☆
 Mức độ phổ biến: ★★★☆☆
+
 Java EE 8 Recipes, 2nd Edition
+
 Mức độ khó: ★★☆☆☆
 Mức độ phổ biến: ★★★☆☆
 
 ### 2. Level 2,3 (Intermediate)
 
 Algorithms in Java Parts1-4 3rd Edition
+
 Mức độ khó: ★★★☆☆
 Mức độ phổ biến: ★★★★☆
+
 Building_and_Testing_with_Gradle.pdf
+
 Mức độ khó: ★★★☆☆
 Mức độ phổ biến: ★★★☆☆
+
 RESTful Web APIs
+
 Mức độ khó: ★★★☆☆
 Mức độ phổ biến: ★★★★☆
+
 RESTful Web Services
+
 Mức độ khó: ★★★☆☆
 Mức độ phổ biến: ★★★★☆
+
 Spring in Action (3rd Edition)
+
 Mức độ khó: ★★★☆☆
 Mức độ phổ biến: ★★★★★
+
 JUnit in Action 2nd Edition (Covers JUnit 4.8)
+
 Mức độ khó: ★★★☆☆
 Mức độ phổ biến: ★★★★☆
+
 Java Software Structures, 4th Edition
+
 Mức độ khó: ★★☆☆☆
 Mức độ phổ biến: ★★★☆☆
+
 Spring Boot in Action
+
 Mức độ khó: ★★★☆☆
 Mức độ phổ biến: ★★★★★
 
 ### 3. Level 4, 5 (Senior)
 
 Java EE 8 Recipes, 2nd Edition
+
 Mức độ khó: ★★★★☆
 Mức độ phổ biến: ★★★☆☆
+
 Design Patterns (dzone)
+
 Mức độ khó: ★★★★☆
 Mức độ phổ biến: ★★★★☆
+
 Design Patterns by Sekhar Sir
+
 Mức độ khó: ★★★★☆
 Mức độ phổ biến: ★★★☆☆
+
 Pro RESTful APIs
+
 Mức độ khó: ★★★★☆
 Mức độ phổ biến: ★★★★☆
+
 Spring in Action, Fourth Edition
+
 Mức độ khó: ★★★★☆
 Mức độ phổ biến: ★★★★★
+
 Spring MVC Cookbook
+
 Mức độ khó: ★★★★☆
 Mức độ phổ biến: ★★★★☆
 
