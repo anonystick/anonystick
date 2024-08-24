@@ -89,7 +89,7 @@ Hiện tại dự án đã khởi động đến section 101 và từ section 28
 
 ## [👉 Khám phá lộ trình JAVA BACKEND(Đang cập nhật)](https://www.youtube.com/playlist?list=PLw0w5s5b9NK4ucXizOF-eKAXKvn9ruCw8)
 
-Con đường JAVA BACKEND...
+## 👉 Con đường JAVA BACKEND [JOIN HERE](https://www.youtube.com/channel/UCky92hx0lZxVBi2BJ6Zm2Hg/join)
 
 
 ## Giá trị của việc học
