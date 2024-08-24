@@ -82,10 +82,6 @@ DESC go_crm_user;
 
 ```
 
-## [👉 Khám phá lộ trình NODEJS BACKEND (101 chương)](https://www.youtube.com/playlist?list=PLw0w5s5b9NK4ucXizOF-eKAXKvn9ruCw8)
-
-Hiện tại dự án đã khởi động đến section 101 và từ section 28 thì sẽ là nâng cao...
-
 
 ## [👉 Khám phá lộ trình JAVA BACKEND(Đã xuất bản 04 chương)](https://www.youtube.com/channel/UCky92hx0lZxVBi2BJ6Zm2Hg/join)
 
@@ -124,7 +120,7 @@ Link Java Backend: [Java Backend](https://www.youtube.com/@java.anonystick)
 
 
 
-## 👉 Khóa học Backend eCommerce bao gồm hai NGÔN NGỮ [Nodejs + Go]  (30.000 VNĐ)
+## 👉 Backend eCommerce bao gồm hai NGÔN NGỮ [Nodejs + Go]  (30.000 VNĐ)
 
 LINK ĐĂNG KÝ - [Link dăng ký khóa học, tham gia hội viên](https://www.youtube.com/channel/UCky92hx0lZxVBi2BJ6Zm2Hg/join)
 
