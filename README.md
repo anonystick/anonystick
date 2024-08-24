@@ -87,9 +87,19 @@ DESC go_crm_user;
 Hiện tại dự án đã khởi động đến section 101 và từ section 28 thì sẽ là nâng cao...
 
 
-## [👉 Khám phá lộ trình JAVA BACKEND(Đang cập nhật)](https://www.youtube.com/playlist?list=PLw0w5s5b9NK4ucXizOF-eKAXKvn9ruCw8)
+## [👉 Khám phá lộ trình JAVA BACKEND(Đã xuất bản 04 chương)](https://www.youtube.com/channel/UCky92hx0lZxVBi2BJ6Zm2Hg/join)
 
-## 👉 Con đường JAVA BACKEND [JOIN HERE](https://www.youtube.com/channel/UCky92hx0lZxVBi2BJ6Zm2Hg/join)
+1 - [JAVA BACKEND: Welcome SpringBoot, con đường, lộ trình và eBook theo mỗi Levels](https://youtu.be/pNZyzE_9EPM)
+
+2 - [JAVA BACKEND: Install vs Start Project sử dụng vs CODE và intellij IDEA](https://youtu.be/BpQsIGVrmXs)
+
+3 - [JAVA BACKEND: Mức độ ưu tiên file Application và hiểu sâu về properties, yaml trong config dự án](https://youtu.be/PvcIwEkUcEc)
+
+4 - [JAVA BACKEND: Kỹ năng chuyển đổi PROJECT từ DEV qua TEST, PRE, PRODUCT](https://youtu.be/z49Kb4a_cV0)
+
+5 - Cấu trúc folder dự án tầm trung..
+
+6 - Cấu trúc folder dự án LỚN của JAVA..
 
 
 ## Giá trị của việc học
