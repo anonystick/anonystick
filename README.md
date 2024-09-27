@@ -93,10 +93,23 @@ DESC go_crm_user;
 
 4 - [JAVA BACKEND: Kỹ năng chuyển đổi PROJECT từ DEV qua TEST, PRE, PRODUCT](https://youtu.be/z49Kb4a_cV0)
 
-5 - Cấu trúc folder dự án tầm trung..
+5 - [JAVA BACKEND: Làm quen với Spring Boot Folder Structure](https://youtu.be/jnURsbcOycM)
 
-6 - Cấu trúc folder dự án LỚN của JAVA..
+6 - [JAVA BACKEND: Tôi mới học JPA Spring DATA > phần 1: Làm quen](https://youtu.be/EwSrtrk7Kq0)
 
+7 - [JAVA BACKEND: Tôi mới học JPA Spring DATA > phần 2: Controller](https://youtu.be/0unBab23Kok)
+
+8 - [JAVA BACKEND: Tôi mới học JPA Spring DATA > phần 3: phân trang](https://youtu.be/pDKVqwN4fLg)
+
+9 - [JAVA BACKEND: Tôi mới học JPA Spring DATA > phần 4: làm việc với OneToOne, OneToMany và ManyToOne](https://youtu.be/qkCRcKnvJ70)
+
+10 - [JAVA BACKEND: Tôi mới học JPA Spring DATA > phần 4: làm việc với ManyToMany](https://youtu.be/SgMbCgvs2Z8)
+
+11 - [JAVA BACKEND: Send OTP Email Spring With SMTP AWS, GO PUSH OTP](https://youtu.be/iSRRM5exThE)
+
+12 - [JAVA BACKEND: Làm việc với Kafka Microservices kết hợp TEAM GO](https://youtu.be/9AGeQCwJCAs)
+
+...
 
 ## Giá trị của việc học
 
