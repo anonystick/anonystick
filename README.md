@@ -376,6 +376,26 @@ xxx: [Đề xuất sản phẩm: Hệ thống gợi ý sản phẩm trong eComme
 
 20: [Go Backend: User-Register: Send OTP, VerifyOTP, BLock IP Spam...](Updating...)
 
+21: [Go Backend: Chiến đấu với Docker Link, Docker Compose build Project Level 2, 3, 4](https://youtu.be/gBdQgm5tzQ4)
+
+BONUS: [Go Backend: Đồng bộ dữ liệu Mysql to Kafka sử dụng Debezium với  N Tables tốc độ REALTIME](https://youtu.be/KqLzls2xCnQ)
+
+22: [Go Backend: Tại sao nhiều công ty lại sử dụng SQLC](https://youtu.be/j8pfNFX7rs8)
+
+23: [Go Backend: Từ khi sử dụng GOOSE tốc độ làm việc Database nhanh gấp đôi](https://youtu.be/GTeu_vX2NWU)
+
+24: [Go Backend: Triển khai quy trình send OTP cho User Registration](https://youtu.be/qe5-Q0psiYM)
+
+25: [Go Backend: Đến lúc chia tay GORM vì sao?](https://youtu.be/RLaZs_upIns)
+
+26: [Go Backend: TEAM JAVA hỗ trợ send OTP cho TEAM GO](https://youtu.be/z6FN492XwDw)
+
+27: [Go Backend: Đến lúc làm việc với Kafka](https://youtu.be/uq3OvTC-LJA)
+
+28: [Go Backend: Quyết định refactor interface sau khi nhìn lén code đồng nghiệp](https://youtu.be/5UVx7TITbXM)
+
+29: [Go Backend: Đến lúc trở thành Senior và làm việc với makefile, diagram mysql](https://youtu.be/wSdaJ0Oyt8k)
+
 ... Updating
 
 ## Tài nguyên học 
