@@ -109,6 +109,10 @@ DESC go_crm_user;
 
 12 - [JAVA BACKEND: Làm việc với Kafka Microservices kết hợp TEAM GO](https://youtu.be/9AGeQCwJCAs)
 
+13 - [SPRING SECURITY: Toàn diện về bảo mật cấp doanh nghiệp JAVA](https://youtu.be/1h7yp9ubWzQ)
+
+14 - [SPRING SECURITY: Doanh nghiệp chọn phương pháp nào để xác thực "MÀY LÀ AI?"](https://youtu.be/jIRyd2tjYSc)
+
 ...
 
 ## Giá trị của việc học
