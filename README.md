@@ -413,6 +413,18 @@ BONUS: [Go Backend: Đồng bộ dữ liệu Mysql to Kafka sử dụng Debezium
 
 29: [Go Backend: Đến lúc trở thành Senior và làm việc với makefile, diagram mysql](https://youtu.be/wSdaJ0Oyt8k)
 
+30: [Go Backend: Implement IUserLogin - Register, CheckOTP, Login (token), UpdatePassRegister](https://youtu.be/iYwOZIy2Dno)
+
+31: [Go Backend: Tích hợp API SWAGGER DOCUMENTATION](https://youtu.be/luVb_lvHrKo)
+
+32: [Go Backend: Verify OTP](https://youtu.be/GUViVHAxodc)
+
+33: [Go Backend: Update Info User](https://youtu.be/elrgdNIAQEg)
+
+34: [Go Backend: Login User](https://youtu.be/CbLYtz4cwLk)
+
+35: [Go Backend: Generate Token JWT](https://youtu.be/YbK2cCtjjBY)
+
 ... Updating
 
 ## Tài nguyên học 
