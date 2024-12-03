@@ -51,36 +51,7 @@ Tôi còn nhớ những câu nói "Muốn nhìn xa hãy đứng trên vai ngư�
 
 ## [👉 Khám phá lộ trình GO BACKEND (21 chương - Đang cập nhật)](https://www.youtube.com/playlist?list=PLw0w5s5b9NK6qiL9Xzki-mGbq_V8dBQkY)
 
-Hiện tại dự án đã khởi động đến section 20 và từ section 21 thì sẽ là nâng cao với tính năng `Registration User`..
-
-```php
--- Xóa bảng nếu đã tồn tại
-DROP TABLE IF EXISTS `go_crm_user`;
--- New
-CREATE TABLE `go_crm_user` (
-  `usr_id` int(11) unsigned NOT NULL AUTO_INCREMENT COMMENT 'Account ID',
-  `usr_email` varchar(30) NOT NULL DEFAULT '' COMMENT 'Email',
-  `usr_phone` varchar(15) NOT NULL DEFAULT '' COMMENT 'Phone Number',
-  `usr_username` varchar(30) NOT NULL DEFAULT '' COMMENT 'Username',
-  `usr_password` varchar(32) NOT NULL DEFAULT '' COMMENT 'Password',
-  `usr_created_at` int(11) NOT NULL DEFAULT '0' COMMENT 'Creation Time',
-  `usr_updated_at` int(11) NOT NULL DEFAULT '0' COMMENT 'Update Time',
-  `usr_create_ip_at` varchar(12) NOT NULL DEFAULT '' COMMENT 'Creation IP',
-  `usr_last_login_at` int(11) NOT NULL DEFAULT '0' COMMENT 'Last Login Time',
-  `usr_last_login_ip_at` varchar(12) NOT NULL DEFAULT '' COMMENT 'Last Login IP',
-  `usr_login_times` int(11) NOT NULL DEFAULT '0' COMMENT 'Login Times',
-  `usr_status` tinyint(1) NOT NULL DEFAULT '0' COMMENT 'Status 1:enable, 0:disable, -1:deleted',
-  PRIMARY KEY (`usr_id`),
-  KEY `idx_email` (`usr_email`),
-  KEY `idx_phone` (`usr_phone`),
-  KEY `idx_username` (`usr_username`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='Account';
-
-
--- XEM KHAI BÁO
-DESC go_crm_user;
-
-```
+Hiện tại dự án đã khởi động đến section 36
 
 
 ## [👉 Khám phá lộ trình JAVA BACKEND(Đã xuất bản 04 chương)](https://www.youtube.com/channel/UCky92hx0lZxVBi2BJ6Zm2Hg/join)
@@ -113,7 +84,32 @@ DESC go_crm_user;
 
 14 - [SPRING SECURITY: Doanh nghiệp chọn phương pháp nào để xác thực "MÀY LÀ AI?"](https://youtu.be/jIRyd2tjYSc)
 
+15 - [SPRING BOOT SECURITY - Roles vs Authorities](https://youtu.be/_mAvzmgV3ik)
+
+16 - [SPRING BOOT SECURITY - SecurityFilterChain](https://youtu.be/Hpv6Q56o0-k)
+
+17 - [Xác minh quyền RBAC - Chèn Phỏng vấn Backend](https://youtu.be/bFp_D9r0NVc)
+
 ...
+
+## [👉 JAVA BACKEND - DDD Project -vetautet.com]
+
+01 - [SpringBoot 3: CÁCH xây dựng dự án triển khai về DDD bán VÉ TÀU, MUSIC với kiến trúc đồng thời CAO!](https://youtu.be/WFlIoNHD_Yo)
+
+02 - [Chúng tôi xây dựng Structure DDD Project như thế nào đạt chuẩn?](https://youtu.be/hux9dtGQL7w)
+
+03 - [Không tranh cãi, chúng tôi thống nhất hoàn thành kiến trúc DDD này](https://youtu.be/IcDiMkb7_TA)
+
+04 - [Khi publish API chúng tôi gặp lượng request rất nhiều, áp dụng Circuit Breaker vs RateLimiter](https://youtu.be/tK7NDEr_vtE)
+
+05 - [Hệ thống liên tục bị timeout, chúng tôi quyết định thêm Distributed Cached](https://youtu.be/GqCohsho54s)
+
+06 - [Sếp - Tại sao chúng ta không sử dụng LUA Redis mà chọn Redisson cho chức năng Lock](https://youtu.be/zQWWGnhyZ0s)
+
+07 - [Sếp ơi, làm ơn đừng gọi em nửa đêm nữa, chúng tôi đã thiết lập giám sát hệ thống Prometheus vs Grafana](https://youtu.be/MGQrPOrtKhE)
+
+...
+
 
 ## Giá trị của việc học
 
