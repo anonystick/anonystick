@@ -744,6 +744,12 @@ BONUS: [Go Backend: Đồng bộ dữ liệu Mysql to Kafka sử dụng Debezium
 7 - [DOCKER - Xây dựng ứng dụng nodejs service push lên dockerHub](https://www.youtube.com/watch?v=jbd71z2Gdo4)
 
 8 - [DOCKER - Docker, Dockerfile, Docker Compose: Một kỹ sư FE đã giải thích XUẤT SẮC trong buổi phỏng vấn senior](https://www.youtube.com/watch?v=NbJ45r9sbiE)
+
+9 - [DOCKER, K8S, JAVA - Tôi đã thử vị trí DevOPS như thế nào?](https://youtu.be/4oi3VqKfHkc)
+
+10 - [DOCKER, K8S, JAVA - Bây giờ tôi có thể trở thành DevOPS được không?](https://youtu.be/HZAXNSkAQqA)
+
+11 - [DOCKER Cluster vs Sentinel Redis - Hệ thống đã được đảm bảo lỗi vào nửa đêm](https://youtu.be/HZAXNSkAQqA)
 ...
 
 ### 👉 Series **Mongodb Design Patterns**
