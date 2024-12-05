@@ -92,7 +92,7 @@ Hiện tại dự án đã khởi động đến section 36
 
 ...
 
-## [👉 JAVA BACKEND - DDD Project -vetautet.com]
+## [👉 JAVA BACKEND - DDD Project -vetautet.com - Dự án có tính đồng thời CAO]
 
 01 - [SpringBoot 3: CÁCH xây dựng dự án triển khai về DDD bán VÉ TÀU, MUSIC với kiến trúc đồng thời CAO!](https://youtu.be/WFlIoNHD_Yo)
 
@@ -102,11 +102,19 @@ Hiện tại dự án đã khởi động đến section 36
 
 04 - [Khi publish API chúng tôi gặp lượng request rất nhiều, áp dụng Circuit Breaker vs RateLimiter](https://youtu.be/tK7NDEr_vtE)
 
-05 - [Hệ thống liên tục bị timeout, chúng tôi quyết định thêm Distributed Cached](https://youtu.be/GqCohsho54s)
+05 - [Sếp bảo tăng tốc từ 1000 lên 10.000 req/s, chúng tôi quyết định thêm Distributed Cached](https://youtu.be/GqCohsho54s)
 
 06 - [Sếp - Tại sao chúng ta không sử dụng LUA Redis mà chọn Redisson cho chức năng Lock](https://youtu.be/zQWWGnhyZ0s)
 
 07 - [Sếp ơi, làm ơn đừng gọi em nửa đêm nữa, chúng tôi đã thiết lập giám sát hệ thống Prometheus vs Grafana](https://youtu.be/MGQrPOrtKhE)
+
+08 - [Chúng tôi đã thiết lập giám sát Database thông qua Prometheus vs Grafana, giờ ngủ ngon rồi](https://youtu.be/jqspVKUye9M)
+
+09 - [Thiết lập giám sát Redis thông qua Prometheus vs Grafana và chuẩn bị thiết lập 20.000 req/s](https://youtu.be/5IuSc2NAM60)
+
+10 - [Chuẩn bị có việc tăng tốc từ 10.000 lên 20.000 req/s không tăng chi phí](https://youtu.be/gv_XHpOigbk)
+
+11 - [Sếp cảm ơn anh em vì hoàn thành việc tăng tốc từ 10.000 lên 20.000 req/s nhưng team đối mắt với vấn đề khác](https://youtu.be/4n57Tmam4lE)
 
 ...
 
