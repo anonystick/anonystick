@@ -27,7 +27,9 @@
 
 ## 👋👋👋 Hành trình của INTERN đánh bại SENIOR
 
-Hãy trang bị cho mình nhiều vũ khí và khi có vũ khí sắc bén chỉ còn một bước để hoà nhập vào SĂN QUÁI đó chính là [khu vực luyện tập sử dụng vũ khí JAVA, GO, NODEJS, AWS..]() đó đúng mục đích. Ngàn dặm bước chân chẳng phải bắt đầu từ bước chân đầu hay sao? 
+Hãy trang bị cho mình nhiều vũ khí và khi có vũ khí sắc bén chỉ còn một bước để hoà nhập vào SĂN QUÁI đó chính là [khu vực luyện tập sử dụng vũ khí JAVA, GO, NODEJS, AWS..](https://github.com/anonystick/anonystick/blob/main/README.md#-java-backend---ddd-project--vetautetcom---d%E1%BB%B1-%C3%A1n-c%C3%B3-t%C3%ADnh-%C4%91%E1%BB%93ng-th%E1%BB%9Di-cao) đó đúng mục đích. Ngàn dặm bước chân chẳng phải bắt đầu từ bước chân đầu hay sao? 
+
+
 
 01 - [DDD - Project: vetautet.com 02: Tuyến phỏng thủ đầu tiên được thiếp lập](https://anonystick.com/blog-developer/ddd-ve-tau-tet-tuyen-phong-thu-dau-tien-duoc-thiep-lap-2024110825557791)
 
