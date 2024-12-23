@@ -25,6 +25,24 @@
 <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
 </p>
 
+## 👋👋👋 Hành trình của INTERN đánh bại SENIOR
+
+Hãy trang bị cho mình nhiều vũ khí và khi có vũ khí sắc bén chỉ còn một bước để hoà nhập vào SĂN QUÁI đó chính là [khu vực luyện tập sử dụng vũ khí JAVA, GO, NODEJS, AWS..]() đó đúng mục đích. Ngàn dặm bước chân chẳng phải bắt đầu từ bước chân đầu hay sao? 
+
+01 - [DDD - Project: vetautet.com 02: Tuyến phỏng thủ đầu tiên được thiếp lập](https://anonystick.com/blog-developer/ddd-ve-tau-tet-tuyen-phong-thu-dau-tien-duoc-thiep-lap-2024110825557791)
+
+01 - [DDD - Project: vetautet.com 03: Tuyến phỏng thủ thứ hai của lập trình viên nhiều kinh nghiệm](https://anonystick.com/blog-developer/ddd-ve-tau-tet-tuyen-phong-thu-thu-hai-cua-lap-trinh-vien-nhieu-kinh-nghiem-2024110894670283)
+
+04 - [DDD - Project: vetautet.com 04: Một tai nạn trực tuyến xảy ra lúc 11h đêm, một cuộc điện thoại và nhiều notifications](https://anonystick.com/blog-developer/mot-tai-nan-truc-tuyen-xay-ra-luc-11h-dem-mot-cuoc-dien-thoai-va-nhieu-notifications-2024111693500346)
+
+05 - [DDD - Project: vetautet.com 05: Hệ thống chúng tôi cảm ơn thằng em INTERN và đây có lẽ là định mệnh](https://anonystick.com/blog-developer/ddd-project-vetautetcom-05-he-thong-chung-toi-cam-on-thang-em-intern-va-day-co-le-la-dinh-menh-2024121415038343)
+
+06 - [DDD - Project: vetautet.com 06: INTERN với sự khiêm tốn đến kỳ lạ lần này nó đã thực sự thành công lên Junior](https://anonystick.com/blog-developer/ddd-project-vetautetcom-06-intern-voi-su-khiem-ton-den-ky-la-lan-nay-no-da-thuc-su-thanh-cong-len-junior-2024122320032177)
+
+...
+
+Những kỹ năng luyện tập dưới đây...
+
 ## 👋 Lộ trình một lập trình viên BACKEND
 
 # Con đường Lập Trình Viên Backend
