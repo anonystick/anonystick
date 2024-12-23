@@ -114,7 +114,7 @@ Hiện tại dự án đã khởi động đến section 36
 
 10 - [Chuẩn bị có việc tăng tốc từ 10.000 lên 20.000 req/s không tăng chi phí](https://youtu.be/gv_XHpOigbk)
 
-11 - [Sếp cảm ơn anh em vì hoàn thành việc tăng tốc từ 10.000 lên 20.000 req/s nhưng team đối mắt với vấn đề khác](https://youtu.be/4n57Tmam4lE)
+11 - [Sau khi refactor hệ thống thì api có hiệu năng 25.000 req/second mà không tăng chi phí](https://youtu.be/akl14joFf2A)
 
 ...
 
