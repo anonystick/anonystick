@@ -41,6 +41,8 @@ Hãy trang bị cho mình nhiều vũ khí và khi có vũ khí sắc bén chỉ
 
 06 - [DDD - Project: vetautet.com 06: INTERN với sự khiêm tốn đến kỳ lạ lần này nó đã thực sự thành công lên Junior](https://anonystick.com/blog-developer/ddd-project-vetautetcom-06-intern-voi-su-khiem-ton-den-ky-la-lan-nay-no-da-thuc-su-thanh-cong-len-junior-2024122320032177)
 
+07: [DDD - Project: vetautet.com 07: Cuộc cách mạng với ELK trong dự án có nhiều người dùng hoạt động](https://anonystick.com/blog-developer/con-ac-mong-cua-viec-tim-kiem-log-va-cuoc-cach-mang-trong-ddd-project-2025010264680006)
+
 ...
 
 Những kỹ năng luyện tập dưới đây...
