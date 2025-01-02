@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
 </p>
 
-## 👋👋👋 Hành trình của INTERN đánh bại SENIOR
+## 👋👋👋 Hành trình của INTERN đánh bại SENIOR (Dự án đồng thời cao DDD - Project; phần tóm tắt)
 
 Hãy trang bị cho mình nhiều vũ khí và khi có vũ khí sắc bén chỉ còn một bước để hoà nhập vào SĂN QUÁI đó chính là [khu vực luyện tập sử dụng vũ khí JAVA, GO, NODEJS, AWS..](https://github.com/anonystick/anonystick/blob/main/README.md#-java-backend---ddd-project--vetautetcom---d%E1%BB%B1-%C3%A1n-c%C3%B3-t%C3%ADnh-%C4%91%E1%BB%93ng-th%E1%BB%9Di-cao) đó đúng mục đích. Ngàn dặm bước chân chẳng phải bắt đầu từ bước chân đầu hay sao? 
 
@@ -114,7 +114,7 @@ Hiện tại dự án đã khởi động đến section 36
 
 ...
 
-## [👉 JAVA BACKEND - DDD Project -vetautet.com - Dự án có tính đồng thời CAO]
+## [👉 JAVA BACKEND - DDD Project -vetautet.com - Dự án có tính đồng thời CAO; phần thực hành]
 
 01 - [SpringBoot 3: CÁCH xây dựng dự án triển khai về DDD bán VÉ TÀU, MUSIC với kiến trúc đồng thời CAO!](https://youtu.be/WFlIoNHD_Yo)
 
