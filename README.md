@@ -699,6 +699,28 @@ BONUS: [Go Backend: Đồng bộ dữ liệu Mysql to Kafka sử dụng Debezium
 
 ... Còn
 
+## Link 2025: 👉 Series Message Queue System (Kafka) -> Mức độ cấp DOANH NGHIỆP
+
+01: [INTERN đánh bại SENIOR: GOOD CV - Với dự án tài chính thì bạn sử dụng Kafka hay là RabbitMQ? WHY?](https://youtu.be/wdV-XUcM2us)
+
+02: [Kafka: JOIN vào dự án cấp độ doanh nghiệp 7 khái niệm cấn nắm](https://youtu.be/a7lmP5hdgB0)
+
+03: [Go vs Kafka: Từ đơn giản trên trận chiến STOCK - MEMBERs](https://youtu.be/GFGp9jZQcmI)
+
+04: [JAVA vs kafka: Ứng dụng thực tế hệ thống MUA BÁN Backend API](https://youtu.be/UIFWVisug1M)
+
+05: [Mysql to Kafka: KỸ SƯ CAO CẤP: Cách đồng bộ dữ liệu Mysql to Kafka sử dụng Debezium với  N Tables tốc độ REALTIME](https://youtu.be/KqLzls2xCnQ)
+
+06: [Kafka (1): Cuộc chiến thực sự của hệ thống mua vé tàu - Khởi tạo Broker và Partition](https://youtu.be/q5leZEPVSkU)
+
+07: [Kafka (2): Cách gửi Order nhanh nhất - ddd: vetautet.com](https://youtu.be/71Bx0Qfs4JQ)
+
+08: [Kafka (3) - Cách xử lý Order nhanh nhất - ddd - vetautet.com](https://youtu.be/OAPiWUYy9BQ)
+
+09: [KafKa(4): Sếp ơi. Order còn tồn động nhiều quá...](https://youtu.be/z3TPi-UDmeY)
+
+10: [KafKa(5): Xử lý Error và retry TTL...](updating..)
+
 ### 👉 Series Interview and Explain BE (2024)
 
 01 - [Lý thuyết + Code: Lập trình song song, tuần tự và đồng thời là gì?](https://www.youtube.com/watch?v=9VBRHwYDY7A)
