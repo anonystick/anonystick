@@ -516,6 +516,28 @@ BONUS: [Go Backend: Đồng bộ dữ liệu Mysql to Kafka sử dụng Debezium
 
 35: [Go Backend: Generate Token JWT](https://youtu.be/YbK2cCtjjBY)
 
+36: [Go Business: Two Factor Authentication OTP (1)](https://youtu.be/-Uuu4AX4SP0)
+
+37: [Go Business: Two Factor Authentication OTP (2)](https://youtu.be/vzGmZYAOYg4)
+
+38: [Go Business: Two Factor Authentication OTP (3)](https://youtu.be/KD4aN-XiXos)
+
+39: [Go Business: LOGIN vs Verify Authentication](https://youtu.be/FmWrAPrBZkA)
+
+40: [Go Business: Bảo vệ hệ thống với 3 lớp khi lượng đồng thời CAO](https://youtu.be/1jxHWBbhV5g)
+
+41: [Go Business: Setup giám sát hệ thông 24/24 với Prometheus vs Grafana (1)](https://youtu.be/E9-48WT6ix8)
+
+42: [Go Business: Sử dụng Giám sát hệ thông 24/24 với Prometheus vs Grafana (2)](https://youtu.be/q1ojLhNxWes)
+
+43: [Go Business: Lợi dụng sức mạnh của Goroutine cho việc tăng tốc hệ thống](https://youtu.be/PLdLSF0_QQY)
+
+44: [Go Business: Thiết lập Publish vs Subscribe dựa vào channel](https://youtu.be/QdIB0pjXhLw)
+
+45: [Go Business: Nhiều luồng nhanh nhưng lại xung đột và cách xử lý](https://youtu.be/nDik5DZ_lxU)
+
+46: [Go Business: Move dự án vetatautet java to go](https://youtu.be/4nqpL9fDKyw)
+
 ... Updating
 
 ## Tài nguyên học 
