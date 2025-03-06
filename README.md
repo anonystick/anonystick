@@ -44,6 +44,12 @@ Hãy trang bị cho mình nhiều vũ khí và khi có vũ khí sắc bén chỉ
 07: [DDD - Project: vetautet.com 07: Cuộc cách mạng với ELK trong dự án có nhiều người dùng hoạt động](https://anonystick.com/blog-developer/con-ac-mong-cua-viec-tim-kiem-log-va-cuoc-cach-mang-trong-ddd-project-2025010264680006)
 
 08: [DDD - Project: vetautet.com 08: Kafka đã cải thiện hệ thống và nâng cấp như thế nào?](https://anonystick.com/blog-developer/kafka-o-cap-do-doanh-nghiep-bai-viet-nay-la-du-hay-them-vao-cv-cua-chung-ta-2025020642404229)
+
+09: [DDD - Project: vetautet.com Tốc độ Order đạt 50.000 req/second được chứ? ](https://anonystick.com/blog-developer/ddd-project-vetautetcom-redis-masterslave-tung-buoc-de-dat-hieu-nang-cao-50000-ordersgiay-2025021163303385)
+
+10: [DDD - Project: vetautet.com Sau khi nghiên cứu thì có 3 cách khấu trừ hàng tồn kho phổ biến sau](https://anonystick.com/blog-developer/ddd-project-vetautetcom-redis-masterslave-tung-buoc-de-dat-hieu-nang-cao-50000-ordersgiay-2025021163303385)
+
+11: [DDD - Projetc: vetautet.com Cuối cùng kết thúc ngày BlackFriday, tồn kho là chính xác, thở phào nhẹ nhõm](https://anonystick.com/blog-developer/ddd-project-vetautet-dieu-gi-khien-ban-lo-lang-khi-di-phong-van-voi-vi-tri-senior-khau-tru-hang-ton-kho-202503069851720)
 ...
 
 Những kỹ năng luyện tập dưới đây...
