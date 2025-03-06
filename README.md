@@ -167,13 +167,21 @@ Hiện tại dự án đã khởi động đến section 36
 
 22 - [Redis(1) - OrderTicket() bắt buộc hiểu về LUA vs TRANSACTION trong REDIS](https://youtu.be/ShLzvtglVjM)
 
-22 - [Redis(2) - OrderTicket() bắt buộc hiểu về LUA vs TRANSACTION trong REDIS](https://youtu.be/ShLzvtglVjM)
+23 - [Redis(2): LUA vs TRANSACTION cấp độ doanh nghiệp, lập trình viên cấp cao cần hiểu về ATOMIC](https://youtu.be/I-dDoxy1sv8)
 
-22 - [Redis(3) - OrderTicket() bắt buộc hiểu về LUA vs TRANSACTION trong REDIS](https://youtu.be/ShLzvtglVjM)
+24 - [Redis(3) - Lập trình về LUA vì sao các hệ thống đều sử dụng LUA?](https://youtu.be/wNOGLTkEb7I)
 
-22 - [Redis(4) - OrderTicket() bắt buộc hiểu về LUA vs TRANSACTION trong REDIS](https://youtu.be/ShLzvtglVjM)
+25 - [Redis(4) - Hệ thống bây giờ căng quá, Master/Slave đến đây...](https://youtu.be/fe6yeDRtD0E)
 
-22 - [Redis5) - OrderTicket() bắt buộc hiểu về LUA vs TRANSACTION trong REDIS](https://youtu.be/ShLzvtglVjM)
+26 - [Redis5) - Master đã sập, hệ thống tự động chuyển đổi nhờ Sentinel](https://youtu.be/OrbVP56w9UA)
+
+27 - [Bán hàng tồn kho (StockDeduction), tôi đã TỪNG đổ máu NHƯNG bạn tuyệt đối KHÔNG](https://youtu.be/p8T082hUaXI)
+
+28 - [BA CÁCH TRỪ HÀNG TỒN KHO trong MYSQL: Nhưng Member tôi đã dành cho bạn một CÁCH là CÁCH THỨ 3](https://youtu.be/9Zrxe62vdcs)
+
+29 - [Kiểm soát đồng thời cao và khấu trừ hàng tồn kho trong vetautet của Senior](https://youtu.be/ROBf8UMAshM)
+
+
 ...
 
 
