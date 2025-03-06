@@ -145,6 +145,35 @@ Hiện tại dự án đã khởi động đến section 36
 
 11 - [Sau khi refactor hệ thống thì api có hiệu năng 25.000 req/second mà không tăng chi phí](https://youtu.be/akl14joFf2A)
 
+12 - [Triển khai hệ thống phân tán LOGs ELK cho hệ thống đặt vé tàu](https://youtu.be/6DGnzYkK0uQ)
+
+13 - [Tính nhất quán dữ liệu là gì? Thật sự tôi chưa hiểu cụm từ này](https://youtu.be/agIL52ZnQ0o)
+
+14 - [Tính nhất quán SAI khi Team tester đã Setup Proxy Nginx vs 2 server kịch bản mua vé đồng thời CAO StockAvailable](https://youtu.be/S0jeMyqSrVE)
+
+15 - [Tính nhất quán ĐÚNG khi DEV SA (Solution Architecture) ra tay, dữ liệu phân tán giờ đã nhất quán với cách đơn giản](https://youtu.be/XKCKnwJ0F9Y)
+
+16 - [Tính nhất quán phù hợp nhất với các ứng dụng](https://youtu.be/0w-DO4guvRU)
+
+17 - [Kafka (1): Cuộc chiến thực sự của hệ thống mua vé tàu - Khởi tạo Broker và Partition](https://youtu.be/q5leZEPVSkU)
+
+18 - [Source Code: DDD Project - Bán Vé Từ Video Section 9 - 16 How to run!!](https://youtu.be/_4KTlUvdXoM)
+
+19 - [Kafka(2) - Cách gửi Order với hiệu suất cao nhất](https://youtu.be/71Bx0Qfs4JQ)
+
+20 - [Kafka(3) - Đến lượt xử lý Order hiệu quả nhất](https://youtu.be/OAPiWUYy9BQ)
+
+21 - [Kafka(4) - Order còn tồn động rất nhiều? Làm sao đây?](https://youtu.be/z3TPi-UDmeY)
+
+22 - [Redis(1) - OrderTicket() bắt buộc hiểu về LUA vs TRANSACTION trong REDIS](https://youtu.be/ShLzvtglVjM)
+
+22 - [Redis(2) - OrderTicket() bắt buộc hiểu về LUA vs TRANSACTION trong REDIS](https://youtu.be/ShLzvtglVjM)
+
+22 - [Redis(3) - OrderTicket() bắt buộc hiểu về LUA vs TRANSACTION trong REDIS](https://youtu.be/ShLzvtglVjM)
+
+22 - [Redis(4) - OrderTicket() bắt buộc hiểu về LUA vs TRANSACTION trong REDIS](https://youtu.be/ShLzvtglVjM)
+
+22 - [Redis5) - OrderTicket() bắt buộc hiểu về LUA vs TRANSACTION trong REDIS](https://youtu.be/ShLzvtglVjM)
 ...
 
 
