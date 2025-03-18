@@ -677,6 +677,66 @@ BONUS: [Go Backend: Đồng bộ dữ liệu Mysql to Kafka sử dụng Debezium
 37. [**Next Steps in Mastering Go: Advanced Resources | Mức độ khó (★★★★★) | Mức độ phổ biến (★★★☆☆)**](https://www.youtube.com/@anonystick)
 
 
+### 👉 Series Kafka toàn tập (nhiều level) - Bao gồm 2025 và 2024
+
+01: [INTERN đánh bại SENIOR: GOOD CV - Với dự án tài chính thì bạn sử dụng Kafka hay là RabbitMQ? WHY?](https://youtu.be/wdV-XUcM2us)
+
+02: [Kafka: JOIN vào dự án cấp độ doanh nghiệp 7 khái niệm cấn nắm](https://youtu.be/a7lmP5hdgB0)
+
+03: [Go vs Kafka: Từ đơn giản trên trận chiến STOCK - MEMBERs](https://youtu.be/GFGp9jZQcmI)
+
+04: [JAVA vs kafka: Ứng dụng thực tế hệ thống MUA BÁN Backend API](https://youtu.be/UIFWVisug1M)
+
+05: [Mysql to Kafka: KỸ SƯ CAO CẤP: Cách đồng bộ dữ liệu Mysql to Kafka sử dụng Debezium với  N Tables tốc độ REALTIME](https://youtu.be/KqLzls2xCnQ)
+
+06: [Kafka (1): Cuộc chiến thực sự của hệ thống mua vé tàu - Khởi tạo Broker và Partition](https://youtu.be/q5leZEPVSkU)
+
+07: [Kafka (2): Cách gửi Order nhanh nhất - ddd: vetautet.com](https://youtu.be/71Bx0Qfs4JQ)
+
+08: [Kafka (3) - Cách xử lý Order nhanh nhất - ddd - vetautet.com](https://youtu.be/OAPiWUYy9BQ)
+
+09: [KafKa(4): Sếp ơi. Order còn tồn động nhiều quá...](https://youtu.be/z3TPi-UDmeY)
+
+10: [KafKa(5): Xử lý Error và retry TTL...](updating..)
+
+11: [KafKa(6): Đảm bảo thứ tự Order nhưng mất 6 second/order...](updating..)
+
+12: [KafKa(7): Cải thiện đảm bảo thứ tự Order 2 second/order ](updating..)
+
+
+Link 2024: 👉 Series Message Queue System (Kafka + RabbitMQ) -> Cơ bản đến thành thạo
+
+
+01: [Kafka: Hệ thống cũ rất chậm đã đến lúc sử dụng Broker Message Queue Phần 1](https://youtu.be/yK4T7Myi9N4)
+
+02: [Kafka: Mới join vào TEAM, cần học nhanh về KafKa Phần 2](https://youtu.be/a7lmP5hdgB0)
+
+03: [Kafka: Sử dụng trong Stocks như thế nào? Phần 3 Updating]
+
+04: [Notifications Service vs Tách Message Queue System - member](https://youtu.be/dAefZUW3fOQ)
+
+05: [Cách triển khai Kafka Message Queue - member](https://youtu.be/_YT0MsFszhY) 
+
+06: [Cách triển khai Rabbit Message Queue - member](https://youtu.be/DWr5zV_TmF8) 
+
+07: [Tách dự án với kiến trúc Microservice System | Level 3, 4](https://youtu.be/eo6RJsQTOqI) 
+
+09: [First step in Microservice vs Message Queue | Microservice System | Lvxx](https://youtu.be/qw1z8hJRzuc) 
+
+10: [Xử lý Message Error or TTL (Time To Live) trong Message Queue thế nào? | Kiến trúc MQ](https://youtu.be/nDxAiAB4UJg) 
+
+11: [Xử lý message khi gặp sự cố MQ server die (TTL) thực hành](https://youtu.be/muR4HURM0k4) 
+
+12: [QUAN TRỌNG và dành cho Level cao về cách Xử lý error message trong kiến trúc MQ](https://youtu.be/lZXkli4AhGA) 
+
+13: [Message Ordering in Pub/Sub or Queues | Microservices Backend](https://youtu.be/tVawGVrJPak) 
+
+14: [Message Ordering | Microservice Backend | #2](https://youtu.be/nrFEJLiU-l0) 
+
+15: [Thực hành về Message Ordered với hai tình huống | RabbitMQ | Microservice Backend](https://youtu.be/XPaqZek9q-A) 
+
+
+
 
 ### 👉 Series Design Patterns
 
