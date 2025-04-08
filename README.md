@@ -42,9 +42,9 @@ Nếu cố gắng một thời gian thì bạn không những chỉ biết về 
 
 - [GO - Backend API hệ thống đồng thời cao vetautet.com](https://github.com/anonystick/anonystick/blob/main/README.md#-go-backend---ddd-project-vetautetcom--qps--32000-reqs-monolithic-architecture-d%E1%BB%B1-%C3%A1n-ho%C3%A0n-th%C3%A0nh-80-4657)
  
-- [NESTJS - Backend API hệ thống đồng thời cao vetautet.com]()
+- [NESTJS - Backend API hệ thống đồng thời cao vetautet.com](https://www.youtube.com/playlist?list=PLw0w5s5b9NK7HkcQUBIxjcHPB2DS4UKDg)
    
-- [NODEJS - Backend API hệ thống eCommercial]()
+- [NODEJS - Backend API hệ thống eCommercial](https://github.com/anonystick/anonystick/blob/main/README.md#-backend-ecommerce-bao-g%E1%BB%93m-hai-ng%C3%B4n-ng%E1%BB%AF-nodejs--go--30000-vn%C4%91)
 
 
 
