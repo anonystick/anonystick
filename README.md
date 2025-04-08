@@ -27,7 +27,7 @@
 
 ## 👋👋👋 Con đường Front-End(FE) tới FullStack(FS) và đích đến Backend(BE)
 
-Không cần đao to búa lớn làm gì? Được làm trong một môi trường có nhiều cơ hội tiếp xúc với các dự án có tính đồng thời cao và chính bạn có khả năng thiết kế một hệ thống như vậy đó cũng là một năng lực quan trọng không thể thiếu đối với các lập trình viên hiện nay. 
+Không cần đao to búa lớn làm gì? Trong một môi trường có nhiều cơ hội tiếp xúc với các dự án có tính đồng thời cao và chính bạn dù ở vị trí nào cũng nên có khả năng thiết kế một hệ thống như vậy đó cũng là một trong những năng lực quan trọng không thể thiếu đối với các lập trình viên hiện nay. 
 Nhưng, ngay cả khi bạn đang làm một nhiệm vụ không liên quan đến trường hợp như trên thì theo tôi bạn cũng nên tìm hiểu về một hệ thống đó được triển khai như thế nào càng sớm càng tốt, đúng không?
 
 Vì vậy tôi đã xây dựng một hệ thống có lượng đồng thời cao dựa vào kịch bản `High Concurrency` đó là BlackFirday or bán vé tàu khi có event xảy ra dựa trên cấp độ ngôn ngữ được chia ra cho mỗi lập trình viên muốn tiếp xúc đó là JAVA, GO, NESTJS và NODEJS.
