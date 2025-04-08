@@ -25,6 +25,29 @@
 <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
 </p>
 
+## 👋👋👋 Con đường Front-End(FE) tới FullStack(FS) và đích đến Backend(BE)
+
+Không cần đao to búa lớn làm gì? Được làm trong một môi trường có nhiều cơ hội tiếp xúc với các dự án có tính đồng thời cao và chính bạn có khả năng thiết kế một hệ thống như vậy đó cũng là một năng lực quan trọng không thể thiếu đối với các lập trình viên hiện nay. 
+Nhưng, ngay cả khi bạn đang làm một nhiệm vụ không liên quan đến trường hợp như trên thì theo tôi bạn cũng nên tìm hiểu về một hệ thống đó được triển khai như thế nào càng sớm càng tốt, đúng không?
+
+Vì vậy tôi đã xây dựng một hệ thống có lượng đồng thời cao dựa vào kịch bản `High Concurrency` đó là BlackFirday or bán vé tàu khi có event xảy ra dựa trên cấp độ ngôn ngữ được chia ra cho mỗi lập trình viên muốn tiếp xúc đó là JAVA, GO, NESTJS và NODEJS.
+
+Đây là dự án không phải là lý thuyết và nó là quá trình thực tế sử dụng những công nghệ có thể bảo vệ hệ thống như `sentinel`, `hystrix`, `Circuit Breaker` giúp ngăn chặn các cuộc tấn công, hay các công nghệ như `Kafka`, `RabbitMQ` nhằm giúp hệ thống làm việc với hình thức không đồng bộ `order()->sendEmail()->sendNotification()`. Hay sử dụng `nginx` để phát triển về loadbalance, thay vì chỉ có một api hoạt động chịu đựng. Ngoài ra còn có MySQL, Redis, Local, Guava. 
+
+Tôi hiểu được tầm quan trọng từ lý thuyết đến thực tế vì vậy mỗi section tôi nỗ lực giải thích rõ ràng cho ANH CHỊ cách xây dựng hệ thống bán vé tàu | BlackFriday hiệu quả trong các lĩnh vực cốt lõi ngay từ đầu. 
+
+Nếu cố gắng một thời gian thì bạn không những chỉ biết về JAVA mà còn GO, NESTJS và NODEJS... Quan trọng ở chính chúng ta, khi sử dụng thời gian rảnh như thế nào mà thôi. 
+
+- [JAVA - Backend API hệ thống đồng thời cao vetautet.com]()
+
+- [GO - Backend API hệ thống đồng thời cao vetautet.com]()
+ 
+- [NESTJS - Backend API hệ thống đồng thời cao vetautet.com]()
+   
+- [NODEJS - Backend API hệ thống eCommercial]()
+
+
+
 ## 👋👋👋 Hành trình của INTERN đánh bại SENIOR (Dự án đồng thời cao DDD - Project; phần tóm tắt)
 
 Hãy trang bị cho mình nhiều vũ khí và khi có vũ khí sắc bén chỉ còn một bước để hoà nhập vào SĂN QUÁI đó chính là [khu vực luyện tập sử dụng vũ khí JAVA, GO, NODEJS, AWS..](https://github.com/anonystick/anonystick/blob/main/README.md#-java-backend---ddd-project--vetautetcom---d%E1%BB%B1-%C3%A1n-c%C3%B3-t%C3%ADnh-%C4%91%E1%BB%93ng-th%E1%BB%9Di-cao) đó đúng mục đích. Ngàn dặm bước chân chẳng phải bắt đầu từ bước chân đầu hay sao? 
