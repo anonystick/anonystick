@@ -38,7 +38,7 @@ Tôi hiểu được tầm quan trọng từ lý thuyết đến thực tế vì
 
 Nếu cố gắng một thời gian thì bạn không những chỉ biết về JAVA mà còn GO, NESTJS và NODEJS... Quan trọng ở chính chúng ta, khi sử dụng thời gian rảnh như thế nào mà thôi. 
 
-- [JAVA - Backend API hệ thống đồng thời cao vetautet.com]()
+- [JAVA - Backend API hệ thống đồng thời cao vetautet.com](https://github.com/anonystick/anonystick/blob/main/README.md#-java-backend---ddd-project--vetautetcom---d%E1%BB%B1-%C3%A1n-c%C3%B3-t%C3%ADnh-%C4%91%E1%BB%93ng-th%E1%BB%9Di-cao-d%E1%BB%B1-%C3%A1n-ho%C3%A0n-th%C3%A0nh-95)
 
 - [GO - Backend API hệ thống đồng thời cao vetautet.com]()
  
