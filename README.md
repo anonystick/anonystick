@@ -144,7 +144,7 @@ Hiện tại dự án đã khởi động đến section 36
 
 ...
 
-## [👉 JAVA BACKEND - DDD Project: vetautet.com | QPS = 28.000 req/s (Monolithic architecture); Dự án hoàn thành 95% (34/38)]
+## [👉 JAVA BACKEND - DDD Project: vetautet.com | QPS = 28.000 req/s]
 
 01 - [✅ SpringBoot 3: CÁCH xây dựng dự án triển khai về DDD bán VÉ TÀU, MUSIC với kiến trúc đồng thời CAO!](https://youtu.be/WFlIoNHD_Yo)
 
@@ -515,7 +515,7 @@ Chúng ta cần nói lại: **"Vui lòng tập bò, đến tập đi, rồi ti�
 36. [**Deploying a Go Application | Mức độ khó (★★★★☆) | Mức độ phổ biến (★★★☆☆)**](https://www.youtube.com/@anonystick)
 37. [**Next Steps in Mastering Go: Advanced Resources | Mức độ khó (★★★★★) | Mức độ phổ biến (★★★☆☆)**](https://www.youtube.com/@anonystick)
 
-## [👉 GO BACKEND - DDD Project: vetautet.com | QPS = 32.000 req/s (Monolithic architecture); Dự án hoàn thành 80% (46/57)]
+## [👉 GO BACKEND - DDD Project: vetautet.com | QPS = 32.000 req/s]
 
 01: [✅ Go backend: Các kiến trúc phổ phiến khởi tạo dự án BackEnd](https://youtu.be/L_kqWi7U2E0)
 
