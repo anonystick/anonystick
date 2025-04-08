@@ -144,7 +144,7 @@ Hiện tại dự án đã khởi động đến section 36
 
 ...
 
-## [👉 JAVA BACKEND - DDD Project -vetautet.com - Dự án có tính đồng thời CAO; phần thực hành]
+## [👉 JAVA BACKEND - DDD Project -vetautet.com - Dự án có tính đồng thời CAO; Dự án hoàn thành 95%]
 
 01 - [SpringBoot 3: CÁCH xây dựng dự án triển khai về DDD bán VÉ TÀU, MUSIC với kiến trúc đồng thời CAO!](https://youtu.be/WFlIoNHD_Yo)
 
@@ -202,8 +202,15 @@ Hiện tại dự án đã khởi động đến section 36
 
 28 - [BA CÁCH TRỪ HÀNG TỒN KHO trong MYSQL: Nhưng Member tôi đã dành cho bạn một CÁCH là CÁCH THỨ 3](https://youtu.be/9Zrxe62vdcs)
 
-29 - [Kiểm soát đồng thời cao và khấu trừ hàng tồn kho trong vetautet của Senior](https://youtu.be/ROBf8UMAshM)
+29 - [Ngày mở bán bắt đầu, hàng nghìn User truy cập mua vé và kết thúc thành công](https://youtu.be/ROBf8UMAshM)
 
+30 - [Kiểm kê lại dữ liệu phân tán thì chúng tôi thấy đã nhất quán hàng TỒN KHO -> Tuyệt vời](https://youtu.be/8d2nKa82eTM)
+
+31 - [Mở rộng khi vực bán vé tàu cho 100 trung tâm bán 5000 ticket mỗi ngày thì dữ liệu đã LỚN rất NHANH](https://youtu.be/jrs2zlyC3Pc)
+
+32 - [Áp dụng thiết kế quản lý Order của Shopee, chúng tôi hoàn thành việc phân tích và thiết kết Order](https://youtu.be/UKL0x9jijak)
+
+33 - [Hiểu biết về SAGA: Giao dịch phân tán - SENIOR](https://youtu.be/CpolDThiuWA)
 
 ...
 
