@@ -108,112 +108,112 @@ Hiện tại dự án đã khởi động đến section 36
 
 ## [👉 Khám phá lộ trình JAVA BACKEND(Đã xuất bản 04 chương)](https://www.youtube.com/channel/UCky92hx0lZxVBi2BJ6Zm2Hg/join)
 
-1 - [JAVA BACKEND: Welcome SpringBoot, con đường, lộ trình và eBook theo mỗi Levels](https://youtu.be/pNZyzE_9EPM)
+1 - [✅ JAVA BACKEND: Welcome SpringBoot, con đường, lộ trình và eBook theo mỗi Levels](https://youtu.be/pNZyzE_9EPM)
 
-2 - [JAVA BACKEND: Install vs Start Project sử dụng vs CODE và intellij IDEA](https://youtu.be/BpQsIGVrmXs)
+2 - [✅ JAVA BACKEND: Install vs Start Project sử dụng vs CODE và intellij IDEA](https://youtu.be/BpQsIGVrmXs)
 
-3 - [JAVA BACKEND: Mức độ ưu tiên file Application và hiểu sâu về properties, yaml trong config dự án](https://youtu.be/PvcIwEkUcEc)
+3 - [✅ JAVA BACKEND: Mức độ ưu tiên file Application và hiểu sâu về properties, yaml trong config dự án](https://youtu.be/PvcIwEkUcEc)
 
-4 - [JAVA BACKEND: Kỹ năng chuyển đổi PROJECT từ DEV qua TEST, PRE, PRODUCT](https://youtu.be/z49Kb4a_cV0)
+4 - [✅ JAVA BACKEND: Kỹ năng chuyển đổi PROJECT từ DEV qua TEST, PRE, PRODUCT](https://youtu.be/z49Kb4a_cV0)
 
-5 - [JAVA BACKEND: Làm quen với Spring Boot Folder Structure](https://youtu.be/jnURsbcOycM)
+5 - [✅ JAVA BACKEND: Làm quen với Spring Boot Folder Structure](https://youtu.be/jnURsbcOycM)
 
-6 - [JAVA BACKEND: Tôi mới học JPA Spring DATA > phần 1: Làm quen](https://youtu.be/EwSrtrk7Kq0)
+6 - [✅ JAVA BACKEND: Tôi mới học JPA Spring DATA > phần 1: Làm quen](https://youtu.be/EwSrtrk7Kq0)
 
-7 - [JAVA BACKEND: Tôi mới học JPA Spring DATA > phần 2: Controller](https://youtu.be/0unBab23Kok)
+7 - [✅ JAVA BACKEND: Tôi mới học JPA Spring DATA > phần 2: Controller](https://youtu.be/0unBab23Kok)
 
-8 - [JAVA BACKEND: Tôi mới học JPA Spring DATA > phần 3: phân trang](https://youtu.be/pDKVqwN4fLg)
+8 - [✅ JAVA BACKEND: Tôi mới học JPA Spring DATA > phần 3: phân trang](https://youtu.be/pDKVqwN4fLg)
 
-9 - [JAVA BACKEND: Tôi mới học JPA Spring DATA > phần 4: làm việc với OneToOne, OneToMany và ManyToOne](https://youtu.be/qkCRcKnvJ70)
+9 - [✅ JAVA BACKEND: Tôi mới học JPA Spring DATA > phần 4: làm việc với OneToOne, OneToMany và ManyToOne](https://youtu.be/qkCRcKnvJ70)
 
-10 - [JAVA BACKEND: Tôi mới học JPA Spring DATA > phần 4: làm việc với ManyToMany](https://youtu.be/SgMbCgvs2Z8)
+10 - [✅ JAVA BACKEND: Tôi mới học JPA Spring DATA > phần 4: làm việc với ManyToMany](https://youtu.be/SgMbCgvs2Z8)
 
-11 - [JAVA BACKEND: Send OTP Email Spring With SMTP AWS, GO PUSH OTP](https://youtu.be/iSRRM5exThE)
+11 - [✅ JAVA BACKEND: Send OTP Email Spring With SMTP AWS, GO PUSH OTP](https://youtu.be/iSRRM5exThE)
 
-12 - [JAVA BACKEND: Làm việc với Kafka Microservices kết hợp TEAM GO](https://youtu.be/9AGeQCwJCAs)
+12 - [✅ JAVA BACKEND: Làm việc với Kafka Microservices kết hợp TEAM GO](https://youtu.be/9AGeQCwJCAs)
 
-13 - [SPRING SECURITY: Toàn diện về bảo mật cấp doanh nghiệp JAVA](https://youtu.be/1h7yp9ubWzQ)
+13 - [✅ SPRING SECURITY: Toàn diện về bảo mật cấp doanh nghiệp JAVA](https://youtu.be/1h7yp9ubWzQ)
 
-14 - [SPRING SECURITY: Doanh nghiệp chọn phương pháp nào để xác thực "MÀY LÀ AI?"](https://youtu.be/jIRyd2tjYSc)
+14 - [✅ SPRING SECURITY: Doanh nghiệp chọn phương pháp nào để xác thực "MÀY LÀ AI?"](https://youtu.be/jIRyd2tjYSc)
 
-15 - [SPRING BOOT SECURITY - Roles vs Authorities](https://youtu.be/_mAvzmgV3ik)
+15 - [✅ SPRING BOOT SECURITY - Roles vs Authorities](https://youtu.be/_mAvzmgV3ik)
 
-16 - [SPRING BOOT SECURITY - SecurityFilterChain](https://youtu.be/Hpv6Q56o0-k)
+16 - [✅ SPRING BOOT SECURITY - SecurityFilterChain](https://youtu.be/Hpv6Q56o0-k)
 
-17 - [Xác minh quyền RBAC - Chèn Phỏng vấn Backend](https://youtu.be/bFp_D9r0NVc)
+17 - [✅ Xác minh quyền RBAC - Chèn Phỏng vấn Backend](https://youtu.be/bFp_D9r0NVc)
 
 ...
 
 ## [👉 JAVA BACKEND - DDD Project -vetautet.com - Dự án có tính đồng thời CAO; Dự án hoàn thành 95%]
 
-01 - [SpringBoot 3: CÁCH xây dựng dự án triển khai về DDD bán VÉ TÀU, MUSIC với kiến trúc đồng thời CAO!](https://youtu.be/WFlIoNHD_Yo)
+01 - [✅ SpringBoot 3: CÁCH xây dựng dự án triển khai về DDD bán VÉ TÀU, MUSIC với kiến trúc đồng thời CAO!](https://youtu.be/WFlIoNHD_Yo)
 
-02 - [Chúng tôi xây dựng Structure DDD Project như thế nào đạt chuẩn?](https://youtu.be/hux9dtGQL7w)
+02 - [✅ Chúng tôi xây dựng Structure DDD Project như thế nào đạt chuẩn?](https://youtu.be/hux9dtGQL7w)
 
-03 - [Không tranh cãi, chúng tôi thống nhất hoàn thành kiến trúc DDD này](https://youtu.be/IcDiMkb7_TA)
+03 - [✅ Không tranh cãi, chúng tôi thống nhất hoàn thành kiến trúc DDD này](https://youtu.be/IcDiMkb7_TA)
 
-04 - [Khi publish API chúng tôi gặp lượng request rất nhiều, áp dụng Circuit Breaker vs RateLimiter](https://youtu.be/tK7NDEr_vtE)
+04 - [✅ Khi publish API chúng tôi gặp lượng request rất nhiều, áp dụng Circuit Breaker vs RateLimiter](https://youtu.be/tK7NDEr_vtE)
 
-05 - [Sếp bảo tăng tốc từ 1000 lên 10.000 req/s, chúng tôi quyết định thêm Distributed Cached](https://youtu.be/GqCohsho54s)
+05 - [✅ Sếp bảo tăng tốc từ 1000 lên 10.000 req/s, chúng tôi quyết định thêm Distributed Cached](https://youtu.be/GqCohsho54s)
 
-06 - [Sếp - Tại sao chúng ta không sử dụng LUA Redis mà chọn Redisson cho chức năng Lock](https://youtu.be/zQWWGnhyZ0s)
+06 - [✅ Sếp - Tại sao chúng ta không sử dụng LUA Redis mà chọn Redisson cho chức năng Lock](https://youtu.be/zQWWGnhyZ0s)
 
-07 - [Sếp ơi, làm ơn đừng gọi em nửa đêm nữa, chúng tôi đã thiết lập giám sát hệ thống Prometheus vs Grafana](https://youtu.be/MGQrPOrtKhE)
+07 - [✅ Sếp ơi, làm ơn đừng gọi em nửa đêm nữa, chúng tôi đã thiết lập giám sát hệ thống Prometheus vs Grafana](https://youtu.be/MGQrPOrtKhE)
 
-08 - [Chúng tôi đã thiết lập giám sát Database thông qua Prometheus vs Grafana, giờ ngủ ngon rồi](https://youtu.be/jqspVKUye9M)
+08 - [✅ Chúng tôi đã thiết lập giám sát Database thông qua Prometheus vs Grafana, giờ ngủ ngon rồi](https://youtu.be/jqspVKUye9M)
+09 - [✅ Thiết lập giám sát Redis thông qua Prometheus vs Grafana và chuẩn bị thiết lập 20.000 req/s](https://youtu.be/5IuSc2NAM60)
 
-09 - [Thiết lập giám sát Redis thông qua Prometheus vs Grafana và chuẩn bị thiết lập 20.000 req/s](https://youtu.be/5IuSc2NAM60)
+10 - [✅ Chuẩn bị có việc tăng tốc từ 10.000 lên 20.000 req/s không tăng chi phí](https://youtu.be/gv_XHpOigbk)
 
-10 - [Chuẩn bị có việc tăng tốc từ 10.000 lên 20.000 req/s không tăng chi phí](https://youtu.be/gv_XHpOigbk)
+11 - [✅ Sau khi refactor hệ thống thì api có hiệu năng 25.000 req/second mà không tăng chi phí](https://youtu.be/akl14joFf2A)
 
-11 - [Sau khi refactor hệ thống thì api có hiệu năng 25.000 req/second mà không tăng chi phí](https://youtu.be/akl14joFf2A)
+12 - [✅ Triển khai hệ thống phân tán LOGs ELK cho hệ thống đặt vé tàu](https://youtu.be/6DGnzYkK0uQ)
 
-12 - [Triển khai hệ thống phân tán LOGs ELK cho hệ thống đặt vé tàu](https://youtu.be/6DGnzYkK0uQ)
+13 - [✅ Tính nhất quán dữ liệu là gì? Thật sự tôi chưa hiểu cụm từ này](https://youtu.be/agIL52ZnQ0o)
 
-13 - [Tính nhất quán dữ liệu là gì? Thật sự tôi chưa hiểu cụm từ này](https://youtu.be/agIL52ZnQ0o)
+14 - [✅ Tính nhất quán SAI khi Team tester đã Setup Proxy Nginx vs 2 server kịch bản mua vé đồng thời CAO StockAvailable](https://youtu.be/S0jeMyqSrVE)
 
-14 - [Tính nhất quán SAI khi Team tester đã Setup Proxy Nginx vs 2 server kịch bản mua vé đồng thời CAO StockAvailable](https://youtu.be/S0jeMyqSrVE)
+15 - [✅ Tính nhất quán ĐÚNG khi DEV SA (Solution Architecture) ra tay, dữ liệu phân tán giờ đã nhất quán với cách đơn giản](https://youtu.be/XKCKnwJ0F9Y)
 
-15 - [Tính nhất quán ĐÚNG khi DEV SA (Solution Architecture) ra tay, dữ liệu phân tán giờ đã nhất quán với cách đơn giản](https://youtu.be/XKCKnwJ0F9Y)
+16 - [✅ Tính nhất quán phù hợp nhất với các ứng dụng](https://youtu.be/0w-DO4guvRU)
 
-16 - [Tính nhất quán phù hợp nhất với các ứng dụng](https://youtu.be/0w-DO4guvRU)
+17 - [✅ Kafka (1): Cuộc chiến thực sự của hệ thống mua vé tàu - Khởi tạo Broker và Partition](https://youtu.be/q5leZEPVSkU)
 
-17 - [Kafka (1): Cuộc chiến thực sự của hệ thống mua vé tàu - Khởi tạo Broker và Partition](https://youtu.be/q5leZEPVSkU)
+18 - [✅ Source Code: DDD Project - Bán Vé Từ Video Section 9 - 16 How to run!!](https://youtu.be/_4KTlUvdXoM)
 
-18 - [Source Code: DDD Project - Bán Vé Từ Video Section 9 - 16 How to run!!](https://youtu.be/_4KTlUvdXoM)
+19 - [✅ Kafka(2) - Cách gửi Order với hiệu suất cao nhất](https://youtu.be/71Bx0Qfs4JQ)
 
-19 - [Kafka(2) - Cách gửi Order với hiệu suất cao nhất](https://youtu.be/71Bx0Qfs4JQ)
+20 - [✅ Kafka(3) - Đến lượt xử lý Order hiệu quả nhất](https://youtu.be/OAPiWUYy9BQ)
 
-20 - [Kafka(3) - Đến lượt xử lý Order hiệu quả nhất](https://youtu.be/OAPiWUYy9BQ)
+21 - [✅ Kafka(4) - Order còn tồn động rất nhiều? Làm sao đây?](https://youtu.be/z3TPi-UDmeY)
 
-21 - [Kafka(4) - Order còn tồn động rất nhiều? Làm sao đây?](https://youtu.be/z3TPi-UDmeY)
+22 - [✅ Redis(1) - OrderTicket() bắt buộc hiểu về LUA vs TRANSACTION trong REDIS](https://youtu.be/ShLzvtglVjM)
 
-22 - [Redis(1) - OrderTicket() bắt buộc hiểu về LUA vs TRANSACTION trong REDIS](https://youtu.be/ShLzvtglVjM)
+23 - [✅ Redis(2): LUA vs TRANSACTION cấp độ doanh nghiệp, lập trình viên cấp cao cần hiểu về ATOMIC](https://youtu.be/I-dDoxy1sv8)
 
-23 - [Redis(2): LUA vs TRANSACTION cấp độ doanh nghiệp, lập trình viên cấp cao cần hiểu về ATOMIC](https://youtu.be/I-dDoxy1sv8)
+24 - [✅ Redis(3) - Lập trình về LUA vì sao các hệ thống đều sử dụng LUA?](https://youtu.be/wNOGLTkEb7I)
 
-24 - [Redis(3) - Lập trình về LUA vì sao các hệ thống đều sử dụng LUA?](https://youtu.be/wNOGLTkEb7I)
+25 - [✅ Redis(4) - Hệ thống bây giờ căng quá, Master/Slave đến đây...](https://youtu.be/fe6yeDRtD0E)
 
-25 - [Redis(4) - Hệ thống bây giờ căng quá, Master/Slave đến đây...](https://youtu.be/fe6yeDRtD0E)
+26 - [✅ Redis (5) - Master đã sập, hệ thống tự động chuyển đổi nhờ Sentinel](https://youtu.be/OrbVP56w9UA)
 
-26 - [Redis5) - Master đã sập, hệ thống tự động chuyển đổi nhờ Sentinel](https://youtu.be/OrbVP56w9UA)
+27 - [✅ Bán hàng tồn kho (StockDeduction), tôi đã TỪNG đổ máu NHƯNG bạn tuyệt đối KHÔNG](https://youtu.be/p8T082hUaXI)
 
-27 - [Bán hàng tồn kho (StockDeduction), tôi đã TỪNG đổ máu NHƯNG bạn tuyệt đối KHÔNG](https://youtu.be/p8T082hUaXI)
+28 - [✅ BA CÁCH TRỪ HÀNG TỒN KHO trong MYSQL: Nhưng Member tôi đã dành cho bạn một CÁCH là CÁCH THỨ 3](https://youtu.be/9Zrxe62vdcs)
 
-28 - [BA CÁCH TRỪ HÀNG TỒN KHO trong MYSQL: Nhưng Member tôi đã dành cho bạn một CÁCH là CÁCH THỨ 3](https://youtu.be/9Zrxe62vdcs)
+29 - [✅ Ngày mở bán bắt đầu, hàng nghìn User truy cập mua vé và kết thúc thành công](https://youtu.be/ROBf8UMAshM)
 
-29 - [Ngày mở bán bắt đầu, hàng nghìn User truy cập mua vé và kết thúc thành công](https://youtu.be/ROBf8UMAshM)
+30 - [✅ Kiểm kê lại dữ liệu phân tán thì chúng tôi thấy đã nhất quán hàng TỒN KHO -> Tuyệt vời](https://youtu.be/8d2nKa82eTM)
 
-30 - [Kiểm kê lại dữ liệu phân tán thì chúng tôi thấy đã nhất quán hàng TỒN KHO -> Tuyệt vời](https://youtu.be/8d2nKa82eTM)
+31 - [✅ Mở rộng khi vực bán vé tàu cho 100 trung tâm bán 5000 ticket mỗi ngày thì dữ liệu đã LỚN rất NHANH](https://youtu.be/jrs2zlyC3Pc)
 
-31 - [Mở rộng khi vực bán vé tàu cho 100 trung tâm bán 5000 ticket mỗi ngày thì dữ liệu đã LỚN rất NHANH](https://youtu.be/jrs2zlyC3Pc)
+32 - [✅ Áp dụng thiết kế quản lý Order của Shopee, chúng tôi hoàn thành việc phân tích và thiết kết Order](https://youtu.be/UKL0x9jijak)
 
-32 - [Áp dụng thiết kế quản lý Order của Shopee, chúng tôi hoàn thành việc phân tích và thiết kết Order](https://youtu.be/UKL0x9jijak)
+33 - [✅ Hiểu biết về SAGA: Giao dịch phân tán - SENIOR](https://youtu.be/CpolDThiuWA)
 
-33 - [Hiểu biết về SAGA: Giao dịch phân tán - SENIOR](https://youtu.be/CpolDThiuWA)
+34 - [Bảng Order đã lớn, chia dữ liệu nhờ vào Kafka - Đang cập nhật]()
 
 ...
-
 
 ## Giá trị của việc học
 
