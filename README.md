@@ -144,7 +144,7 @@ Hiện tại dự án đã khởi động đến section 36
 
 ...
 
-## [👉 JAVA BACKEND - DDD Project -vetautet.com - Dự án có tính đồng thời CAO; Dự án hoàn thành 95%]
+## [👉 JAVA BACKEND - DDD Project: vetautet.com | QPS = 28.000 req/s (Monolithic architecture); Dự án hoàn thành 95% (34/38)]
 
 01 - [✅ SpringBoot 3: CÁCH xây dựng dự án triển khai về DDD bán VÉ TÀU, MUSIC với kiến trúc đồng thời CAO!](https://youtu.be/WFlIoNHD_Yo)
 
