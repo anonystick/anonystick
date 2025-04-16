@@ -214,6 +214,7 @@ Nhiều lập trình viên bình luận rằng hãy dùng SAGA - để hoàn th�
 33 - [✅ Hiểu biết về SAGA: Giao dịch phân tán - SENIOR](https://youtu.be/CpolDThiuWA)
 
 Đây là cách mà lúc trước chưa có nhiều hệ thống hỗ trợ để cải thiện việc truy xuất cũng như lưu trữ trong hệ thống, không AI, không Stacks nhưng đến giờ hệ thống vẫn hoạt động tốt và đơn hàng cũng tăng lên. Nó thật tuyệt...
+
 34 - [✅ Triển khai TINH TẾ một TABLE có dữ liệu tăng lên CHỤC TRIỆU order mỗi tháng của một CỰU CHIẾN BINH năm xưa](https://youtu.be/AGZIx1syYrE)
 
 ...
