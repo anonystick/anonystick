@@ -207,6 +207,8 @@ Hiện tại dự án đã khởi động đến section 36
 
 31 - [✅ Mở rộng khi vực bán vé tàu cho 100 trung tâm bán 5000 ticket mỗi ngày thì dữ liệu đã LỚN rất NHANH](https://youtu.be/jrs2zlyC3Pc)
 
+Khi vào ứng dụng Shopee xem những đơn hàng mà gia đình tôi vừa mua thì tôi thấy cách triển khai UI cũng rất là khoa học, nó đơn giản, chỉ tập trung vào mục đích là xem đơn hàng đã mua, và trạng thái đó thế nào? NHƯNG thật sự tôi đã phát hiện một điều ở cách họ lưu trữ ID, và từ đó tôi đã áp dụng cho hệ thống bán vé tàu về quản lý lưu trữ cũng như truy xuất toàn diện mà không làm tăng chi phí. Đây là ý tưởng thực hiện nó (Orders)...
+
 32 - [✅ Áp dụng thiết kế quản lý Order của Shopee, chúng tôi hoàn thành việc phân tích và thiết kết Order](https://youtu.be/UKL0x9jijak)
 
 Nhiều lập trình viên bình luận rằng hãy dùng SAGA - để hoàn thành việc Distributed Transactions nhưng chưa hề triển khai thực tế như thế nào? Nếu tự tay triển khai thì đây là cách. Cho dù bạn có áp dụng các FW có sẵn nhưng nó vẫn chạy theo một cách tương tự mà thôi. Hãy tự tay triển khai nó được không?
