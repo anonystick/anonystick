@@ -205,6 +205,8 @@ Hiện tại dự án đã khởi động đến section 36
 
 30 - [✅ Kiểm kê lại dữ liệu phân tán thì chúng tôi thấy đã nhất quán hàng TỒN KHO -> Tuyệt vời](https://youtu.be/8d2nKa82eTM)
 
+Khi dữ liệu trong hệ thống bán vé tàu tết chúng tôi thông kê mỗi tháng có thể tăng lên [đến 1,5 triệu order (Đây là con số khiêm tốn, thực tế còn x5 lên như vậy)](https://anonystick.com/blog-developer/mysql-tinh-to-team-di-mua-sam-la-lum-duoc-bi-kip-table-luu-tru-va-truy-van-nhanh-voi-hang-tram-trieu-du-lieu-202504147065323). Lý do rất đơn giản, sau khi hoàn tất những tính năng quan trọng cho việc OpenTicket thì mô hình này được áp dụng cho nhiều trung tâm bán vé với nhiều đại lý liên kết, vì vậy không ngạc nhiên khi dữ liệu chúng tôi lên cao, và nó vượt xa giới hạn của một table trong mysql.
+
 31 - [✅ Mở rộng khi vực bán vé tàu cho 100 trung tâm bán 5000 ticket mỗi ngày thì dữ liệu đã LỚN rất NHANH](https://youtu.be/jrs2zlyC3Pc)
 
 Khi vào ứng dụng Shopee xem những đơn hàng mà gia đình tôi vừa mua thì tôi thấy cách triển khai UI cũng rất là khoa học, nó đơn giản, chỉ tập trung vào mục đích là xem đơn hàng đã mua, và trạng thái đó thế nào? NHƯNG thật sự tôi đã phát hiện một điều ở cách họ lưu trữ ID, và từ đó tôi đã áp dụng cho hệ thống bán vé tàu về quản lý lưu trữ cũng như truy xuất toàn diện mà không làm tăng chi phí. Đây là ý tưởng thực hiện nó (Orders)...
