@@ -209,10 +209,11 @@ Hiện tại dự án đã khởi động đến section 36
 
 32 - [✅ Áp dụng thiết kế quản lý Order của Shopee, chúng tôi hoàn thành việc phân tích và thiết kết Order](https://youtu.be/UKL0x9jijak)
 
+Nhiều lập trình viên bình luận rằng hãy dùng SAGA - để hoàn thành việc Distributed Transactions nhưng chưa hề triển khai thực tế như thế nào? Nếu tự tay triển khai thì đây là cách. Cho dù bạn có áp dụng các FW có sẵn nhưng nó vẫn chạy theo một cách tương tự mà thôi. Hãy tự tay triển khai nó được không?
+
 33 - [✅ Hiểu biết về SAGA: Giao dịch phân tán - SENIOR](https://youtu.be/CpolDThiuWA)
 
 Đây là cách mà lúc trước chưa có nhiều hệ thống hỗ trợ để cải thiện việc truy xuất cũng như lưu trữ trong hệ thống, không AI, không Stacks nhưng đến giờ hệ thống vẫn hoạt động tốt và đơn hàng cũng tăng lên. Nó thật tuyệt...
-
 34 - [✅ Triển khai TINH TẾ một TABLE có dữ liệu tăng lên CHỤC TRIỆU order mỗi tháng của một CỰU CHIẾN BINH năm xưa](https://youtu.be/AGZIx1syYrE)
 
 ...
