@@ -47,7 +47,7 @@ Nếu cố gắng một thời gian thì bạn không những chỉ biết về 
    
 - [NODEJS - Backend API hệ thống eCommercial](https://github.com/anonystick/anonystick/blob/main/README.md#-backend-ecommerce-bao-g%E1%BB%93m-hai-ng%C3%B4n-ng%E1%BB%AF-nodejs--go--30000-vn%C4%91)
 
-Ngoài ra hàng tuần thì tôi cũng hay viết về những công nghệ được sử dụng nhiều nhất trong các dự án hiện nay thông qua series [ĐÀM ĐẠO CÔNG NGHỆ - CỰU CHIẾN BINH - HÀNG TUẦN]() các bạn nếu có sự bình yên vào cuối tuần cũng có thể đọc cho vui tai vui mắt... 
+Ngoài ra hàng tuần thì tôi cũng hay viết về những công nghệ được sử dụng nhiều nhất trong các dự án hiện nay thông qua series [ĐÀM ĐẠO CÔNG NGHỆ - CỰU CHIẾN BINH - HÀNG TUẦN](https://github.com/anonystick/anonystick/blob/main/README.md#-series-%C4%91%C3%A0m-%C4%91%E1%BA%A1o-c%C3%B4ng-ngh%E1%BB%87---c%E1%BB%B1u-chi%E1%BA%BFn-binh---h%C3%A0ng-tu%E1%BA%A7n) các bạn nếu có sự bình yên vào cuối tuần cũng có thể đọc cho vui tai vui mắt... 
 
 
 ## 👋👋👋 Hành trình của INTERN đánh bại SENIOR (Dự án đồng thời cao DDD - Project; phần tóm tắt)
