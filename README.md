@@ -49,6 +49,10 @@ Nếu cố gắng một thời gian thì bạn không những chỉ biết về 
 
 Ngoài ra hàng tuần thì tôi cũng hay viết về những công nghệ được sử dụng nhiều nhất trong các dự án hiện nay thông qua series [ĐÀM ĐẠO CÔNG NGHỆ - CỰU CHIẾN BINH - HÀNG TUẦN](https://github.com/anonystick/anonystick/blob/main/README.md#-series-%C4%91%C3%A0m-%C4%91%E1%BA%A1o-c%C3%B4ng-ngh%E1%BB%87---c%E1%BB%B1u-chi%E1%BA%BFn-binh---h%C3%A0ng-tu%E1%BA%A7n) các bạn nếu có sự bình yên vào cuối tuần cũng có thể đọc cho vui tai vui mắt... 
 
+Tiếp theo là nếu như bạn đã đánh mất thời gian trên GIẢNG ĐƯỜNG thì quay lại cũng sẽ không muộn đúng không? Nhưng quan trọng quay lại thế nào? Điều đó không quan trọng bằng nỗ lực của bạn mỗi ngày mà thôi.
+
+
+
 
 ## 👋👋👋 Hành trình của INTERN đánh bại SENIOR (Dự án đồng thời cao DDD - Project; phần tóm tắt)
 
