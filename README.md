@@ -25,6 +25,7 @@
 <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
 </p>
 
+
 ## 👋👋👋 Con đường Front-End(FE) tới FullStack(FS) và đích đến Backend(BE)
 
 Không cần đao to búa lớn làm gì? Trong một môi trường có nhiều cơ hội tiếp xúc với các dự án có tính đồng thời cao và chính bạn dù ở vị trí nào cũng nên có khả năng thiết kế một hệ thống như vậy đó cũng là một trong những năng lực quan trọng không thể thiếu đối với các lập trình viên hiện nay. 
@@ -46,6 +47,7 @@ Nếu cố gắng một thời gian thì bạn không những chỉ biết về 
    
 - [NODEJS - Backend API hệ thống eCommercial](https://github.com/anonystick/anonystick/blob/main/README.md#-backend-ecommerce-bao-g%E1%BB%93m-hai-ng%C3%B4n-ng%E1%BB%AF-nodejs--go--30000-vn%C4%91)
 
+Ngoài ra hàng tuần thì tôi cũng hay viết về những công nghệ được sử dụng nhiều nhất trong các dự án hiện nay thông qua series [ĐÀM ĐẠO CÔNG NGHỆ - CỰU CHIẾN BINH - HÀNG TUẦN]() các bạn nếu có sự bình yên vào cuối tuần cũng có thể đọc cho vui tai vui mắt... 
 
 
 ## 👋👋👋 Hành trình của INTERN đánh bại SENIOR (Dự án đồng thời cao DDD - Project; phần tóm tắt)
@@ -774,10 +776,16 @@ Link 2024: 👉 Series Message Queue System (Kafka + RabbitMQ) -> Cơ bản đ�
 
 15: [Thực hành về Message Ordered với hai tình huống | RabbitMQ | Microservice Backend](https://youtu.be/XPaqZek9q-A) 
 
+Ngoài ra hàng tuần thì tôi cũng hay viết về những công nghệ được sử dụng nhiều nhất trong các dự án hiện nay thông qua series [ĐÀM ĐẠO CÔNG NGHỆ - CỰU CHIẾN BINH - HÀNG TUẦN]() các bạn nếu có sự bình yên vào cuối tuần cũng có thể đọc cho vui tai vui mắt... 
 
 
+## 👉 Series ĐÀM ĐẠO CÔNG NGHỆ - CỰU CHIẾN BINH - HÀNG TUẦN
 
-### 👉 Series Design Patterns
+Bài viết số 17 là mục đích để hiểu cách triển khai giữa `RPC` và `REST API - gRPC` vì sao thời đó lại là RPC và bây giờ cạn dần và người ta bắt đầu nói về `REST API - gRPC`. Ở đó có những điều ký diệu của những kỹ sư cầu nối..
+17 - [API timeline: RPC vs GRPC - Tản mạn ngày xa xưa](https://anonystick.com/blog-developer/api-timeline-rpc-vs-grpc-2025041986333908)
+
+
+## 👉 Series Design Patterns
 
 1 - [Design patterns cách học như thế nào? Ở đâu và áp dụng khi nào?](https://anonystick.com/blog-developer/design-patterns-la-gi-tu-cuoc-song-den-lap-trinh-va-cach-hoc-trong-1-tuan-meo-kem-tai-lieu-va-source-2022083174167426)
 
