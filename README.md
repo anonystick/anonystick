@@ -43,7 +43,7 @@ Nếu cố gắng một thời gian thì bạn không những chỉ biết về 
 
 - [GO - Backend API hệ thống đồng thời cao vetautet.com](https://github.com/anonystick/anonystick?tab=readme-ov-file#-go-backend---ddd-project-vetautetcom--qps--32000-reqs)
  
-- [NESTJS - Backend API hệ thống đồng thời cao vetautet.com](https://www.youtube.com/playlist?list=PLw0w5s5b9NK7HkcQUBIxjcHPB2DS4UKDg)
+- [NESTJS - Backend API hệ thống MEETING ROOM - FE TO FS](https://www.youtube.com/playlist?list=PLw0w5s5b9NK7HkcQUBIxjcHPB2DS4UKDg)
    
 - [NODEJS - Backend API hệ thống eCommercial](https://github.com/anonystick/anonystick/blob/main/README.md#-backend-ecommerce-bao-g%E1%BB%93m-hai-ng%C3%B4n-ng%E1%BB%AF-nodejs--go--30000-vn%C4%91)
 
