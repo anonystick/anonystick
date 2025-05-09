@@ -39,6 +39,8 @@ Tôi hiểu được tầm quan trọng từ lý thuyết đến thực tế vì
 
 Nếu cố gắng một thời gian thì bạn không những chỉ biết về JAVA mà còn GO, NESTJS và NODEJS... Quan trọng ở chính chúng ta, khi sử dụng thời gian rảnh như thế nào mà thôi. 
 
+Riêng về [NESTJS](https://www.youtube.com/playlist?list=PLw0w5s5b9NK7HkcQUBIxjcHPB2DS4UKDg) thì tôi thiết kế chủ yếu là dành cho các bạn đã quen thuộc với FrontEnd và muốn nâng cao bản thân cũng như phát triển ở một ví trí mới, vì vậy chúng ta sẽ đi KỸ NHẤT CÓ THỂ với các stask trong hệ thống Backend. Còn những DEV nào muốn hiểu về hệ thống chịu tải cao thì JAVA và GO đã phát triển những tính năng đó, nếu số lượng người dùng or request tăng cao trong giờ cao điểm...
+
 - [JAVA - Backend API hệ thống đồng thời cao vetautet.com](https://github.com/anonystick/anonystick/blob/main/README.md#-java-backend---ddd-project-vetautetcom--qps--28000-reqs)
 
 - [GO - Backend API hệ thống đồng thời cao vetautet.com](https://github.com/anonystick/anonystick?tab=readme-ov-file#-go-backend---ddd-project-vetautetcom--qps--32000-reqs)
