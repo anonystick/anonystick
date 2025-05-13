@@ -267,7 +267,7 @@ LINK ĐĂNG KÝ - [Link dăng ký khóa học, tham gia hội viên](https://www
 
 5 - [Sign-up Shop](https://youtu.be/Ha_LFuZ5x1U)
 
-6 - [Middleware apikey and permissions](https://youtu.be/nQxEwBAcYrI)
+6 - [Middleware api key and permissions](https://youtu.be/nQxEwBAcYrI)
 
 7 - [Xử lý ErrorHandler trong API](https://youtu.be/hyF1S0nFS7A)
 
